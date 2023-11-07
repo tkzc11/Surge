@@ -24,4 +24,5 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-PROCESS-NAME,Argo*
+USER-AGENT,Argo*
+PROCESS-NAME,com.netflix.mediaclient
