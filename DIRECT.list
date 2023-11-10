@@ -1,3 +1,4 @@
+# > 抖音
 DOMAIN,aweme.snssdk.com
 DOMAIN,ecomuser.snssdk.com
 DOMAIN,efe.snssdk.com
@@ -24,3 +25,7 @@ DOMAIN,video-cn.snssdk.com
 DOMAIN,video-edge-yz.snssdk.com
 DOMAIN,vcl-brain.snssdk.com
 DOMAIN,xxbg.snssdk.com
+
+# > PikPak
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
