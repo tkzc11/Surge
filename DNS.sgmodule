@@ -7,7 +7,7 @@ ma-adx.ctrip.com = server:quic://393857.dns.nextdns.io
 
 #解析优化
 
-#*gov.hk/210.5.56.145
+#*gov.hk = server:210.5.56.145
 #*.macaotourism.gov.mo = server:quic://393857.dns.nextdns.io
 *tdm.com.mo = server:quic://393857.dns.nextdns.io
 m.dsat.gov.mo = server:quic://393857.dns.nextdns.io
