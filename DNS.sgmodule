@@ -424,6 +424,7 @@ cdn.apple-livephotoskit.com = server:quic://393857.dns.nextdns.io
 *.googleusercontent.com = server:https://1.1.1.1/dns-query // Google 用户上传数据
 *.googleapis.com = server:https://1.1.1.1/dns-query // Google APIs
 *.googleapis.cn = server:https://1.1.1.1/dns-query // Google APIs
+*.googletagservices.com = server:https://1.1.1.1/dns-query
 *.1e100.net = server:https://1.1.1.1/dns-query // Google backbone
 *.youtube = server:https://1.1.1.1/dns-query // Youtube sites
 *.youtube.com = server:https://1.1.1.1/dns-query // Youtube
@@ -689,14 +690,14 @@ acg.tv = server:https://141973.alidns.com/dns-query // BiliBili短网址
 
 # > 🇹🇼 TWN
 # 中华电信
-*.cht.com.tw = server:https://dns.hinet.net/dns-query // 中华电信
-*.hinet.net = server:https://dns.hinet.net/dns-query // 中华电信HiNet
-*.emome.net = server:https://dns.hinet.net/dns-query // 中华电信emome
+#*.cht.com.tw = server:https://dns.hinet.net/dns-query // 中华电信
+*.hinet.net = server:https://101.101.101.101/dns-query // 中华电信HiNet
+*.emome.net = server:https://101.101.101.101/dns-query // 中华电信emome
 # So-net
 # so-net.net.tw = server:ns1.so-net.net.tw // So-net Entertainment Taiwan
 # so-net.tw = server:ns1.so-net.net.tw // So-net Entertainment Taiwan
 # Taiwan Network Information Center
-#*.tw = server:https://dns.twnic.tw/dns-query // TWNIC DNS
+#server:https://dns.twnic.tw/dns-query // TWNIC DNS
 *.tw = server:https://101.101.101.101/dns-query // TWNIC DNS
 *.taipei = server:https://101.101.101.101/dns-query // TWNIC DNS
 
