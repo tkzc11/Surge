@@ -1,53 +1,19 @@
-IP-ASN,15169, Google
-DOMAIN,rr4---sn-8xgp1vo-a5me.googlevideo.com, Google
-DOMAIN-SUFFIX,0emm.com, Google
-DOMAIN-SUFFIX,1e100.net, Google
-DOMAIN-SUFFIX,2mdn.net, Google
-DOMAIN-SUFFIX,amp.dev, Google
-DOMAIN-SUFFIX,apigee.com, Google
-DOMAIN-SUFFIX,app-measurement.net, Google
-DOMAIN-SUFFIX,asp-cc.com, Google
-DOMAIN-SUFFIX,bdn.dev, Google
-DOMAIN-SUFFIX,chat.gle, Google
-DOMAIN-SUFFIX,chromeos.dev, Google
-DOMAIN-SUFFIX,chromercise.com, Google
-DOMAIN-SUFFIX,chromium.org, Google
-DOMAIN-SUFFIX,dart.dev, Google
-DOMAIN-SUFFIX,dartlang.org, Google
-DOMAIN-SUFFIX,dartsearch.net, Google
-DOMAIN-SUFFIX,deepmind.com, Google
-DOMAIN-SUFFIX,fastlane.tools, Google
-DOMAIN-SUFFIX,firebaseapp.com, Google
-DOMAIN-SUFFIX,firebaseio.com, Google
-DOMAIN-SUFFIX,flutter.dev, Google
-DOMAIN-SUFFIX,flutterapp.com, Google
-DOMAIN-SUFFIX,g-tun.com, Google
-DOMAIN-SUFFIX,gateway.dev, Google
-DOMAIN-SUFFIX,gcp.gvt2.com, Google
-DOMAIN-SUFFIX,google-syndication.com, Google
-DOMAIN-SUFFIX,googleacquisitionmigration.com, Google
-DOMAIN-SUFFIX,googleadapis.com, Google
-DOMAIN-SUFFIX,googlearth.com, Google
-DOMAIN-SUFFIX,googletagservices.com, Google
-DOMAIN-SUFFIX,googleventures.com, Google
-DOMAIN-SUFFIX,gv.com, Google
-DOMAIN-SUFFIX,gwtproject.org, Google
-DOMAIN-SUFFIX,like.com, Google
-DOMAIN-SUFFIX,neverware.com, Google
-DOMAIN-SUFFIX,onefifteen.org, Google
-DOMAIN-SUFFIX,orbitera.com, Google
-DOMAIN-SUFFIX,projectara.com, Google
-DOMAIN-SUFFIX,publishproxy.com, Google
-DOMAIN-SUFFIX,redhotlabs.com, Google
-DOMAIN-SUFFIX,snapseed.com, Google
-DOMAIN-SUFFIX,txcloud.net, Google
-DOMAIN-SUFFIX,v8.dev, Google
-DOMAIN-SUFFIX,web.app, Google
-DOMAIN-SUFFIX,web.dev, Google
-DOMAIN-SUFFIX,xn--9kr7l.com, Google
-DOMAIN-SUFFIX,xn--9trs65b.com, Google
-DOMAIN-SUFFIX,xn--flw351e.com, Google
-DOMAIN-SUFFIX,xn--ggle-55da.com, Google
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com, Google
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com, Google
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c, Google
+IP-ASN,15169
+DOMAIN,rr4---sn-8xgp1vo-a5me.googlevideo.com
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromercise.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,googleventures.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,redhotlabs.com
+DOMAIN-SUFFIX,v8.dev
+DOMAIN-SUFFIX,web.app
