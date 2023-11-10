@@ -526,14 +526,14 @@ goo.gl = server:https://1.1.1.1/dns-query // Google URL Shortener
 *.zjcdn.com = server:https://141973.alidns.com/dns-query // 字节跳动 CDN
 
 # > Cloudflare
-*.cloudflare.com = server:https://cloudflare-dns.com/dns-query // Cloudflare
-*.cloudflarestream.com = server:https://cloudflare-dns.com/dns-query // Cloudflare Stream
-*.cloudflareclient.com = server:https://cloudflare-dns.com/dns-query // Cloudflare Client
-*.cloudflareinsights.com = server:https://cloudflare-dns.com/dns-query // Cloudflare Web Analytics
-*.every1dns.net = server:https://cloudflare-dns.com/dns-query // Cloudflare 1.1.1.1
-# *.cloudflaressl.com = server:https://cloudflare-dns.com/dns-query // Cloudflare SSL Certificate
-*.cloudflare-dns.com = server:https://cloudflare-dns.com/dns-query // Cloudflare DNS
-*.workers.dev = server:https://cloudflare-dns.com/dns-query // CloudFlare Workers
+*.cloudflare.com = server:https://1.1.1.1/dns-query // Cloudflare
+*.cloudflarestream.com = server:https://1.1.1.1/dns-query // Cloudflare Stream
+*.cloudflareclient.com = server:https://1.1.1.1/dns-query // Cloudflare Client
+*.cloudflareinsights.com = server:https://1.1.1.1/dns-query // Cloudflare Web Analytics
+*.every1dns.net = server:https://1.1.1.1/dns-query // Cloudflare 1.1.1.1
+# *.cloudflaressl.com = server:https://1.1.1.1/dns-query // Cloudflare SSL Certificate
+*.1.1.1.1 = server:https://1.1.1.1/dns-query // Cloudflare DNS
+*.workers.dev = server:https://1.1.1.1/dns-query // CloudFlare Workers
 
 # > 阿里巴巴
 *.alibaba.cn = server:https://141973.alidns.com/dns-query // 阿里巴巴
