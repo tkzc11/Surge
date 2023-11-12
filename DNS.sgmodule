@@ -202,6 +202,7 @@ www.yahoo.com = server:https://101.101.101.101/dns-query
 *.bankofchina.com = server:https://141973.alidns.com/dns-query
 *.bdxiguaimg.com = server:https://141973.alidns.com/dns-query
 *.boc.cn = server:https://141973.alidns.com/dns-query
+*.butterapis.com = server:https://141973.alidns.com/dns-query
 *.bybutter.com = server:https://141973.alidns.com/dns-query
 *.cathaypacific.com = server:https://141973.alidns.com/dns-query
 *caiyunapp.com = server:https://141973.alidns.com/dns-query
