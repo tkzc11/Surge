@@ -142,6 +142,7 @@ globalapi.smart2pay.com = server:quic://393857.dns.nextdns.io
 *.playstation.com = server:quic://393857.dns.nextdns.io
 *.spotify.com = server:quic://393857.dns.nextdns.io
 *.spotifycdn.com = server:quic://393857.dns.nextdns.io
+*.scdn.co = server:quic://393857.dns.nextdns.io
 *.squarespace.com = server:quic://393857.dns.nextdns.io
 *.tamedia.com.tw = server:quic://393857.dns.nextdns.io
 *.timeanddate.com = server:quic://393857.dns.nextdns.io
