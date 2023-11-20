@@ -386,3 +386,5 @@ DOMAIN-SUFFIX,zoomanalytics.co
 DOMAIN,hub5idx.v6.shub.sandai.net
 DOMAIN,hub5emu.v6.shub.sandai.net
 DOMAIN,hub5btmain.v6.shub.sandai.net
+
+URL-REGEX,^http:\/\/api-htp\.beizi\.biz
