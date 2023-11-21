@@ -84,7 +84,6 @@ DOMAIN,cdn.taboola.com
 DOMAIN,cdn.viglink.com
 DOMAIN,cdn.wwads.cn
 DOMAIN,cdn2.inner-active.mobi
-DOMAIN,cdn-pci.optimizely.com
 DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,cf.prd.media.h264.io
@@ -339,6 +338,7 @@ DOMAIN-SUFFIX,mutinycdn.com
 DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parrable.com
