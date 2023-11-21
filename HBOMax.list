@@ -12,12 +12,14 @@ DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbounify-prod.evergent.com
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,now-tv.com
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,api.discomax.com
-PROCESS-NAME,HBOMAX*
-PROCESS-NAME,MAX*
+USER-AGENT,HBO%20NOW*
+USER-AGENT,HBOMAX*
+USER-AGENT,MAX*
+PROCESS-NAME,com.hbo.hbonow
