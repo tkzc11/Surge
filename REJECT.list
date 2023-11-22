@@ -216,8 +216,6 @@ DOMAIN,s.orbsrv.com
 DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,scaredsnakes.com
-DOMAIN,sdk.fra-01.braze.eu
-DOMAIN,sdk.iad-03.braze.com
 DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,sdk.open.talk.igexin.com
 DOMAIN,sdk.ssp.admobile.top
@@ -310,6 +308,8 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,chartbeat.com
