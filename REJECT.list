@@ -38,8 +38,10 @@ DOMAIN,advertise.baicizhan.org
 DOMAIN,alb.reddit.com
 DOMAIN,analytics.cloud.coveo.com
 DOMAIN,analytics.slashdotmedia.com
+DOMAIN,analytics.starz.com
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
+DOMAIN,api.apptentive.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.sprig.com
@@ -76,6 +78,7 @@ DOMAIN,c.msn.com
 DOMAIN,c.office.com
 DOMAIN,c1.adform.net
 DOMAIN,c2shb.ssp.yahoo.com
+DOMAIN,cbs-stage.hb-api.omtrdc.net
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.mobilefuse.com
@@ -297,6 +300,7 @@ DOMAIN-SUFFIX,m1.ad.10010.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
@@ -313,10 +317,12 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,chartbeat.com
+DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
@@ -346,6 +352,7 @@ DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,pardot.com
