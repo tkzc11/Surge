@@ -24,7 +24,6 @@ DOMAIN,adc-ad-assets.adtilt.com
 DOMAIN,adf0901f1861.cdn4.forter.com
 DOMAIN,adobemobiledev.data.adobedc.net
 DOMAIN,adproxy.autohome.com.cn
-DOMAIN,ads-a-darwin.hulustream.com
 DOMAIN,ads-api.twitter.com
 DOMAIN,ads.adfox.ru
 DOMAIN,ads.pubmatic.com
@@ -399,3 +398,5 @@ DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
+
+DOMAIN-KEYWORD,-darwin.hulustream.com
