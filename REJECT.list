@@ -77,7 +77,6 @@ DOMAIN,c.msn.com
 DOMAIN,c.office.com
 DOMAIN,c1.adform.net
 DOMAIN,c2shb.ssp.yahoo.com
-DOMAIN,cbs-stage.hb-api.omtrdc.net
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.mobilefuse.com
@@ -167,7 +166,6 @@ DOMAIN,ipgeo.wlvpn.com
 DOMAIN,is.snssdk.com
 DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.monitor.azure.com
-DOMAIN,js-agent.newrelic.com
 DOMAIN,kuaishou.httpdns.pro
 DOMAIN,log.b612kaji.com
 DOMAIN,logs.chelaile.net.cn
@@ -186,8 +184,6 @@ DOMAIN,mon.snssdk.com
 DOMAIN,mparticle.weather.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
-DOMAIN,nbcstreaming.hb-api.omtrdc.net
-DOMAIN,nbcstreaming.sc.omtrdc.net
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nt2.ele.me
@@ -354,6 +350,7 @@ DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
