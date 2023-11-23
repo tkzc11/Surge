@@ -197,6 +197,7 @@ DOMAIN,p9.pstatp.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pangolin.snssdk.com
 DOMAIN,personalization.bloomberg.com
+DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pixel.adsafeprotected.com
 DOMAIN,pixel.zprk.io
@@ -323,6 +324,7 @@ DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,fivecdm.com
@@ -334,6 +336,7 @@ DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hubcloud.com.cn
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,innovid.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,liadm.com
@@ -367,6 +370,7 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,sentiance.com
 DOMAIN-SUFFIX,serverbid.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shouji.sougou.com
