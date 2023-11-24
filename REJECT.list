@@ -131,6 +131,8 @@ DOMAIN,events.mz.unity3d.com
 DOMAIN,fc.yahoo.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,fls-eu.amazon.com
+DOMAIN,fls-na.amazon.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,freestar-io.videoplayerhub.com
 DOMAIN,geo.yahoo.com
@@ -211,8 +213,10 @@ DOMAIN,qzs.gdtimg.com
 DOMAIN,rili.callmekeji.com
 DOMAIN,rp.hpplay.cn
 DOMAIN,rt.applovin.com
+DOMAIN,s.deepl.com
 DOMAIN,s.orbsrv.com
 DOMAIN,s3t3d2y7.ackcdn.net
+DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,scaredsnakes.com
 DOMAIN,sdk.open.talk.gepush.com
