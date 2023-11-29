@@ -11,6 +11,8 @@ DOMAIN,abtest.alibaba.com
 DOMAIN,abtest-tx-beijing-01.saas.sensorsdata.cn
 DOMAIN,acsbap.com
 DOMAIN,ad-delivery.net
+DOMAIN,ad.21cn.com
+DOMAIN,ad.k.21cn.com
 DOMAIN,ad.bczcdn.com
 DOMAIN,ad.cyapi.cn
 DOMAIN,ad.turn.com
@@ -23,6 +25,7 @@ DOMAIN,adashx.ut.youku.com
 DOMAIN,adc-ad-assets.adtilt.com
 DOMAIN,apex.go.sonobi.com
 DOMAIN,adf0901f1861.cdn4.forter.com
+DOMAIN,admarket.21cn.com
 DOMAIN,adobemobiledev.data.adobedc.net
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,ads-api.twitter.com
@@ -32,6 +35,7 @@ DOMAIN,adserver.adtech.advertising.com
 DOMAIN,adservice.sigmob.cn
 DOMAIN,adservice.google.com
 DOMAIN,adservice.google.ru
+DOMAIN,adshows.21cn.com
 DOMAIN,adtag.sphdigital.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
@@ -45,7 +49,6 @@ DOMAIN,api.apptentive.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.sprig.com
-DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
 DOMAIN,api-c.dutils.com
@@ -112,6 +115,7 @@ DOMAIN,creativecdn.com
 DOMAIN,cu-cn-north00002.gala.convection.cn
 DOMAIN,dashboard.tinypass.com
 DOMAIN,data.flurry.com
+DOMAIN,data.mistat.xiaomi.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,dcf.espn.com
 DOMAIN,device-metrics-us.amazon.com
@@ -275,11 +279,13 @@ DOMAIN,tosv.byted.org
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,tr.snapchat.com
 DOMAIN,tracker.nbcuas.com
+DOMAIN,tracking.intl.miui.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,visitor.omnitagjs.com
+DOMAIN, waapdg.jd.com
 DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
@@ -302,7 +308,7 @@ DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-web-analytics.zhihu.com
 
 DOMAIN-SUFFIX,8le8le.com
-DOMAIN-SUFFIX,m1.ad.10010.com
+DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adkwai.com
@@ -329,6 +335,7 @@ DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,dewrain.life
+DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,everestop.io
