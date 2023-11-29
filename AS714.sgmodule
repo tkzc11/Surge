@@ -160,26 +160,26 @@ IP-CIDR,17.76.8.0/22,🇮🇳 India
 IP-CIDR,17.33.146.0/24,🇮🇳 India
 
 # > AE
-;IP-CIDR,17.69.224.0/21,🇦🇪 United Arab Emirates
-;IP-CIDR,17.15.48.0/23,🇦🇪 United Arab Emirates
+#IP-CIDR,17.69.224.0/21,🇦🇪 United Arab Emirates
+#IP-CIDR,17.15.48.0/23,🇦🇪 United Arab Emirates
 
 # > IL
-;IP-CIDR,17.69.35.0/24,🇮🇱 Israel
-;IP-CIDR,17.77.220.0/22,🇮🇱 Israel
-;IP-CIDR,17.77.224.0/20,🇮🇱 Israel
-;IP-CIDR,17.78.64.0/18,🇮🇱 Israel
-;IP-CIDR,17.79.0.0/16,🇮🇱 Israel
-;IP-CIDR,17.79.0.0/20,🇮🇱 Israel
-;IP-CIDR,17.235.240.0/20,🇮🇱 Israel
-;IP-CIDR,17.66.160.0/20,🇮🇱 Israel
-;IP-CIDR,17.66.176.0/22,🇮🇱 Israel
-;IP-CIDR,17.69.112.0/20,🇮🇱 Israel
-;IP-CIDR,17.78.160.0/19,🇮🇱 Israel
-;IP-CIDR,17.77.44.0/24,🇮🇱 Israel
-;IP-CIDR,17.77.46.0/23,🇮🇱 Israel
-;IP-CIDR,17.77.56.0/23,🇮🇱 Israel
-;IP-CIDR,17.77.58.0/23,🇮🇱 Israel
-;IP-CIDR,17.79.47.0/24,🇮🇱 Israel
+#IP-CIDR,17.69.35.0/24,🇮🇱 Israel
+#IP-CIDR,17.77.220.0/22,🇮🇱 Israel
+#IP-CIDR,17.77.224.0/20,🇮🇱 Israel
+#IP-CIDR,17.78.64.0/18,🇮🇱 Israel
+#IP-CIDR,17.79.0.0/16,🇮🇱 Israel
+#IP-CIDR,17.79.0.0/20,🇮🇱 Israel
+#IP-CIDR,17.235.240.0/20,🇮🇱 Israel
+#IP-CIDR,17.66.160.0/20,🇮🇱 Israel
+#IP-CIDR,17.66.176.0/22,🇮🇱 Israel
+#IP-CIDR,17.69.112.0/20,🇮🇱 Israel
+#IP-CIDR,17.78.160.0/19,🇮🇱 Israel
+#IP-CIDR,17.77.44.0/24,🇮🇱 Israel
+#IP-CIDR,17.77.46.0/23,🇮🇱 Israel
+#IP-CIDR,17.77.56.0/23,🇮🇱 Israel
+#IP-CIDR,17.77.58.0/23,🇮🇱 Israel
+#IP-CIDR,17.79.47.0/24,🇮🇱 Israel
 
 # > TR
 IP-CIDR,17.67.198.0/23,🇹🇷 Turkey
@@ -1196,14 +1196,14 @@ IP-CIDR,17.44.140.0/22,🇨🇦 Canada
 IP-CIDR,17.23.34.0/24,🇨🇦 Canada
 
 # > MX
-;IP-CIDR,17.50.72.0/21,🇲🇽 Mexico
-;IP-CIDR,17.45.80.0/21,🇲🇽 Mexico
-;IP-CIDR,17.50.48.0/21,🇲🇽 Mexico
+#IP-CIDR,17.50.72.0/21,🇲🇽 Mexico
+#IP-CIDR,17.45.80.0/21,🇲🇽 Mexico
+#IP-CIDR,17.50.48.0/21,🇲🇽 Mexico
 
 # > BR
-;IP-CIDR,17.48.30.0/24,🇧🇷 Brazil
-;IP-CIDR,17.48.16.0/21,🇧🇷 Brazil
-;IP-CIDR,17.43.176.0/21,🇧🇷 Brazil
+#IP-CIDR,17.48.30.0/24,🇧🇷 Brazil
+#IP-CIDR,17.48.16.0/21,🇧🇷 Brazil
+#IP-CIDR,17.43.176.0/21,🇧🇷 Brazil
 
 # > DE
 IP-CIDR,17.0.99.0/24,🇩🇪 Germany
@@ -1229,7 +1229,7 @@ IP-CIDR,17.23.41.0/24,🇫🇷 France
 IP-CIDR,17.23.40.0/24,🇫🇷 France
 
 # > IT
-;IP-CIDR,17.69.80.0/22,🇮🇹 Italy
+#IP-CIDR,17.69.80.0/22,🇮🇹 Italy
 
 # > NL
 IP-CIDR,17.67.64.0/22,🇳🇱 Netherlands
@@ -1255,8 +1255,8 @@ IP-CIDR,17.181.48.0/21,🇳🇱 Netherlands
 IP-CIDR,17.15.196.0/22,🇳🇱 Netherlands
 
 # > PT
-;IP-CIDR,17.72.64.0/18,🇵🇹 Portugal
-;IP-CIDR,17.72.64.0/19,🇵🇹 Portugal
+#IP-CIDR,17.72.64.0/18,🇵🇹 Portugal
+#IP-CIDR,17.72.64.0/19,🇵🇹 Portugal
 
 # > CH
 IP-CIDR,17.67.80.0/20,🇨🇭 Switzerland
@@ -1275,13 +1275,13 @@ IP-CIDR,17.79.64.0/18,🇬🇧 United Kingdom
 IP-CIDR,17.79.43.0/24,🇬🇧 United Kingdom
 
 # > IE
-;IP-CIDR,17.64.0.0/16,🇮🇪 Ireland
-;IP-CIDR,17.65.0.0/16,🇮🇪 Ireland
-;IP-CIDR,17.66.0.0/16,🇮🇪 Ireland
-;IP-CIDR,17.69.34.0/24,🇮🇪 Ireland
-;IP-CIDR,17.235.224.0/20,🇮🇪 Ireland
-;IP-CIDR,17.242.119.0/24,🇮🇪 Ireland
-;IP-CIDR,17.8.130.0/24,🇮🇪 Ireland
+#IP-CIDR,17.64.0.0/16,🇮🇪 Ireland
+#IP-CIDR,17.65.0.0/16,🇮🇪 Ireland
+#IP-CIDR,17.66.0.0/16,🇮🇪 Ireland
+#IP-CIDR,17.69.34.0/24,🇮🇪 Ireland
+#IP-CIDR,17.235.224.0/20,🇮🇪 Ireland
+#IP-CIDR,17.242.119.0/24,🇮🇪 Ireland
+#IP-CIDR,17.8.130.0/24,🇮🇪 Ireland
 
 # > FI
 IP-CIDR,17.67.8.0/22,🇫🇮 Finland
@@ -1293,16 +1293,16 @@ IP-CIDR,17.69.64.0/21,🇸🇪 Sweden
 IP-CIDR,17.248.150.0/24,🇸🇪 Sweden
 
 # > DK
-;IP-CIDR,17.248.249.0/24,🇩🇰 Denmark
-;IP-CIDR,17.132.76.0/23,🇩🇰 Denmark
-;IP-CIDR,17.253.224.0/23,🇩🇰 Denmark
-;IP-CIDR,17.67.116.0/22,🇩🇰 Denmark
-;IP-CIDR,17.61.128.0/17,🇩🇰 Denmark
-;IP-CIDR,17.66.120.0/21,🇩🇰 Denmark
+#IP-CIDR,17.248.249.0/24,🇩🇰 Denmark
+#IP-CIDR,17.132.76.0/23,🇩🇰 Denmark
+#IP-CIDR,17.253.224.0/23,🇩🇰 Denmark
+#IP-CIDR,17.67.116.0/22,🇩🇰 Denmark
+#IP-CIDR,17.61.128.0/17,🇩🇰 Denmark
+#IP-CIDR,17.66.120.0/21,🇩🇰 Denmark
 
 # > ZA
-;IP-CIDR,17.0.117.0/24,🇿🇦 South Africa
-;IP-CIDR,17.248.151.0/24,🇿🇦 South Africa
-;IP-CIDR,17.253.110.0/24,🇿🇦 South Africa
-;IP-CIDR,17.248.215.0/24,🇿🇦 South Africa
-;IP-CIDR,17.8.136.0/24,🇿🇦 South Africa
+#IP-CIDR,17.0.117.0/24,🇿🇦 South Africa
+#IP-CIDR,17.248.151.0/24,🇿🇦 South Africa
+#IP-CIDR,17.253.110.0/24,🇿🇦 South Africa
+#IP-CIDR,17.248.215.0/24,🇿🇦 South Africa
+#IP-CIDR,17.8.136.0/24,🇿🇦 South Africa
