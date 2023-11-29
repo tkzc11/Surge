@@ -57,6 +57,7 @@ DOMAIN,app.adjust.com
 DOMAIN,app.adjust.net.in
 DOMAIN,app.adjust.world
 DOMAIN,app-monitor.ele.me
+DOMAIN,applog.matrix.easebar.com
 DOMAIN,applog.uc.cn
 DOMAIN,appsrv.display.io
 DOMAIN,app-30330ebb9cf67052.mobileapi.usebutton.com
@@ -122,8 +123,10 @@ DOMAIN,disney.demdex.net
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
 DOMAIN,dsb.yahoo.co.jp
+DOMAIN,douyinhelper.com
 DOMAIN,dpm.demdex.net 
 DOMAIN,dynamic.zol.com.cn
+DOMAIN,edge.ads.twitch.tv
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
@@ -280,6 +283,7 @@ DOMAIN,visitor.omnitagjs.com
 DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN,who.nie.easebar.com
 DOMAIN,wkrd.tingyun.com
 DOMAIN,ws.tapjoyads.com
 DOMAIN,wwads.cn
