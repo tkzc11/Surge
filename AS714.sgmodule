@@ -1,4 +1,9 @@
-#714 //Region by IP-CIDR
+#!name=AS714
+#!desc=分流修正
+
+#AS714 //Region by IP-CIDR
+
+[RULE]
 
 # > HK
 IP-CIDR,17.0.176.0/20,🇭🇰 Hong Kong
