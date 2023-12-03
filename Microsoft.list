@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,msecnd.net
 #DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftconnectest.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,mwf-service.akamaized.net
