@@ -4,7 +4,6 @@ DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a.beap.gemini.yahoo.com
-DOMAIN,a.orbsrv.com
 DOMAIN,a.pixiv.org
 DOMAIN,aa.agkn.com
 DOMAIN,abtest.alibaba.com
@@ -222,7 +221,6 @@ DOMAIN,rili.callmekeji.com
 DOMAIN,rp.hpplay.cn
 DOMAIN,rt.applovin.com
 DOMAIN,s.deepl.com
-DOMAIN,s.orbsrv.com
 DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sb.scorecardresearch.com
@@ -358,7 +356,6 @@ DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mparticle.com
