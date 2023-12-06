@@ -67,7 +67,8 @@ DOMAIN,app-alpha.bytedance.net
 DOMAIN,app-analytics-v2.snapchat.com
 DOMAIN,app-measurement.com
 DOMAIN,assets.prod.leanplum.com
-#DOMAIN,beacon.shazam.com
+DOMAIN,basejumper.apple.com //Empty Eesult
+DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
 DOMAIN,bh.contextweb.com
 DOMAIN,books-analytics-events.apple.com
@@ -156,6 +157,7 @@ DOMAIN,i2-vymzjliplcagmhbrooitrwuqbopdsg.init.cedexis-radar.net
 DOMAIN,ib.adnxs.com
 DOMAIN,ib.snssdk.com
 DOMAIN,ice.360yield.com
+DOMAIN,ichnaea-web.netflix.com
 DOMAIN,id.cxense.com
 DOMAIN,id.geistm.com
 DOMAIN,id5-sync.com
