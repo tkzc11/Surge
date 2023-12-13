@@ -1,5 +1,7 @@
 #!name=小红书live图无水印保存
 #!desc=小红书去广告、解除下载限制、画质增强等
+[General]
+skip-proxy = *.xiaohongshu.com
 
 [Script]
 xiaohongshu = type=http-response, pattern=https://edith.xiaohongshu.com/api/sns/v2/note/feed, script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaohongshu/xiaohongshu.js, requires-body=true, max-size=-1, timeout=60
