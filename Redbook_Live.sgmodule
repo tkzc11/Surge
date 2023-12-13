@@ -1,0 +1,6 @@
+#!name=小红书live图无水印保存
+#!desc=小红书去广告、解除下载限制、画质增强等
+
+[Script]
+xiaohongshu = type=http-response, pattern=https://edith.xiaohongshu.com/api/sns/v2/note/feed, script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaohongshu/xiaohongshu.js, requires-body=true, max-size=-1, timeout=60
+red_book_live_v2 = type=http-response, pattern=https://edith.xiaohongshu.com/api/sns/v1/note/live_photo/save, script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaohongshu/red_book_live_v2.js, requires-body=true, max-size=-1, timeout=60
