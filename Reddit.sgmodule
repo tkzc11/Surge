@@ -9,4 +9,4 @@ skip-proxy=*.reddit.com
 Reddit = type=http-response,pattern=^https?:\/\/gql(-fed)?\.reddit\.com,requires-body=1,max-size=0,timeout=30,script-path=https://raw.githubusercontent.com/tkzc11/Surge/main/Reddit.js
 
 [MITM]
-hostname = %APPEND%, gql.reddit.com, gql-fed.reddit.com
+hostname = %APPEND% gql.reddit.com, gql-fed.reddit.com
