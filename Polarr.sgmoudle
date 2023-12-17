@@ -1,0 +1,10 @@
+#!name=Polarr
+#!desc=解锁Polarr Studio
+#!Author: @ios151 由三岁提供.hcc脚本进行更改
+[MITM]
+
+hostname = %APPEND% api.polaxiong.com
+
+[Script]
+
+pola = type=http-response, pattern=^https?:\/\/.*\/v1\/payments\/(appleiap\/receipts\/confirmation|profiles\/@me\/subscription), script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/pola.js, requires-body=true, max-size=-1, timeout=60
