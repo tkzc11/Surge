@@ -69,7 +69,8 @@ DOMAIN,app-alpha.bytedance.net
 DOMAIN,app-analytics-v2.snapchat.com
 DOMAIN,app-measurement.com
 DOMAIN,assets.prod.leanplum.com
-DOMAIN,basejumper.apple.com //Empty Eesult
+#DOMAIN,basejumper.apple.com //Empty Result
+DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
 DOMAIN,bh.contextweb.com
@@ -272,6 +273,7 @@ DOMAIN,sync.outbrain.com
 DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
 DOMAIN,t.appsflyer.com
+DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
 DOMAIN,tcbox.baidu.com
 DOMAIN,tdsdk.xdrig.com
@@ -324,6 +326,7 @@ DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,adxvip.com
+DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,anythinktech.com
