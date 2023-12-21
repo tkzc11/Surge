@@ -69,7 +69,7 @@ DOMAIN,app-alpha.bytedance.net
 DOMAIN,app-analytics-v2.snapchat.com
 DOMAIN,app-measurement.com
 DOMAIN,assets.prod.leanplum.com
-#DOMAIN,basejumper.apple.com //Empty Result
+DOMAIN,basejumper.apple.com //Empty Result
 DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
