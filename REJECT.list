@@ -117,6 +117,7 @@ DOMAIN,control.kochava.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,creativecdn.com
 DOMAIN,cu-cn-north00002.gala.convection.cn
+DOMAIN,da.mmarket.com
 DOMAIN,dashboard.tinypass.com
 DOMAIN,data.flurry.com
 DOMAIN,data.mistat.xiaomi.com
@@ -184,9 +185,11 @@ DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.monitor.azure.com
 DOMAIN,kuaishou.httpdns.pro
 DOMAIN,log.b612kaji.com
-DOMAIN,logs.chelaile.net.cn
 DOMAIN,log.umsns.com
+DOMAIN,logs.chelaile.net.cn
 DOMAIN,logx.optimizely.com
+DOMAIN,log1.cmpassport.com
+DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,m.api.forter.com
 DOMAIN,mc.yandex.ru
