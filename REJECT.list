@@ -25,7 +25,11 @@ DOMAIN,adashx.ut.ele.me
 DOMAIN,adashx.ut.hzshudian.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adc-ad-assets.adtilt.com
+DOMAIN,adcdn.tencentmusic.com
+DOMAIN,adcdn6.tencentmusic.com
+DOMAIN,adclick.tencentmusic.com
 DOMAIN,apex.go.sonobi.com
+DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adf0901f1861.cdn4.forter.com
 DOMAIN,admarket.21cn.com
 DOMAIN,adobemobiledev.data.adobedc.net
@@ -40,6 +44,7 @@ DOMAIN,adservice.google.com
 DOMAIN,adservice.google.ru
 DOMAIN,adshows.21cn.com
 DOMAIN,adtag.sphdigital.com
+DOMAIN,adstats.tencentmusic.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
 DOMAIN,alb.reddit.com
@@ -195,6 +200,7 @@ DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,m.api.forter.com
+DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
 DOMAIN,media.trafficjunky.com
 DOMAIN,metrics.icloud.com
@@ -203,6 +209,7 @@ DOMAIN,mobiletelemetry.ebay.com
 DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mon.isnssdk.com
 DOMAIN,mon.snssdk.com
+DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
@@ -212,6 +219,7 @@ DOMAIN,networksdk.ssacdn.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nt2.ele.me
 DOMAIN,ocean.sankuai.com
+DOMAIN,oth.str.mdt.qq.com
 DOMAIN,p1.pstatp.com
 DOMAIN,p9.pstatp.com
 DOMAIN,pagead2.googlesyndication.com
@@ -242,6 +250,7 @@ DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,scaredsnakes.com
+DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,sdk.open.talk.igexin.com
 DOMAIN,sdk.ssp.admobile.top
@@ -284,6 +293,7 @@ DOMAIN,sysdk.cl2009.com
 DOMAIN,t.appsflyer.com
 DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
+DOMAIN,tangram.e.qq.com
 DOMAIN,tcbox.baidu.com
 DOMAIN,tdsdk.xdrig.com
 DOMAIN,tdsdk-ip6.xdrig.com
@@ -302,7 +312,7 @@ DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,visitor.omnitagjs.com
-DOMAIN, waapdg.jd.com
+DOMAIN,waapdg.jd.com
 DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
@@ -366,6 +376,7 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,innovid.com
