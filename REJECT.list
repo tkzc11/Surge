@@ -206,6 +206,8 @@ DOMAIN,mon.snssdk.com
 DOMAIN,mparticle.weather.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
+DOMAIN,mtteve.beacon.qq.com
+DOMAIN,mttstr.beacon.qq.com
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nt2.ele.me
@@ -217,6 +219,7 @@ DOMAIN,pangolin.snssdk.com
 DOMAIN,personalization.bloomberg.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
+DOMAIN,pingfore.qq.com
 DOMAIN,pixel.adsafeprotected.com
 DOMAIN,pixel.wp.com
 DOMAIN,pixel.zprk.io
