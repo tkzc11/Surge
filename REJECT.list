@@ -21,6 +21,7 @@ DOMAIN,adapi.izuiyou.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adashx.ut.amap.com
 DOMAIN,adashx.ut.ele.me
 DOMAIN,adashx.ut.hzshudian.com
 DOMAIN,adashx.ut.youku.com
@@ -58,6 +59,7 @@ DOMAIN,api.apptentive.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.sprig.com
+DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
 DOMAIN,api-c.dutils.com
@@ -96,6 +98,7 @@ DOMAIN,c2shb.ssp.yahoo.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.mobilefuse.com
+DOMAIN,cdn.quantummetric.com
 DOMAIN,cdn.segment.com
 DOMAIN,cdn.sophi.io
 DOMAIN,cdn.tinypass.com
@@ -131,6 +134,7 @@ DOMAIN,data.flurry.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,dcf.espn.com
+DOMAIN,dev.visualwebsiteoptimizer.com
 DOMAIN,device-metrics-us.amazon.com
 DOMAIN,device-metrics-us-2.amazon.com
 DOMAIN,dig.bdurl.net
@@ -157,10 +161,12 @@ DOMAIN,fls-na.amazon.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,freestar-io.videoplayerhub.com
 DOMAIN,geo.yahoo.com
+DOMAIN,geo.query.yahoo.com
 DOMAIN,h-adashx.ut.ele.me
 DOMAIN,h-adashx.ut.cainiao.com
 DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,h-sdk.online-metrix.net
 DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.kwd.inkuai.com
@@ -192,8 +198,10 @@ DOMAIN,is.snssdk.com
 DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.monitor.azure.com
 DOMAIN,kuaishou.httpdns.pro
+DOMAIN,lf3-hscdn-tos.pstatp.com // Empty DNS Result
 DOMAIN,log.b612kaji.com
 DOMAIN,log.umsns.com
+DOMAIN,loggw-ex.alipay.com
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,logx.optimizely.com
 DOMAIN,log1.cmpassport.com
@@ -310,6 +318,7 @@ DOMAIN,tracking.intl.miui.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,unagi-na.amazon.com
+DOMAIN,uri6.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,visitor.omnitagjs.com
 DOMAIN,waapdg.jd.com
@@ -384,6 +393,7 @@ DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,log.mgtv.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
