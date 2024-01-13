@@ -67,6 +67,7 @@ DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
 DOMAIN,api.statsig.com
 DOMAIN,apis.alenable.com
+DOMAIN,api2.amplitude.com
 DOMAIN,app.adjust.com
 DOMAIN,app.adjust.net.in
 DOMAIN,app.adjust.world
@@ -269,6 +270,7 @@ DOMAIN,segment-data-us-east.zqtk.net
 DOMAIN,seoab.io
 DOMAIN,services.brightline.tv
 DOMAIN,sessions.bugsnag.com
+DOMAIN,settings-win.data.microsoft.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,sis.jpush.io
 DOMAIN,skadnetworks.fyber.com
@@ -314,6 +316,7 @@ DOMAIN,tosv.byted.org
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,tr.snapchat.com
 DOMAIN,tracker.nbcuas.com
+DOMAIN,tracking.epicgames.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
