@@ -7,13 +7,8 @@ DOMAIN,steampipe.akamaized.net, Steam
 DOMAIN,steamstore-a.akamaihd.net, Steam
 DOMAIN,steamusercontent-a.akamaihd.net, Steam
 DOMAIN,steamuserimages-a.akamaihd.net, Steam
-DOMAIN-SUFFIX,dl.steam.clngaa.com, Steam
-DOMAIN-SUFFIX,dl.steam.ksyna.com, Steam
 DOMAIN-SUFFIX,playartifact.com, Steam
 DOMAIN-SUFFIX,s.team, Steam
-DOMAIN-SUFFIX,st.dl.bscstorage.net, Steam
-DOMAIN-SUFFIX,st.dl.eccdnx.com, Steam
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com, Steam
 DOMAIN-SUFFIX,steam-api.com, Steam
 DOMAIN-SUFFIX,steam-chat.com, Steam
 DOMAIN-SUFFIX,steamcommunity.com, Steam
