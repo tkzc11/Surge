@@ -5,6 +5,6 @@ DOMAIN,star.content.edge.bamgrid.com
 DOMAIN,star.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,starplus.com
 DOMAIN-SUFFIX,starott.com
-DOMAIN-SUFFIX,media.starott.com
+DOMAIN-SUFFIX,media.starott.com //流媒体串流
 USER-AGENT,Star+*
 PROCESS-NAME,com.starplus.starplus
