@@ -66,6 +66,7 @@ DOMAIN,analytics.umetrip.com
 DOMAIN,api.apptentive.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
+DOMAIN,api.rollbar.com
 DOMAIN,api.sprig.com
 DOMAIN,api.tuisong.baidu.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
@@ -179,6 +180,7 @@ DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,entitlements.jwplayer.com
 DOMAIN,et.tanx.com
 DOMAIN,events.mz.unity3d.com
+DOMAIN,fast.a.klaviyo.com
 DOMAIN,fc.yahoo.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
@@ -297,6 +299,7 @@ DOMAIN,pok.mintegral.net
 DOMAIN,pp.lp4.io
 DOMAIN,pr-bh.ybp.yahoo.com
 DOMAIN,prebid.the-ozone-project.com
+DOMAIN,probe.apple.com // Empty DNS Result
 DOMAIN,puds.ucweb.com
 DOMAIN,px.effirst.com
 DOMAIN,px.moatads.com
@@ -451,6 +454,7 @@ DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,footprintdns.com
+DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gm.mob.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -524,6 +528,7 @@ DOMAIN-SUFFIX,track.miui.com
 DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,vungle.com
