@@ -3,7 +3,6 @@ DOMAIN,240e-925-2-400-8000--100.volcsiriusbd.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
-DOMAIN,a.beap.gemini.yahoo.com
 DOMAIN,a.pixiv.org
 DOMAIN,aa.agkn.com
 DOMAIN,abtest.alibaba.com
@@ -188,7 +187,6 @@ DOMAIN,fls-eu.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,freestar-io.videoplayerhub.com
-DOMAIN,g.cn.miaozhen.com
 DOMAIN,geo.yahoo.com
 DOMAIN,geo.query.yahoo.com
 DOMAIN,h-adashx.ut.ele.me
@@ -422,6 +420,7 @@ DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,adfarm1.adition.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ads.linkedin.com
@@ -434,11 +433,13 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,beap.gemini.yahoo.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,btrll.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,chartbeat.com
