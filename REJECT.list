@@ -76,6 +76,7 @@ DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
 DOMAIN,api.statsig.com
 DOMAIN,apis.alenable.com
+DOMAIN,api16-access-sg.pangle.io
 DOMAIN,api2.amplitude.com
 DOMAIN,app.adjust.com
 DOMAIN,app.adjust.net.in
@@ -333,6 +334,7 @@ DOMAIN,seoab.io
 DOMAIN,services.brightline.tv
 DOMAIN,sessions.bugsnag.com
 DOMAIN,settings-win.data.microsoft.com
+DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,sis.jpush.io
 DOMAIN,skadnetworks.fyber.com
@@ -374,6 +376,7 @@ DOMAIN,tdsdk-ip6.xdrig.com
 DOMAIN,telemetry-in.battle.net
 DOMAIN,test.wemiquan.com
 DOMAIN,tms.fmm.io
+DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tosv.byted.org
@@ -534,6 +537,7 @@ DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-SUFFIX,tend.io
 DOMAIN-SUFFIX,track.miui.com
 DOMAIN-SUFFIX,trackingio.com
+DOMAIN-SUFFIX,tradplusad.com
 DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
