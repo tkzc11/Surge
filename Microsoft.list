@@ -11,9 +11,9 @@ DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
-DOMAIN,th.bing.com
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,cs11.wpc.v0cdn.net
 DOMAIN-SUFFIX,cs9.wac.phicdn.net
