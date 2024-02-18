@@ -217,6 +217,7 @@ IP-ASN,38834 // 上海英伟达企业网
 # IP-ASN,41979 // 杭州 CloudZone 网络科技有限公司   【未广播中国大陆IP】
 IP-ASN,42962 // 石家庄旭鼎科技有限公司
 # IP-ASN,44421 // Yifu Yu   【未广播中国大陆IP】
+# IP-ASN,AS44446 - Yuan Xue   【未广播中国大陆IP】
 IP-ASN,45057 // 中国铁通上海城网
 IP-ASN,45058 // 金桥网通通信有限公司
 IP-ASN,45061 // 上海信息网络有限公司
@@ -749,6 +750,7 @@ IP-ASN,139799 // 北京 Dajia Internet信息科技有限公司
 IP-ASN,139833 // Evsio0n Network Inc.
 IP-ASN,139866 // Ankang Puchuang 网络科技有限公司
 IP-ASN,139874 // Wu'an Chihong 网络科技有限公司
+# IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,139887 // CHINANET Shandong Yantai IDC network
 IP-ASN,139888 // No.16 Hengcha Rd, Zhuhui, Hengyang, 湖南
 IP-ASN,139908 // Karamay Hzon 网络科技Development 有限公司
@@ -933,6 +935,7 @@ IP-ASN,140886 // UNICOM 广西省 network
 IP-ASN,140895 // 中国移动集团安徽 communications corporation
 IP-ASN,140903 // 中国电信
 # IP-ASN,140913 // Hentai Network Lab
+# IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,140936 // SUNNET Global Network
 IP-ASN,140979 // China Unicom 上海 FuTe IDC network
 IP-ASN,141025 // Shenyang MAN, Liaoning, 中国电信
@@ -5130,6 +5133,10 @@ IP-ASN,151674 // Cheng Yijia
 IP-ASN,151814 // Guo Chuang Xin Xing (北京) Technology 有限公司
 IP-ASN,151823 // 中国电信
 IP-ASN,152092 // 河南 Angran 云计算Technology 有限公司
+IP-ASN,152120 // 中国联通
+IP-ASN,152157 // Misaka Network Ltd
+# IP-ASN,152186 // Mintel Holding Limited
+# IP-ASN,152320 // Goalnow Network Technology Co Limited
 # IP-ASN,197433 // XuanMing Liu
 # IP-ASN,197626 // XU ZIYAO
 # IP-ASN,197856 // Zhou Xiaopeng
