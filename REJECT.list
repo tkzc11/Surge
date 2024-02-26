@@ -251,10 +251,12 @@ DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,m.api.forter.com
+DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,mask.icloud.com
 DOMAIN,mask-api.icloud.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
+DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,media.trafficjunky.com
 DOMAIN,metrics.icloud.com
 DOMAIN,mmstl-tianhe.tanx.com
@@ -325,6 +327,7 @@ DOMAIN,s-gm.mmstat.com
 DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sb.scorecardresearch.com
+DOMAIN,sb.voicefive.com
 DOMAIN,scaredsnakes.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.open.talk.gepush.com
