@@ -172,7 +172,7 @@ DOMAIN,dns.msftncsi.com
 DOMAIN,doh.iq.com
 DOMAIN,douyinhelper.com
 DOMAIN,dp.im.weibo.cn
-DOMAIN,dpm.demdex.net 
+DOMAIN,dpm.demdex.net
 DOMAIN,dsb.yahoo.co.jp
 DOMAIN,dynamic.zol.com.cn
 DOMAIN,ea119.amdc.m.taobao.com
@@ -231,7 +231,7 @@ DOMAIN,info.sony-semicon.com
 DOMAIN,init.supersonicads.com
 DOMAIN,int.dewrain.site
 DOMAIN,int.akisinn.info
-DOMAIN,int.akisinn.site 
+DOMAIN,int.akisinn.site
 DOMAIN,int.dewrain.world
 DOMAIN,int.vaicore.site
 DOMAIN,int.vaicore.store
@@ -372,8 +372,8 @@ DOMAIN,stats.appsflyer.com
 DOMAIN,stats.fifthstarlabs.io
 DOMAIN,statusf.digitalcertvalidation.com
 DOMAIN,stocks-analytics-events.apple.com
-DOMAIN,stun.ideasip.com 
-DOMAIN,stun.stunprotocol.org 
+DOMAIN,stun.ideasip.com
+DOMAIN,stun.stunprotocol.org
 DOMAIN,stun.voiparound.com
 DOMAIN,sync.crwdcntrl.net
 DOMAIN,sync.outbrain.com
