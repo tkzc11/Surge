@@ -58,6 +58,7 @@ DOMAIN,ali-stats.jpush.cn
 DOMAIN,als.baidu.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,analytics.cloud.coveo.com
+DOMAIN,analytics.kongregate.io
 DOMAIN,analytics.map.qq.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.starz.com
@@ -116,6 +117,7 @@ DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.exelator.com
 DOMAIN,cdn.mobilefuse.com
+DOMAIN,cdn.privacy-mgmt.com
 DOMAIN,cdn.quantummetric.com
 DOMAIN,cdn.segment.com
 DOMAIN,cdn.sophi.io
@@ -129,6 +131,7 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
+DOMAIN,clue.oceanengine.com
 DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
 DOMAIN,cms.quantserve.com
@@ -166,6 +169,7 @@ DOMAIN,disney.demdex.net
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
 DOMAIN,dns.msftncsi.com
+DOMAIN,doh.iq.com
 DOMAIN,douyinhelper.com
 DOMAIN,dp.im.weibo.cn
 DOMAIN,dpm.demdex.net 
@@ -224,6 +228,7 @@ DOMAIN,image8.pubmatic.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,info.sony-semicon.com
+DOMAIN,init.supersonicads.com
 DOMAIN,int.dewrain.site
 DOMAIN,int.akisinn.info
 DOMAIN,int.akisinn.site 
@@ -279,6 +284,7 @@ DOMAIN,networksdk.ssacdn.com
 DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nie.netease.com
 DOMAIN,nisgd4.10010.com
+DOMAIN,notifications-gke.fyber.com
 DOMAIN,notify.bugsnag.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nsclick.baidu.com
@@ -324,6 +330,7 @@ DOMAIN,rt.applovin.com
 DOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s-gm.mmstat.com
+DOMAIN,s2s.t13.io
 DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sb.scorecardresearch.com
@@ -414,6 +421,7 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,who.nie.easebar.com
 DOMAIN,wkrd.tingyun.com
 DOMAIN,wn.pos.baidu.com
+DOMAIN,wv.inner-active.mobi
 DOMAIN,woodpecker.uc.cn
 DOMAIN,ws.tapjoyads.com
 DOMAIN,wwads.cn
@@ -442,11 +450,14 @@ DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,airpr.com
+DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,adxvip.com
 DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
@@ -457,6 +468,7 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,btrll.com
 DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,c.appier.net
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clevertap-prod.com
@@ -469,6 +481,7 @@ DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleverify.com
+DOMAIN-SUFFIX,eum-appdynamics.com
 DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,fivecdm.com
@@ -493,7 +506,9 @@ DOMAIN-SUFFIX,log.mgtv.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
@@ -512,6 +527,7 @@ DOMAIN-SUFFIX,parrable.com
 DOMAIN-SUFFIX,petametrics.com
 DOMAIN-SUFFIX,predic.io
 DOMAIN-SUFFIX,pub.network
+DOMAIN-SUFFIX,pubapp.network
 DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
@@ -539,6 +555,7 @@ DOMAIN-SUFFIX,tailtarget.com
 DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,tapfiliate.com
 DOMAIN-SUFFIX,tapinfluence.com
+DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,tapstream.com
 DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-SUFFIX,tend.io
