@@ -94,7 +94,7 @@ DOMAIN,app-measurement.com
 DOMAIN,assets.prod.leanplum.com
 DOMAIN,audid-api.taobao.com
 DOMAIN,baidubox-emoji.cdn.bcebos.com.a.bdydns.com
-DOMAIN,basejumper.apple.com //Empty DNS Result
+DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
