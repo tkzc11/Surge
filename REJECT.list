@@ -113,7 +113,6 @@ DOMAIN,cc.map.qq.com
 DOMAIN,c1.adform.net
 DOMAIN,c2shb.ssp.yahoo.com
 DOMAIN,cdn.acsbapp.com
-DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.exelator.com
 DOMAIN,cdn.mobilefuse.com
@@ -495,6 +494,7 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,iemig.com
 DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,inmobi.com
@@ -521,6 +521,7 @@ DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,onetrust.io
+DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,pardot.com
@@ -573,5 +574,6 @@ DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
