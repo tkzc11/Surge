@@ -85,6 +85,7 @@ DOMAIN,app.adjust.com
 DOMAIN,app.adjust.net.in
 DOMAIN,app.adjust.world
 DOMAIN,app-monitor.ele.me
+DOMAIN,appboy-images.com
 DOMAIN,applog.matrix.easebar.com
 DOMAIN,applog.uc.cn
 DOMAIN,appsrv.display.io
@@ -131,6 +132,7 @@ DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
+DOMAIN,clientlog3.music.163.com
 DOMAIN,clue.oceanengine.com
 DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
@@ -181,6 +183,7 @@ DOMAIN,eclick.baidu.com
 DOMAIN,ecmb.bdimg.com
 DOMAIN,eco.taobao.com
 DOMAIN,edge.ads.twitch.tv
+DOMAIN,edge.fullstory.com
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
@@ -189,6 +192,7 @@ DOMAIN,et.tanx.com
 DOMAIN,events.mz.unity3d.com
 DOMAIN,fast.a.klaviyo.com
 DOMAIN,fc.yahoo.com
+DOMAIN,feedbackws.icloud.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,fls-eu.amazon.com
@@ -227,6 +231,7 @@ DOMAIN,ilce.alicdn.com
 DOMAIN,image8.pubmatic.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,imdns.hpplay.cn
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,info.sony-semicon.com
 DOMAIN,init.supersonicads.com
 DOMAIN,int.dewrain.site
@@ -276,8 +281,6 @@ DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
-DOMAIN,mtteve.beacon.qq.com
-DOMAIN,mttstr.beacon.qq.com
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
@@ -324,6 +327,8 @@ DOMAIN,quicktracking-api.macaupass.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,rili.callmekeji.com
+DOMAIN,rmit.sc.omtrdc.net
+DOMAIN,rmit.tt.omtrdc.net
 DOMAIN,rp.hpplay.cn
 DOMAIN,rs1.qq.com
 DOMAIN,rs2.qq.com
@@ -365,6 +370,7 @@ DOMAIN,ssbsync.smartadserver.com
 DOMAIN,ssdkauth.hpplay.cn
 DOMAIN,st.pubmatic.com
 DOMAIN,stas.outbrain.com
+DOMAIN,stats.adobe.com
 DOMAIN,static.addtoany.com
 DOMAIN,static.adsafeprotected.com
 DOMAIN,static.ares.ctripcorp.com
@@ -403,6 +409,7 @@ DOMAIN,track.uhomes.com
 DOMAIN,tracker.nbcuas.com
 DOMAIN,tracking.epicgames.com
 DOMAIN,tracking.intl.miui.com
+DOMAIN,tracking.miui.com
 DOMAIN,trc.taboola.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,turbo.adsbynimbus.com
@@ -413,6 +420,7 @@ DOMAIN,uri6.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,visitor.omnitagjs.com
 DOMAIN,vs.biz.weibo.com
+DOMAIN,w.usabilla.com
 DOMAIN,waapdg.jd.com
 DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
@@ -424,9 +432,11 @@ DOMAIN,wkrd.tingyun.com
 DOMAIN,wn.pos.baidu.com
 DOMAIN,wv.inner-active.mobi
 DOMAIN,woodpecker.uc.cn
+DOMAIN,wpad.rmit.edu.au
 DOMAIN,ws.tapjoyads.com
 DOMAIN,wwads.cn
 DOMAIN,www.clarity.ms
+DOMAIN,www.everestjs.net
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.lightboxcdn.com
 DOMAIN,www.qchannel01.cn
@@ -460,6 +470,7 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
 DOMAIN-SUFFIX,beizi.biz
@@ -487,6 +498,7 @@ DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,footprintdns.com
+DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,google-analytics.com
@@ -509,6 +521,7 @@ DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,marketingcloudapis.com
+DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,mparticle.com
