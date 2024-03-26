@@ -73,6 +73,7 @@ DOMAIN,api.tuisong.baidu.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
+DOMAIN,api-adservices.apple.com
 DOMAIN,api-c.dutils.com
 DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
@@ -327,6 +328,7 @@ DOMAIN,rp.hpplay.cn
 DOMAIN,rs1.qq.com
 DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
+DOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s-gm.mmstat.com
 DOMAIN,s2s.t13.io
@@ -350,6 +352,7 @@ DOMAIN,settings-win.data.microsoft.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,sis.jpush.io
+DOMAIN,sjarvis.taobao.com
 DOMAIN,skadnetworks.fyber.com
 DOMAIN,skywalking.roombox.xdf.cn
 DOMAIN,smetrics.aem.playstation.com
