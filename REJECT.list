@@ -357,7 +357,6 @@ DOMAIN,settings-win.data.microsoft.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,sis.jpush.io
-DOMAIN,sjarvis.taobao.com
 DOMAIN,skadnetworks.fyber.com
 DOMAIN,skywalking.roombox.xdf.cn
 DOMAIN,smetrics.aem.playstation.com
@@ -516,6 +515,7 @@ DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,log.mgtv.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
