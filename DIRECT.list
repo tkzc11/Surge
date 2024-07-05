@@ -1,3 +1,7 @@
+# > Apple
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+
 # > 抖音
 DOMAIN,aweme.snssdk.com
 DOMAIN,ecomuser.snssdk.com
@@ -24,6 +28,7 @@ DOMAIN,tos-hl-x.snssdk.com
 DOMAIN,tos-lf-x.snssdk.com
 DOMAIN,tp-pay.snssdk.com
 DOMAIN,video-cn.snssdk.com
+DOMAIN,video-edge-wx.snssdk.com
 DOMAIN,video-edge-yz.snssdk.com
 DOMAIN,vcl-brain.snssdk.com
 DOMAIN,www.snssdk.com

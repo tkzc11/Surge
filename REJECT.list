@@ -24,6 +24,7 @@ DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx.ut.amap.com
+DOMAIN,adashx.ut.cainiao.com
 DOMAIN,adashx.ut.ele.me
 DOMAIN,adashx.ut.hzshudian.com
 DOMAIN,adashx.ut.youku.com
@@ -127,6 +128,7 @@ DOMAIN,cdn.sophi.io
 DOMAIN,cdn.tinypass.com
 DOMAIN,cdn.taboola.com
 DOMAIN,cdn.viglink.com
+DOMAIN,cdn.webpushr.com
 DOMAIN,cdn.wwads.cn
 DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdn-settings.appsflyersdk.com
@@ -267,8 +269,6 @@ DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,m.api.forter.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
-DOMAIN,mask.icloud.com
-DOMAIN,mask-api.icloud.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
 DOMAIN,me-client.eservice.emarsys.net
@@ -352,6 +352,7 @@ DOMAIN,scaredsnakes.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,sdk.open.talk.igexin.com
+DOMAIN,sdk.privacy-center.org
 DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdkapi.netmera.com
 DOMAIN,sdk-events.inner-active.mobi
@@ -423,6 +424,7 @@ DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,unagi-na.amazon.com
+DOMAIN,unknown-api.citymapper.com // Empty DNS Result
 DOMAIN,uri6.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,visitor.omnitagjs.com

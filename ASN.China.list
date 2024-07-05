@@ -403,8 +403,8 @@ IP-ASN,63630 // 广州 Power 通信网络有限公司
 IP-ASN,63631 // 广东云基科技有限公司
 IP-ASN,63634 // APNIC ASN Block
 IP-ASN,63641 // 兆丰华帝信息咨询有限公司
-IP-ASN,63646 // 北京小巨科技有限公司
-IP-ASN,63648 // 北京小巨科技有限公司
+IP-ASN,63646 // 北京小橘科技有限公司
+# IP-ASN,63648 // 北京小橘科技有限公司【未广播中国大陆IP】
 IP-ASN,63654 // 北京 NETEAST TECHNOLOGIES 有限公司
 IP-ASN,63655 // Huawei Technologies 有限公司
 IP-ASN,63663 // 北京 YunHaiHuLian 科学技术有限公司
@@ -466,6 +466,7 @@ IP-ASN,132203 // 科技中医大道腾讯大厦
 IP-ASN,132225 // 中国电信
 IP-ASN,132352 // meshlab.net – MEGATRANS
 IP-ASN,132437 // 安顺路10号
+IP-ASN,132479 // Xue Desen
 IP-ASN,132510 // IDC山西中国移动通信公司
 IP-ASN,132525 // 黑龙江移动通信有限公司
 IP-ASN,132553 // 中国石油大学（华东）
@@ -543,6 +544,7 @@ IP-ASN,135357 // 深圳凯瑟恒科技信息有限公司
 IP-ASN,135363 // 北京敦煌和光信息技术有限公司
 IP-ASN,135364 // 四川 Suike 信息科技有限公司
 IP-ASN,135365 // 上海优祖信息技术有限公司
+IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
 IP-ASN,135629 // 宁夏西云数据科技有限公司
 IP-ASN,135646 // Luginbash AS
 IP-ASN,135663 // 深圳 rainbow Computer Network 有限公司
@@ -745,12 +747,12 @@ IP-ASN,139742 // Peddie Institute 有限公司
 IP-ASN,139743 // 深圳Shi Fang Technology 有限公司
 IP-ASN,139767 // 中国电信 Headquarters OA network
 IP-ASN,139774 // CERNET Center
+# IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,139796 // JiuYao NET
 IP-ASN,139799 // 北京 Dajia Internet信息科技有限公司
 IP-ASN,139833 // Evsio0n Network Inc.
 IP-ASN,139866 // Ankang Puchuang 网络科技有限公司
 IP-ASN,139874 // Wu'an Chihong 网络科技有限公司
-# IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,139887 // CHINANET Shandong Yantai IDC network
 IP-ASN,139888 // No.16 Hengcha Rd, Zhuhui, Hengyang, 湖南
 IP-ASN,139908 // Karamay Hzon 网络科技Development 有限公司
@@ -963,7 +965,7 @@ IP-ASN,142551 // Azurite27 Network
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,142554 // hongmicloud.com
 # IP-ASN,142582 // NNET-BACKBONE
-# IP-ASN,142586 // Dotnet Ltd
+# IP-ASN,142586	// Zhuhai Xiyun Cloud Technology Co Ltd
 # IP-ASN,142588 // Lichun Tang Trading as 400Host
 IP-ASN,142608 // 中国电信
 IP-ASN,142611 // 上海 Tujuan信息科技有限公司
@@ -5137,6 +5139,8 @@ IP-ASN,152120 // 中国联通
 IP-ASN,152157 // Misaka Network Ltd
 # IP-ASN,152186 // Mintel Holding Limited
 # IP-ASN,152320 // Goalnow Network Technology Co Limited
+# IP-ASN,152711 // Suike Information Technology SiChuan Co., Ltd
+# IP-ASN,152911 // SY ICT
 # IP-ASN,197433 // XuanMing Liu
 # IP-ASN,197626 // XU ZIYAO
 # IP-ASN,197856 // Zhou Xiaopeng
@@ -5260,6 +5264,8 @@ IP-ASN,212237 // Changgong Zhang
 # IP-ASN,212793 // Xiwei Ye 【未广播中国大陆IP】
 # IP-ASN,213069 // PANYUAN HUANG
 # IP-ASN,213115 // Aoi kato 【未广播中国大陆IP】
+# IP-ASN,214704 // Xin Zhao 【未广播中国大陆IP】
+# IP-ASN,214934 // Chen Qu 【未广播中国大陆IP】
 # IP-ASN,215906 // Lili Fan 【未广播中国大陆IP】
 # IP-ASN,215969 // Tan Zhang 【未广播中国大陆IP】
 # IP-ASN,216056 // Jingqiu Xu 【未广播中国大陆IP】

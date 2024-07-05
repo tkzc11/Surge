@@ -1,13 +1,5 @@
-DOMAIN,bam-sdk-configs.bamgrid.com
-DOMAIN,cnbl-cdn.bamgrid.com
 DOMAIN,disney.my.sentry.io
-DOMAIN,disney.api.edge.bamgrid.com
-DOMAIN,disney.content.edge.bamgrid.com
-DOMAIN,disney.connections.edge.bamgrid.com
-DOMAIN,disney.images.edge.bamgrid.com
-DOMAIN,disney.playback.edge.bamgrid.com
-DOMAIN,edge.bamgrid.com
-DOMAIN,static-assets.bamgrid.com
+DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,disney-plus.net
@@ -18,6 +10,10 @@ DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar-labs.com
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,starott.com
+# DOMAIN-SUFFIX,media.starott.com //流媒体串流
 USER-AGENT,Disney+*
-PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+USER-AGENT,Star+*
 PROCESS-NAME,com.disney.disneyplus
+PROCESS-NAME,com.starplus.starplus
