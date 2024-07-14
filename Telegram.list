@@ -8,3 +8,4 @@ IP-ASN,62041,no-resolve
 IP-ASN,59930,no-resolve
 IP-ASN,211157,no-resolve
 PROCESS-NAME,Telegram
+PROCESS-NAME,org.telegram.messenger
