@@ -1,0 +1,17 @@
+#!name=夸克去广告
+#!desc=移除阅读广告，精简我的页面。
+#!author=可莉
+
+[URL Rewrite]
+# 小说底部文案广告URL Rewrite
+^https:\/\/huichuan\.sm\.cn\/nativead$ - reject
+
+[Map Local]
+^https:\/\/stars\.shuqireader\.com\/kkios\/render\/load\/resource\/appConfig$ data-type=text data="{}" status-code=200
+
+[Script]
+# 精简我的页面
+精简我的页面 = type=http-response, pattern=^https:\/\/open-cms-api\.quark\.cn\/open-cms, script-path=https://raw.githubusercontent.com/tkzc11/Surge/refs/heads/main/Script/QuarkBrowser_remove_ads.js, requires-body=true
+
+[MITM]
+hostname = %APPEND% a.line.me, ad.line-scdn.net, w.line.me, gw.line.naver.jp, lan.line.me, legy.line-apps.com, buy.line.me, crs-event.line.me, obs.line-scdn.net, cix.line-apps.com, d.line-scdn.net, scdn.line-apps.com, web-mmap-pay.line-apps.com, sch.line.me, uts-front.line-apps.com, static.line-scdn.net, nelo2-col.linecorp.com
