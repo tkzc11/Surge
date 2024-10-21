@@ -2,7 +2,7 @@
 #!desc=移除Line各类广告
 #!author=可莉
 
-[Rewrite]
+[URL Rewrite]
 ^https:\/\/a\.line\.me\/lass\/api\/v\d\/ads$ - reject
 ^https:\/\/a\.line\.me\/oa\/v\d\/e$ - reject
 ^https:\/\/a\.line\.me\/cs\/v\d\/oa$ - reject
