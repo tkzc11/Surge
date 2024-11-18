@@ -73,6 +73,7 @@ DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
 DOMAIN,api.apptentive.com
 DOMAIN,api.gameanalytics.com
+DOMAIN,api.growingio.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.pushio.com
@@ -208,6 +209,7 @@ DOMAIN,douyinhelper.com
 DOMAIN,dp.im.weibo.cn
 DOMAIN,dpm.demdex.net
 DOMAIN,dsb.yahoo.co.jp
+DOMAIN,dualstack-logs.amap.com
 DOMAIN,dynamic.zol.com.cn
 DOMAIN,eb2.3lift.com
 DOMAIN,eclick.baidu.com
@@ -438,6 +440,7 @@ DOMAIN,ssdkauth.hpplay.cn
 DOMAIN,sstats.adobe.com
 DOMAIN,st.pubmatic.com
 DOMAIN,stas.outbrain.com
+DOMAIN,stat.download.xunlei.com
 DOMAIN,stats.adobe.com
 DOMAIN,static.addtoany.com
 DOMAIN,static.adsafeprotected.com
@@ -474,6 +477,7 @@ DOMAIN,tosv.byted.org
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,tr.snapchat.com
 DOMAIN,track-aus.hungrypanda.co
+DOMAIN,track.lc.quark.cn
 DOMAIN,track.uc.cn
 DOMAIN,track.uhomes.com
 DOMAIN,tracker.nbcuas.com
