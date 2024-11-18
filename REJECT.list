@@ -5,6 +5,7 @@ DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a.pixiv.org
 DOMAIN,aa.agkn.com
+DOMAIN,aa.online-metrix.net
 DOMAIN,abtest.alibaba.com
 DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abtest-tx-beijing-01.saas.sensorsdata.cn
@@ -20,7 +21,9 @@ DOMAIN,ad.wsod.com
 DOMAIN,ad.zijieapi.com
 DOMAIN,ada.baidu.com
 DOMAIN,adapi.izuiyou.com
+DOMAIN,adash.man.aliyuncs.com
 DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashx.ut.dingtalk.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx.ut.amap.com
@@ -32,6 +35,7 @@ DOMAIN,adc-ad-assets.adtilt.com
 DOMAIN,adcdn.tencentmusic.com
 DOMAIN,adcdn6.tencentmusic.com
 DOMAIN,adclick.tencentmusic.com
+DOMAIN,address.m.jd.com
 DOMAIN,apex.go.sonobi.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adf0901f1861.cdn4.forter.com
@@ -58,6 +62,7 @@ DOMAIN,alb.reddit.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,als.baidu.com
+DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,analytics.cloud.coveo.com
 DOMAIN,analytics.kongregate.io
@@ -72,6 +77,7 @@ DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.pushio.com
 DOMAIN,api.rollbar.com
+DOMAIN,api.segment.io
 DOMAIN,api.sprig.com
 DOMAIN,api.tuisong.baidu.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
@@ -84,6 +90,7 @@ DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
 DOMAIN,api.statsig.com
 DOMAIN,apis.alenable.com
+DOMAIN,ap1.thunderhead.com
 DOMAIN,api16-access-sg.pangle.io
 DOMAIN,app.adjust.com
 DOMAIN,app.adjust.net.in
@@ -98,6 +105,8 @@ DOMAIN,app-alpha.bytedance.net
 DOMAIN,app-analytics-v2.snapchat.com
 DOMAIN,app-measurement.com
 DOMAIN,assets.prod.leanplum.com
+DOMAIN,astatic.m.jd.com
+DOMAIN,atoken.m.taobao.com
 DOMAIN,audid-api.taobao.com
 DOMAIN,auth.follow-apps.com
 DOMAIN,badjs.weixinbridge.com
@@ -107,20 +116,25 @@ DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
+DOMAIN,beacon.wikia-services.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,bh.contextweb.com
 DOMAIN,books-analytics-events.apple.com
+DOMAIN,boostrapapi.agoda.com
 DOMAIN,btloader.com
 DOMAIN,browser.events.data.msn.com
 DOMAIN,b-gtc.gepush.com
 DOMAIN,b1t-nydc1.zemanta.com
 DOMAIN,b1sync.zemanta.com
+DOMAIN,b92.yahoo.co.jp
 DOMAIN,c.bing.com
 DOMAIN,c.msn.com
 DOMAIN,c.office.com
+DOMAIN,c.riskified.com
 DOMAIN,cc.map.qq.com
 DOMAIN,c1.adform.net
 DOMAIN,c2shb.ssp.yahoo.com
+DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.exelator.com
@@ -134,11 +148,15 @@ DOMAIN,cdn.taboola.com
 DOMAIN,cdn.viglink.com
 DOMAIN,cdn.webpushr.com
 DOMAIN,cdn.wwads.cn
+DOMAIN,cdn-4.convertexperiments.com
 DOMAIN,cdntm.hsbc.com.au
+DOMAIN,cdntm.hsbc.com.hk
+DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
+DOMAIN,cf.iadsdk.apple.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
@@ -172,6 +190,7 @@ DOMAIN,data.mistat.xiaomi.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,dcf.espn.com
 DOMAIN,ddp-track-au.hungrypanda.co
+DOMAIN,default.exp-tas.com
 DOMAIN,dev.visualwebsiteoptimizer.com
 DOMAIN,device-metrics-us.amazon.com
 DOMAIN,device-metrics-us-2.amazon.com
@@ -190,7 +209,6 @@ DOMAIN,dp.im.weibo.cn
 DOMAIN,dpm.demdex.net
 DOMAIN,dsb.yahoo.co.jp
 DOMAIN,dynamic.zol.com.cn
-DOMAIN,ea119.amdc.m.taobao.com
 DOMAIN,eb2.3lift.com
 DOMAIN,eclick.baidu.com
 DOMAIN,ecmb.bdimg.com
@@ -216,8 +234,10 @@ DOMAIN,freestar-io.videoplayerhub.com
 DOMAIN,geo.yahoo.com
 DOMAIN,geo.privacymanager.io
 DOMAIN,geo.query.yahoo.com
+DOMAIN,h64.online-metrix.net
 DOMAIN,h-adashx.ut.ele.me
 DOMAIN,h-adashx.ut.cainiao.com
+DOMAIN,h-adashx.ut.dingtalk.com
 DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h-sdk.online-metrix.net
@@ -230,7 +250,9 @@ DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN,httpdns.yunxindns.com
 DOMAIN,hub5p.mypikpak.com
 DOMAIN,hub5pnc.mypikpak.com
+DOMAIN,huichuan.sm.cn
 DOMAIN,i.clean.gg
+DOMAIN,infos.telstra.com.au
 DOMAIN,i2-vymzjliplcagmhbrooitrwuqbopdsg.init.cedexis-radar.net
 DOMAIN,ia.51.la
 DOMAIN,iad.g.163.com
@@ -248,6 +270,7 @@ DOMAIN,image8.pubmatic.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,increasinglycockroachpolicy.com
 DOMAIN,info.sony-semicon.com
 DOMAIN,init.supersonicads.com
 DOMAIN,int.dewrain.site
@@ -262,21 +285,28 @@ DOMAIN,is.snssdk.com
 DOMAIN,jac.yahoosandbox.com
 DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.monitor.azure.com
+DOMAIN,kepler.jd.com
 DOMAIN,kgb-ifs.tanx.com
 DOMAIN,kuaishou.httpdns.pro
-DOMAIN,lf3-hscdn-tos.pstatp.com // Empty DNS Result
+DOMAIN,l.contentsquare.net
+DOMAIN,list.z.qingting.fm
 DOMAIN,load77.exelator.com
+DOMAIN,localhost.ptlogin2.qq.com
+DOMAIN,localhost.weixin.qq.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
+DOMAIN,log.sina.cn
 DOMAIN,log.umsns.com
 DOMAIN,loggw-ex.alipay.com
 DOMAIN,logs.amap.com
 DOMAIN,logs.chelaile.net.cn
+DOMAIN,logu.hpplay.cn
 DOMAIN,logx.optimizely.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,m.api.forter.com
+DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,mazu.m.qq.com
@@ -284,12 +314,15 @@ DOMAIN,mc.yandex.ru
 DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,media.trafficjunky.com
 DOMAIN,metriccc.bas.cmbchina.cn // Empty DNS Result
+DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.icloud.com
+DOMAIN,metrics1-drcn.dt.dbankcloud.cn
 DOMAIN,mmstl-tianhe.tanx.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobileconfig.sascdn.com
 DOMAIN,mobiletelemetry.ebay.com
 DOMAIN,mobilelog.upqzfile.com
+DOMAIN,mobile-production.content-square.net
 DOMAIN,mon.isnssdk.com
 DOMAIN,mon.snssdk.com
 DOMAIN,mon.zijieapi.com
@@ -305,17 +338,21 @@ DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
 DOMAIN,nexusrules.officeapps.live.com
 DOMAIN,nie.netease.com
+DOMAIN,nisgd3.10010.com
 DOMAIN,nisgd4.10010.com
+DOMAIN,nom.telemetrydeck.com
 DOMAIN,notifications-gke.fyber.com
 DOMAIN,notify.bugsnag.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nsclick.baidu.com
 DOMAIN,nt2.ele.me
 DOMAIN,ocean.sankuai.com
+DOMAIN,ogads-pa.googleapis.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
 DOMAIN,opehs.tanx.com
 DOMAIN,open.e.kuaishou.com
 DOMAIN,opencdn.jomodns.com
+DOMAIN,orbit.jd.com
 DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,p1.pstatp.com
@@ -346,6 +383,7 @@ DOMAIN,px.ucweb.com
 DOMAIN,quicktracking-api.macaupass.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,report.huatuo.qq.com
+DOMAIN,res.mall.10010.cn
 DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,rili.callmekeji.com
 DOMAIN,rmit.sc.omtrdc.net
@@ -356,21 +394,27 @@ DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
-DOMAIN,s-gm.mmstat.com
+DOMAIN,s2.go-mpulse.net
 DOMAIN,s2s.t13.io
 DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,sanalytics.disneyplus.com
+DOMAIN,sanalytics.spark.co.nz
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,sb.voicefive.com
+DOMAIN,sbeacon.sina.com.cn
 DOMAIN,scaredsnakes.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,sdk.open.talk.igexin.com
+DOMAIN,sdk.out.usbla.net
 DOMAIN,sdk.privacy-center.org
 DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdkapi.netmera.com
+DOMAIN,sdkapicdn.applanga.com
 DOMAIN,sdkreport.e.qq.com
 DOMAIN,sdk-events.inner-active.mobi
+DOMAIN,searchapi.agoda.com
+DOMAIN,sec.umeng.com
 DOMAIN,securemetrics.apple.com.cn
 DOMAIN,segment-data-us-east.zqtk.net
 DOMAIN,seoab.io
@@ -391,6 +435,7 @@ DOMAIN,sqdd.myapp.com
 DOMAIN,srtb.msn.com
 DOMAIN,ssbsync.smartadserver.com
 DOMAIN,ssdkauth.hpplay.cn
+DOMAIN,sstats.adobe.com
 DOMAIN,st.pubmatic.com
 DOMAIN,stas.outbrain.com
 DOMAIN,stats.adobe.com
@@ -398,6 +443,7 @@ DOMAIN,static.addtoany.com
 DOMAIN,static.adsafeprotected.com
 DOMAIN,static.ares.ctripcorp.com
 DOMAIN,static.bshare.cn
+DOMAIN,static.cloudflareinsights.com
 DOMAIN,static.scroll.com
 DOMAIN,stats.fifthstarlabs.io
 DOMAIN,statusf.digitalcertvalidation.com
@@ -407,8 +453,10 @@ DOMAIN,stun.stunprotocol.org
 DOMAIN,stun.voiparound.com
 DOMAIN,sync.crwdcntrl.net
 DOMAIN,sync.outbrain.com
+DOMAIN,sync.srv.stackadapt.com
 DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
+DOMAIN,t1.welab.bank
 DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
 DOMAIN,tangram.e.qq.com
@@ -436,6 +484,7 @@ DOMAIN,trc.taboola.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
+DOMAIN,um.simpli.fi
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unknown-api.citymapper.com // Empty DNS Result
@@ -461,9 +510,13 @@ DOMAIN,wspeed.qq.com
 DOMAIN,wwads.cn
 DOMAIN,www.clarity.ms
 DOMAIN,www.everestjs.net
+# DOMAIN,www.googleadservices.com
 DOMAIN,www.googletagmanager.com
+DOMAIN,www.fastly-insights.com
+DOMAIN,www.ihezu.cn
 DOMAIN,www.lightboxcdn.com
 DOMAIN,www.qchannel01.cn
+DOMAIN,www.qchannel03.cn
 DOMAIN,www.sinawap.com
 DOMAIN,www.tns-counter.ru
 DOMAIN,www2.digitalasset.com
@@ -473,10 +526,12 @@ DOMAIN,z.moatads.com
 DOMAIN,zem.outbrainimg.com
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-web-analytics.zhihu.com
+DOMAIN,zz.bdstatic.com
 
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad-tech.nbcuni.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adfarm1.adition.com
@@ -490,6 +545,7 @@ DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,adxvip.com
 DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,anythinktech.com
@@ -556,7 +612,8 @@ DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mediation.unity3d.com
-DOMAIN-SUFFIX,mgr.consensu.orgA
+DOMAIN-SUFFIX,mgr.consensu.org
+DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
