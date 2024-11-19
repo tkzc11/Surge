@@ -1,0 +1,12 @@
+DOMAIN,cache.video.iqiyi.com
+DOMAIN-SUFFIX,inter.iqiyi.com
+DOMAIN-SUFFIX,intl-rcd.iqiyi.com
+DOMAIN-SUFFIX,intl-subscription.iqiyi.com
+DOMAIN-SUFFIX,intl.iqiyi.com
+DOMAIN-SUFFIX,iq.com
+IP-CIDR,104.85.165.17/32,no-resolve
+IP-CIDR,110.238.107.47/32,no-resolve
+IP-CIDR,118.26.32.162/32,no-resolve
+IP-CIDR,159.138.102.146/32,no-resolve
+PROCESS-NAME,com.iqiyi.i18n
+PROCESS-NAME,com.iqiyi.i18n.tv
