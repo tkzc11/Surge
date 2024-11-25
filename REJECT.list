@@ -89,6 +89,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN,api-c.dutils.com
 DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
+DOMAIN,api-visitor-analytics.intercom.com
 DOMAIN,api.statsig.com
 DOMAIN,apis.alenable.com
 DOMAIN,ap1.thunderhead.com
@@ -203,6 +204,7 @@ DOMAIN,dis.criteo.com
 DOMAIN,disney.demdex.net
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
+DOMAIN,dnlog.cmpassport.com
 DOMAIN,dns.msftncsi.com
 DOMAIN,doh.iq.com
 DOMAIN,douyinhelper.com
@@ -299,9 +301,11 @@ DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
 DOMAIN,log.umsns.com
+DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw-ex.alipay.com
 DOMAIN,logs.amap.com
 DOMAIN,logs.chelaile.net.cn
+DOMAIN,logs.netflix.com
 DOMAIN,logu.hpplay.cn
 DOMAIN,logx.optimizely.com
 DOMAIN,log1.cmpassport.com
@@ -319,6 +323,7 @@ DOMAIN,metriccc.bas.cmbchina.cn // Empty DNS Result
 DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics1-drcn.dt.dbankcloud.cn
+DOMAIN,mid4.linkedin.com
 DOMAIN,mmstl-tianhe.tanx.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobileconfig.sascdn.com
@@ -641,6 +646,7 @@ DOMAIN-SUFFIX,pubapp.network
 DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,sdk.linkedin.com
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmentify.com
@@ -688,3 +694,6 @@ DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
+
+URL-REGEX,^https:\/\/news-sports-events\.apple\.com\/analyticseventsv2
+URL-REGEX,^https:\/\/news-events\.apple\.com\/analyticseventsv2
