@@ -64,6 +64,7 @@ DOMAIN,ali-stats.jpush.cn
 DOMAIN,als.baidu.com
 DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
+DOMAIN,analytics.95516.com
 DOMAIN,analytics.cloud.coveo.com
 DOMAIN,analytics.kongregate.io
 DOMAIN,analytics.map.qq.com
@@ -284,6 +285,7 @@ DOMAIN,int.dewrain.world
 DOMAIN,int.vaicore.site
 DOMAIN,int.vaicore.store
 DOMAIN,int.vaicore.xyz
+DOMAIN,intake-analytics.wikimedia.org
 DOMAIN,ipgeo.wlvpn.com
 DOMAIN,is.snssdk.com
 DOMAIN,jac.yahoosandbox.com
@@ -315,6 +317,7 @@ DOMAIN,m.api.forter.com
 DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
+DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
 DOMAIN,me-client.eservice.emarsys.net
