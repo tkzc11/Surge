@@ -62,6 +62,7 @@ DOMAIN,alb.reddit.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,als.baidu.com
+DOMAIN,an.yandex.ru
 DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,analytics.95516.com
@@ -164,6 +165,7 @@ DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
 DOMAIN,clientlog3.music.163.com
+DOMAIN,cloudflareinsights.com
 DOMAIN,clue.oceanengine.com
 DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
@@ -243,6 +245,7 @@ DOMAIN,h64.online-metrix.net
 DOMAIN,h-adashx.ut.ele.me
 DOMAIN,h-adashx.ut.cainiao.com
 DOMAIN,h-adashx.ut.dingtalk.com
+DOMAIN,h-adashx.ut.fliggy.com
 DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h-sdk.online-metrix.net
@@ -372,6 +375,7 @@ DOMAIN,pangolin.snssdk.com
 DOMAIN,personalization.bloomberg.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
+DOMAIN,pafms.ocbc.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
@@ -468,6 +472,7 @@ DOMAIN,sync.srv.stackadapt.com
 DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
 DOMAIN,t1.welab.bank
+DOMAIN,tag.rmp.rakuten.com
 DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
 DOMAIN,tangram.e.qq.com
@@ -654,6 +659,7 @@ DOMAIN-SUFFIX,sdk.linkedin.com
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmentify.com
+DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,sentiance.com
 DOMAIN-SUFFIX,serverbid.com
 DOMAIN-SUFFIX,serving-sys.com
