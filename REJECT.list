@@ -1,4 +1,5 @@
 DOMAIN,08b03-2059a.api.pushwoosh.com
+DOMAIN,17de4c13.akstat.io
 DOMAIN,240e-925-2-400-8000--100.volcsiriusbd.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
@@ -17,6 +18,7 @@ DOMAIN,ad.bczcdn.com
 DOMAIN,ad.cyapi.cn
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.turn.com
+DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.wsod.com
 DOMAIN,ad.zijieapi.com
 DOMAIN,ada.baidu.com
@@ -44,6 +46,8 @@ DOMAIN,adobemobiledev.data.adobedc.net
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,ads-api.twitter.com
+DOMAIN,ads-resources.waze.com
+DOMAIN,dsassets.waze.com
 DOMAIN,ads.adfox.ru
 DOMAIN,ads.pubmatic.com
 DOMAIN,adserver.adtech.advertising.com
@@ -51,6 +55,7 @@ DOMAIN,adservice.sigmob.cn
 DOMAIN,adservice.google.com
 DOMAIN,adservice.google.ru
 DOMAIN,adshows.21cn.com
+DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adtag.sphdigital.com
 DOMAIN,adstats.tencentmusic.com
@@ -58,6 +63,7 @@ DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,aegis.qq.com
+DOMAIN,aid.m.taobao.com
 DOMAIN,alb.reddit.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
@@ -71,6 +77,7 @@ DOMAIN,analytics.kongregate.io
 DOMAIN,analytics.map.qq.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.starz.com
+DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
 DOMAIN,api.apptentive.com
@@ -83,6 +90,8 @@ DOMAIN,api.rollbar.com
 DOMAIN,api.segment.io
 DOMAIN,api.sprig.com
 DOMAIN,api.tuisong.baidu.com
+DOMAIN,api2.amplitude.com
+DOMAIN,api3.siftscience.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
@@ -108,15 +117,19 @@ DOMAIN,app-30330ebb9cf67052.mobileapi.usebutton.com
 DOMAIN,app-alpha.bytedance.net
 DOMAIN,app-analytics-v2.snapchat.com
 DOMAIN,app-measurement.com
+DOMAIN,asia.creativecdn.com
 DOMAIN,assets.prod.leanplum.com
 DOMAIN,astatic.m.jd.com
 DOMAIN,atoken.m.taobao.com
 DOMAIN,audid-api.taobao.com
+DOMAIN,audiencedata.im-apps.net
 DOMAIN,auth.follow-apps.com
+DOMAIN,auth.split.io
 DOMAIN,badjs.weixinbridge.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,baidubox-emoji.cdn.bcebos.com.a.bdydns.com
 DOMAIN,basejumper.apple.com // Empty DNS Result
+DOMAIN,bat.bing.com
 DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
@@ -138,6 +151,7 @@ DOMAIN,c.riskified.com
 DOMAIN,cc.map.qq.com
 DOMAIN,c1.adform.net
 DOMAIN,c2shb.ssp.yahoo.com
+DOMAIN,cd.ladsp.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
@@ -160,7 +174,6 @@ DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
-DOMAIN,cf.iadsdk.apple.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
@@ -192,6 +205,7 @@ DOMAIN,da.mmarket.com
 DOMAIN,dashboard.tinypass.com
 DOMAIN,data.flurry.com
 DOMAIN,data.mistat.xiaomi.com
+DOMAIN,dataflow.biliapi.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,dcf.espn.com
 DOMAIN,ddp-track-au.hungrypanda.co
@@ -207,6 +221,7 @@ DOMAIN,dis.criteo.com
 DOMAIN,disney.demdex.net
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
+DOMAIN,dmp.im-apps.net
 DOMAIN,dnlog.cmpassport.com
 DOMAIN,dns.msftncsi.com
 DOMAIN,doh.iq.com
@@ -229,6 +244,7 @@ DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,entitlements.jwplayer.com
 DOMAIN,et.tanx.com
 DOMAIN,events.mz.unity3d.com
+DOMAIN,events.split.io
 DOMAIN,fast.a.klaviyo.com
 DOMAIN,fc.yahoo.com
 DOMAIN,feedbackws.icloud.com
@@ -285,6 +301,7 @@ DOMAIN,int.dewrain.site
 DOMAIN,int.akisinn.info
 DOMAIN,int.akisinn.site
 DOMAIN,int.dewrain.world
+DOMAIN,int.kvaedit.site
 DOMAIN,int.vaicore.site
 DOMAIN,int.vaicore.store
 DOMAIN,int.vaicore.xyz
@@ -298,6 +315,7 @@ DOMAIN,js-cdn.dynatrace.com
 DOMAIN,kepler.jd.com
 DOMAIN,kgb-ifs.tanx.com
 DOMAIN,kuaishou.httpdns.pro
+DOMAIN,kvinit-prod.api.kochava.com
 DOMAIN,l.contentsquare.net
 DOMAIN,list.z.qingting.fm
 DOMAIN,load77.exelator.com
@@ -350,6 +368,7 @@ DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
+DOMAIN,nexus.ensighten.com
 DOMAIN,nexusrules.officeapps.live.com
 DOMAIN,nie.netease.com
 DOMAIN,nisgd3.10010.com
@@ -393,6 +412,7 @@ DOMAIN,prebid.the-ozone-project.com
 DOMAIN,probe.apple.com // Empty DNS Result
 DOMAIN,puds.ucweb.com
 DOMAIN,px.effirst.com
+DOMAIN,px.ladsp.com
 DOMAIN,px.moatads.com
 DOMAIN,px.ucweb.com
 DOMAIN,quicktracking-api.macaupass.com
@@ -407,6 +427,8 @@ DOMAIN,rp.hpplay.cn
 DOMAIN,rs1.qq.com
 DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
+DOMAIN,rt.rtoaster.jp
+DOMAIN,s.360.cn
 DOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s2.go-mpulse.net
@@ -457,6 +479,7 @@ DOMAIN,stas.outbrain.com
 DOMAIN,stat.download.xunlei.com
 DOMAIN,stats.adobe.com
 DOMAIN,static.addtoany.com
+DOMAIN,static.ads-twitter.com
 DOMAIN,static.adsafeprotected.com
 DOMAIN,static.ares.ctripcorp.com
 DOMAIN,static.bshare.cn
@@ -475,6 +498,7 @@ DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
 DOMAIN,t1.welab.bank
 DOMAIN,tag.rmp.rakuten.com
+DOMAIN,tags.creativecdn.com
 DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
 DOMAIN,tangram.e.qq.com
@@ -592,9 +616,11 @@ DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
+DOMAIN-SUFFIX,collect.igodigital.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,d.meituan.net // Empty DNS Result
 DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,device.marketingcloudapis.com
 DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
@@ -615,6 +641,7 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iemig.com
 DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,imrworldwide.com
@@ -675,6 +702,7 @@ DOMAIN-SUFFIX,shouji.sougou.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,smartlook.com
+DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,socialannex.com
 DOMAIN-SUFFIX,socialbakers.com
