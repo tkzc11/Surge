@@ -5,6 +5,7 @@ DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a.pixiv.org
+DOMAIN,a.pub.network
 DOMAIN,aa.agkn.com
 DOMAIN,aa.online-metrix.net
 DOMAIN,abtest.alibaba.com
@@ -31,6 +32,7 @@ DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashx.ut.amap.com
 DOMAIN,adashx.ut.cainiao.com
 DOMAIN,adashx.ut.ele.me
+DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adashx.ut.hzshudian.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adc-ad-assets.adtilt.com
@@ -81,6 +83,7 @@ DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
 DOMAIN,api.apptentive.com
+DOMAIN,api.btloader.com
 DOMAIN,api.gameanalytics.com
 DOMAIN,api.growingio.com
 DOMAIN,api.mixpanel.com
@@ -136,6 +139,7 @@ DOMAIN,beacon.tingyun.com
 DOMAIN,beacon.wikia-services.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,bh.contextweb.com
+DOMAIN,btloader.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,boostrapapi.agoda.com
 DOMAIN,btloader.com
@@ -182,6 +186,7 @@ DOMAIN,cloudflareinsights.com
 DOMAIN,clue.oceanengine.com
 DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
+DOMAIN,cmp.quantcast.com
 DOMAIN,cms.quantserve.com
 DOMAIN,cnam4c-skadsdkless.appsflyersdk.com
 DOMAIN,co.dewrain.life
@@ -191,6 +196,7 @@ DOMAIN,collector.polarr.co
 DOMAIN,collector.sophi.io
 DOMAIN,comet.yahoo.com
 DOMAIN,config.jpush-ipv6.cn // Empty DNS Result
+DOMAIN,confiant-integrations.global.ssl.fastly.net
 DOMAIN,counter.yadro.ru
 DOMAIN,conduit.redfast.com
 DOMAIN,conf.hpplay.cn
@@ -400,6 +406,7 @@ DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
 DOMAIN,pixel.adsafeprotected.com
+DOMAIN,pixel.quantserve.com
 DOMAIN,pixel.wp.com
 DOMAIN,pixel.zprk.io
 DOMAIN,pixel-us-east.rubiconproject.com
@@ -428,7 +435,9 @@ DOMAIN,rs1.qq.com
 DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.rtoaster.jp
+DOMAIN,rules.quantcount.com
 DOMAIN,s.360.cn
+DOMAIN,s.amazon-adsystem.com
 DOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s2.go-mpulse.net
@@ -453,6 +462,7 @@ DOMAIN,sdkreport.e.qq.com
 DOMAIN,sdk-events.inner-active.mobi
 DOMAIN,searchapi.agoda.com
 DOMAIN,sec.umeng.com
+DOMAIN,secure.quantserve.com
 DOMAIN,securemetrics.apple.com.cn
 DOMAIN,segment-data-us-east.zqtk.net
 DOMAIN,seoab.io
