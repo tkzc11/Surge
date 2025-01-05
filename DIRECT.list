@@ -2,7 +2,7 @@
 DOMAIN,ccmdls.adobe.com
 
 # > Apple
-# DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com
 # DOMAIN,www.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 
