@@ -69,7 +69,9 @@ DOMAIN,alb.reddit.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,als.baidu.com
+DOMAIN,alsc-buy2.ele.me
 DOMAIN,alsc-config.ele.me
+DOMAIN,alsc-fingerprint.ele.me
 DOMAIN,an.yandex.ru
 DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
@@ -83,7 +85,6 @@ DOMAIN,analytics.starz.com
 DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
-DOMAIN,anz.sc.omtrdc.net
 DOMAIN,api.apptentive.com
 DOMAIN,api.btloader.com
 DOMAIN,api.gameanalytics.com
@@ -140,6 +141,7 @@ DOMAIN,bdlog.tanx.com
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
 DOMAIN,beacon.wikia-services.com
+DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,bh.contextweb.com
 DOMAIN,btloader.com
@@ -163,12 +165,13 @@ DOMAIN,cd.ladsp.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.confiant-integrations.net
+DOMAIN,cdn.cquotient.com
 DOMAIN,cdn.exelator.com
+DOMAIN,cdn.jst.ai
 DOMAIN,cdn.mobilefuse.com
 DOMAIN,cdn.optimizely.com
 DOMAIN,cdn.privacy-mgmt.com
 DOMAIN,cdn.quantummetric.com
-DOMAIN,cdn.segment.com
 DOMAIN,cdn.sophi.io
 DOMAIN,cdn.tinypass.com
 DOMAIN,cdn.taboola.com
@@ -233,20 +236,18 @@ DOMAIN,df.tanx.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dig.zjurl.cn
 DOMAIN,dis.criteo.com
-DOMAIN,disney.demdex.net
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
-DOMAIN,dpm.demdex.net
 DOMAIN,dmp.im-apps.net
 DOMAIN,dnlog.cmpassport.com
 DOMAIN,dns.msftncsi.com
 DOMAIN,doh.iq.com
 DOMAIN,douyinhelper.com
 DOMAIN,dp.im.weibo.cn
-DOMAIN,dpm.demdex.net
 DOMAIN,dsb.yahoo.co.jp
 DOMAIN,dualstack-logs.amap.com
 DOMAIN,dynamic.zol.com.cn
+DOMAIN,ea.pstmrk.it
 DOMAIN,eb2.3lift.com
 DOMAIN,eclick.baidu.com
 DOMAIN,ecmb.bdimg.com
@@ -283,6 +284,7 @@ DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,hbx.media.net
+DOMAIN,highway-tb.ele.me
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,httpdns.bcelive.com
@@ -323,6 +325,7 @@ DOMAIN,int.vaicore.site
 DOMAIN,int.vaicore.store
 DOMAIN,int.vaicore.xyz
 DOMAIN,intake-analytics.wikimedia.org
+DOMAIN,ios.bugly.tencent.com
 DOMAIN,ipgeo.wlvpn.com
 DOMAIN,ipv6.shuzilm.cn
 DOMAIN,is.snssdk.com
@@ -353,6 +356,7 @@ DOMAIN,logx.optimizely.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
+DOMAIN,lptag.messaging.optus.com.au
 DOMAIN,m.api.forter.com
 DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
@@ -380,6 +384,7 @@ DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
+DOMAIN,mtop.ele.me
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
@@ -397,10 +402,10 @@ DOMAIN,notify.bugsnag.com
 DOMAIN,ns.zdbb.net
 DOMAIN,nsclick.baidu.com
 DOMAIN,nt2.ele.me
-DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ocean.sankuai.com
 DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
+DOMAIN,omns.americanexpress.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
 DOMAIN,opehs.tanx.com
 DOMAIN,open.e.kuaishou.com
@@ -437,7 +442,6 @@ DOMAIN,px.effirst.com
 DOMAIN,px.ladsp.com
 DOMAIN,px.moatads.com
 DOMAIN,px.ucweb.com
-DOMAIN,qantasairways.tt.omtrdc.net
 DOMAIN,quicktracking-api.macaupass.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,report.appmetrica.yandex.net
@@ -446,9 +450,8 @@ DOMAIN,report.huatuo.qq.com
 DOMAIN,res.mall.10010.cn
 DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,rili.callmekeji.com
-DOMAIN,rmit.sc.omtrdc.net
-DOMAIN,rmit.tt.omtrdc.net
 DOMAIN,rp.hpplay.cn
+DOMAIN,rsc-api.ele.me
 DOMAIN,rs1.qq.com
 DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
@@ -489,6 +492,8 @@ DOMAIN,sessions.bugsnag.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
+DOMAIN,shopping.ele.me
+DOMAIN,singteloptus.australia-3.evergage.com
 DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
 DOMAIN,skadnetworks.fyber.com
@@ -521,7 +526,6 @@ DOMAIN,statusf.digitalcertvalidation.com
 DOMAIN,stocks-analytics-events.apple.com
 DOMAIN,stt.nvidia.com
 DOMAIN,stun.ideasip.com
-DOMAIN,stun.stunprotocol.org
 DOMAIN,stun.voiparound.com
 DOMAIN,syd-col.eum-appdynamics.com
 DOMAIN,sync.crwdcntrl.net
@@ -578,6 +582,7 @@ DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,websitereview.corp.apple.com // Empty DNS Result
+DOMAIN,wesing-test.tmeoa.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,who.nie.easebar.com
 DOMAIN,wkrd.tingyun.com
@@ -609,6 +614,7 @@ DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,zz.bdstatic.com
 
 DOMAIN-SUFFIX,8le8le.com
+DOMAIN-SUFFIX,abtasty.com
 DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
@@ -633,6 +639,7 @@ DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,asnapieu.comA
+DOMAIN-SUFFIX,bazaarvoice.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
@@ -654,7 +661,8 @@ DOMAIN-SUFFIX,collect.igodigital.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,d.meituan.net // Empty DNS Result
 DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,marketingcloudapis.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
@@ -727,10 +735,11 @@ DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sdk.linkedin.com
 DOMAIN-SUFFIX,seewhy.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segmentapis.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,sendgrid.net
-DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentiance.com
 DOMAIN-SUFFIX,serverbid.com
 DOMAIN-SUFFIX,serving-sys.com
@@ -750,6 +759,7 @@ DOMAIN-SUFFIX,stackadapt.com
 DOMAIN-SUFFIX,stathat.com
 DOMAIN-SUFFIX,stats.paypal.com
 DOMAIN-SUFFIX,stats-locations.com
+DOMAIN-SUFFIX,stunprotocol.org
 DOMAIN-SUFFIX,swrve.com
 DOMAIN-SUFFIX,tagcommander.com
 DOMAIN-SUFFIX,tailtarget.com
