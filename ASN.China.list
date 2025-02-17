@@ -259,7 +259,7 @@ IP-ASN,55958 // Intel China Ltd.
 IP-ASN,55960 // 北京光环新旺数码
 IP-ASN,55962 // 北京 Kuaishou Technology 有限公司
 IP-ASN,55966 // 邮政储蓄银行
-IP-ASN,55967 // 北京百度网通科技有限公司
+# IP-ASN,55967 // 北京百度网通科技有限公司
 IP-ASN,55971 // 中国社会科学院
 IP-ASN,55973 // APNIC ASN Block
 IP-ASN,55976 // 北京 DxConsole Technology有限公司
