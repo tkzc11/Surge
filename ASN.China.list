@@ -19,49 +19,47 @@ IP-ASN,7609 // 摩根士丹利管理服务（上海）有限公司
 IP-ASN,7640 // 中国国际信托投资公司管理信息中心
 IP-ASN,7641 // 中国广播电视网
 IP-ASN,7653 // 摩根士丹利管理服务（上海）有限公司
-# IP-ASN,7720 // Skywolf Technology LLC   【未广播中国大陆IP】
-# IP-ASN,7721 // Qin Cloud Networks       【未广播中国大陆IP】
+# IP-ASN,7721 // Qin Cloud Networks 【未广播中国大陆IP】
 IP-ASN,9298 // 北京光环讯通数码科技有限公司
-IP-ASN,9306 // 中国国际电子商务中心
-IP-ASN,9308 // 北京毅云网络科技有限公司
-# IP-ASN,9384 // MIKU NETWORK LIMITED     【未广播中国大陆IP】
+IP-ASN,9306 // 荣华路11号, 北京经济技术开发区, 100176
+IP-ASN,9308 // Abitcool(China) Inc.
+# IP-ASN,9384 // MIKU NETWORK LIMITED 【未广播中国大陆IP】
 IP-ASN,9389 // 北京神州长城通信
 IP-ASN,9391 // 广东省公路宽带网络服务中心
-IP-ASN,9392 // 亚太卫星宽带通信（深圳）有限公司
+IP-ASN,9392 // APT MOBILE SATCOM LIMITED
 IP-ASN,9394 // 中国铁通电讯公司
 IP-ASN,9395 // 北京国信比林电信科技有限公司
 IP-ASN,9401 // 中国国家图书馆
 IP-ASN,9405 // 中国清华大学测试平台服务中心
 IP-ASN,9406 // NSFC High Speed Testbed
-# IP-ASN,9516 // Sakura Network LTD       【未广播中国大陆IP】
-IP-ASN,9535 // INTERNET-SOLUTION -HK
+IP-ASN,9425 // 中国教育和科研计算机网（CERNET）
+# IP-ASN,9516 // Sakura Network LTD 【未广播中国大陆IP】
+IP-ASN,9535 // 北京中联数据科技有限公司
 IP-ASN,9800 // 中国联通
 IP-ASN,9801 // 北京中关村信息技术有限公司
-IP-ASN,9802 // 北京毅云网络科技有限公司
+IP-ASN,9802 // Abitcool(China) Inc.
 IP-ASN,9803 // 北京京讯公共信息技术有限公司
 IP-ASN,9805 // 西门子（中国）有限公司
-IP-ASN,9806 // 北京教育信息网
+IP-ASN,9806 // 北京国际技术合作中心有限公司
 IP-ASN,9807 // 中国国家统计局数据管理中心
 IP-ASN,9808 // 广东移动通信有限公司
-IP-ASN,9809 // 中国深圳市福田区雅柏公园
+IP-ASN,9809 // 深圳 NOVA 科技发展有限公司
 IP-ASN,9810 // 北京时代网星科技有限公司
 IP-ASN,9811 // 国务院发展研究中心网
 IP-ASN,9812 // 东方有线网络有限公司
 IP-ASN,9814 // 北京光纤网络有限公司
 IP-ASN,9818 // 中国清华大学互联网金融实验室
 IP-ASN,9819 // 北京 Teletron 电信工程有限公司
-IP-ASN,9886 // MercyCloud Network
 IP-ASN,9929 // 中国联通工业互联网骨干网
 IP-ASN,9939 // 中国第一线(深圳)有限公司
-IP-ASN,10111 // Zeofast Network （现上海吉实信息技术有限公司）
+# IP-ASN,10111 // Zeofast Network 【不完全广播中国大陆IP】
 IP-ASN,10206 // 中国联通 中卫云
 IP-ASN,10212 // 中国企业通讯
 IP-ASN,17428 // 北京世纪互联宽带数据中心有限公司
 IP-ASN,17429 // 北京歌华有线电视网络有限公司
 IP-ASN,17430 // 北京西朗传媒文化有限公司
 IP-ASN,17442 // 中国互联网服务提供商
-# IP-ASN,17457 // 雅虎网络科技           【未广播中国大陆IP】
-IP-ASN,17490 // 3/F,Yi Qing Building,Hua Jing Xin Cheng,广州
+IP-ASN,17490 // 3/F,Yi Qing Building,华景新城,广州
 IP-ASN,17621 // 中国联通上海城网
 IP-ASN,17622 // 中国联通广州城网
 IP-ASN,17623 // 中国联通深圳城网
@@ -75,28 +73,29 @@ IP-ASN,17781 // 中国新华社
 IP-ASN,17785 // 中国电信河南省网
 IP-ASN,17799 // 中国电信辽宁省网
 IP-ASN,17816 // 中国联通广东省网
-# IP-ASN,17830 // David Liu aka PotatoNet 【未广播中国大陆IP】
 IP-ASN,17897 // 中国电信黑龙江省网
 IP-ASN,17962 // 深圳市拓威视讯传播有限公司
 IP-ASN,17964 // 北京电信通网络科技有限公司
 IP-ASN,17966 // 中国信息广播网络有限公司
 IP-ASN,17968 // 大庆中基石油电信建设有限公司
-IP-ASN,17969 // 北京宽通网络科技有限公司
-IP-ASN,18011 // 中国教育实验网
+IP-ASN,17969 // 重庆广播电视信息网络有限公司
+IP-ASN,18011 // CERNET 863 3TNET Terabit Regional Network (CERNET-3TN)
 IP-ASN,18118 // 中信网络管理有限公司
 IP-ASN,18239 // 北京首都公共信息平台
 IP-ASN,18240 // 北京 Teletron 电信工程有限公司
 IP-ASN,18241 // 国家电力信息网
 IP-ASN,18242 // 成都信息港有限公司
-IP-ASN,18243 // 上海易思网络科技发展有限公司
+IP-ASN,18243 // 5楼,9栋,碧波路690号,上海,中国
 IP-ASN,18244 // 上海国联互联网数据中心有限公司
 IP-ASN,18245 // 北京方正宽带网络技术有限公司
 IP-ASN,18257 // 常州比特姆软件科技有限公司
-IP-ASN,23650 // 中国电信江苏省网
+IP-ASN,23611 // 中国电信甘肃省网
+IP-ASN,23650 // 中国电信江苏IDC网络
+IP-ASN,23662 // 中国电信甘肃省网
 IP-ASN,23724 // 中国电信IDC网络
 IP-ASN,23771 // 陕西广电网络
 IP-ASN,23839 // 辽河油田电讯公司
-IP-ASN,23840 // 天津先进信息产品有限公司
+IP-ASN,23840 // 天津泰达有线电视网络有限公司
 IP-ASN,23841 // 6/F, No.3 Huatian Road, New Technology Industry Area
 IP-ASN,23842 // 深圳市信息网络中心
 IP-ASN,23844 // 北京光环新旺数码
@@ -106,94 +105,96 @@ IP-ASN,23852 // 广州未来科技有限公司
 IP-ASN,23853 // 上海数据解决方案有限公司
 IP-ASN,23910 // 中国电信下一代承载网 (CERNET 2)
 IP-ASN,23911 // 中国电信下一代承载网 (北京 IX)
-IP-ASN,24133 // 北京世纪互联宽带数据中心有限公司
+IP-ASN,24133 // 21vianet(China) Inc.
 IP-ASN,24134 // 北京互联通网络科技有限公司
 IP-ASN,24137 // 河南平煤集团
 IP-ASN,24138 // 中国铁通电信公司
 IP-ASN,24139 // 华蜀传媒网络有限公司
 IP-ASN,24141 // 上海地面通信息网络有限公司
 IP-ASN,24143 // 青岛有线电视网络中心
-IP-ASN,24144 // 武汉蓝视云科技有限公司
+IP-ASN,24144 // 武汉蓝视云科技有限公司 【未广播中国大陆IP】
 IP-ASN,24147 // 北京商务中心区通信科技有限公司
 IP-ASN,24149 // 中国互联网域名系统北京工程研究中心有限公司
 IP-ASN,24150 // 四川有线电视网络有限公司
 IP-ASN,24151 // 中国互联网络信息中心
-IP-ASN,24239 // 中国清华大学TWD2教育和研究网络
-IP-ASN,24302 // 中国清华大学
-IP-ASN,24311 // 中国移动通信集团公司 IPv6 网络
-IP-ASN,24348 // 中国清华大学 (CERNET 2 IX)
-IP-ASN,24349 // 中国北京大学 (CERNET 2 IX)
-IP-ASN,24350 // 中国北京邮电大学 (CERNET 2 IX)
-IP-ASN,24351 // 中国北京航空航天大学 (CERNET 2 IX)
-IP-ASN,24352 // 中国天津大学 (CERNET 2 IX)
-IP-ASN,24353 // 中国西安交通大学 (CERNET 2 IX)
-IP-ASN,24354 // 中国中国兰州大学 (CERNET 2 IX)
-IP-ASN,24355 // 中国电子科技大学 (CERNET 2 IX)
-IP-ASN,24356 // 中国重庆大学 (CERNET 2 IX)
-IP-ASN,24357 // 中国华南理工大学 (CERNET 2 IX)
-IP-ASN,24358 // 中国华中科技大学 (CERNET 2 IX)
-IP-ASN,24359 // 中国中南大学 (CERNET 2 IX)
-IP-ASN,24360 // 中国郑州大学 (CERNET 2 IX)
-IP-ASN,24361 // 中国东南大学 (CERNET 2 IX)
+IP-ASN,24239 // 清华大学TWD2教育和研究网络 【未广播中国大陆IP】
+IP-ASN,24302 // 清华大学
+IP-ASN,24311 // 中国移动
+IP-ASN,24348 // 清华大学 (CERNET 2 IX)
+IP-ASN,24349 // 北京大学 (CERNET 2 IX)
+IP-ASN,24350 // 北京邮电大学 (CERNET 2 IX)
+IP-ASN,24351 // 北京航空航天大学 (CERNET 2 IX)
+IP-ASN,24352 // 天津大学 (CERNET 2 IX)
+IP-ASN,24353 // 西安交通大学 (CERNET 2 IX)
+IP-ASN,24354 // 兰州大学 (CERNET 2 IX)
+IP-ASN,24355 // 电子科技大学 (CERNET 2 IX)
+IP-ASN,24356 // 重庆大学 (CERNET 2 IX)
+IP-ASN,24357 // 华南理工大学 (CERNET 2 IX)
+IP-ASN,24358 // 杭州电子科技大学 (CERNET 2 IX)
+IP-ASN,24359 // 中南大学 (CERNET 2 IX)
+IP-ASN,24360 // 郑州大学 (CERNET 2 IX)
+IP-ASN,24361 // 东南大学 (CERNET 2 IX)
 IP-ASN,24362 // 中国科学技术大学 (CERNET 2 IX)
-IP-ASN,24363 // 中国山东大学 (CERNET 2 IX)
-IP-ASN,24364 // 中国上海交通大学 (CERNET 2 IX)
-IP-ASN,24365 // 中国复旦大学 (CERNET 2 IX)
-IP-ASN,24366 // 中国同济大学 (CERNET 2 IX)
-IP-ASN,24367 // 中国浙江大学 (CERNET 2 IX)
-IP-ASN,24368 // 中国厦门大学 (CERNET 2 IX)
-IP-ASN,24369 // 中国东北大学 (CERNET 2 IX)
-IP-ASN,24370 // 中国大连理工大学 (CERNET 2 IX)
-IP-ASN,24371 // 中国吉林大学 (CERNET 2 IX)
+IP-ASN,24363 // 山东大学 (CERNET 2 IX)
+IP-ASN,24364 // 上海交通大学 (CERNET 2 IX)
+IP-ASN,24365 // 复旦大学 (CERNET 2 IX)
+IP-ASN,24366 // 同济大学 (CERNET 2 IX)
+IP-ASN,24367 // 浙江大学 (CERNET 2 IX)
+IP-ASN,24368 // 厦门大学 (CERNET 2 IX)
+IP-ASN,24369 // 东北大学 (CERNET 2 IX)
+IP-ASN,24370 // 大连理工大学 (CERNET 2 IX)
+IP-ASN,24371 // 吉林大学 (CERNET 2 IX)
 IP-ASN,24372 // 哈尔滨工业大学 (CERNET 2 IX)
 # IP-ASN,24376 // 雅虎中国数据中心
 IP-ASN,24400 // 上海移动通信有限公司
-IP-ASN,24404 // 北京铜牛信息科技股份有限公司
+IP-ASN,24404 // 北京中联网盟科技股份有限公司
 IP-ASN,24406 // 中国互联网络信息中心
 IP-ASN,24409 // 中国互联网络信息中心
-IP-ASN,24413 // 深圳市日升科技有限公司
-IP-ASN,24416 // 北京三信时代科技有限公司
+IP-ASN,24413 // 上海二六三通信有限公司
+IP-ASN,24415 // 江西广电信息网络
+IP-ASN,24416 // 北京 Primezone 科技有限公司
 IP-ASN,24422 // 华北石油通信有限公司
 IP-ASN,24423 // 福建广电网络集团
 IP-ASN,24424 // 北京谷翔信息技术有限公司
-IP-ASN,24426 // 北京 CE Huatong信息科技有限公司
+IP-ASN,24426 // 北京 CE Huatong 信息科技有限公司
 IP-ASN,24427 // 上海驰信信息技术有限公司
 IP-ASN,24428 // 北京方正宽带网络技术有限公司
-# IP-ASN,24429 // 浙江淘宝网络有限公司
+# IP-ASN,24429 // 浙江淘宝网络有限公司 【不完全广播中国大陆IP】
 IP-ASN,24430 // 中国国家邮政局
 IP-ASN,24444 // 山东移动通信有限公司
 IP-ASN,24445 // 河南移动通信有限公司
-IP-ASN,24489 // 跨欧亚信息网络 (TEIN2)
-# IP-ASN,24490 // 跨欧亚信息网络 (TEIN2) 【未广播中国大陆IP】
+IP-ASN,24489 // 跨欧亚信息网络 (TEIN2) - North
+IP-ASN,24490 // 跨欧亚信息网络 (TEIN2) - SG
 IP-ASN,24495 // G-NET综合服务有限公司
 IP-ASN,24547 // 河北移动通信有限公司
 IP-ASN,24575 // 清华大学实验室
 IP-ASN,37936 // 北京市海淀区北四环西路58号理想国际大厦15楼
 IP-ASN,37937 // 中国电子政务信息中心
-IP-ASN,37941 // 中国数码科技有限公司
+IP-ASN,37941 // 中国数码港科技有限公司
 IP-ASN,37942 // 中国文化遗产信息咨询中心
 IP-ASN,37943 // 郑州巨特计算机网络技术有限公司
 IP-ASN,37957 // 中国通讯有限公司
 IP-ASN,37963 // 杭州阿里巴巴广告有限公司
 IP-ASN,37965 // 亚太环通商务解决方案
-IP-ASN,37968 // 深圳 QianHai New-Type Internet Exchange Point 有限公司
+IP-ASN,37968 // 深圳前海新型互联网交换中心有限公司
 IP-ASN,37969 // 杭州云泽网络科技有限公司
 IP-ASN,37970 // 中国华电公司
 IP-ASN,38019 // 天津移动通信有限公司
 IP-ASN,38027 // 信息中心，科学技术部
 IP-ASN,38057 // 戴尔（中国）有限公司
 IP-ASN,38238 // 法国兴业银行（中国）有限公司
-IP-ASN,38255 // 中国教育研究网（CERNET ）
-IP-ASN,38272 // 中国教育研究网（CERNET ）
+IP-ASN,38255 // 中国教育和科研计算机网（CERNET）
+IP-ASN,38272 // 中国教育和科研计算机网（CERNET）
 IP-ASN,38283 // 中国电信四川电信互联网数据中心
-IP-ASN,38323 // 广州麦克疯广告有限公司
+# IP-ASN,38323 // 广州麦克疯广告有限公司 【未广播中国大陆IP】
+IP-ASN,38336 // 北京卅思云科技股份有限公司
 IP-ASN,38339 // 深圳市虎盟科技有限公司
-IP-ASN,38340 // 北京百度网通科技有限公司
+IP-ASN,38340 // 上海二六三通信有限公司
 IP-ASN,38341 // 中国和信信息技术有限公司
 IP-ASN,38342 // 上海维赛特网络系统有限公司
 IP-ASN,38345 // 中国互联网域名系统北京工程研究中心有限公司
 IP-ASN,38346 // 中国航天信息网络有限公司
-IP-ASN,38353 // 资本在线数据服务有限公司
+IP-ASN,38353 // 北京中联网盟科技有限公司
 IP-ASN,38355 // 重庆广播电视宽带IP城域网
 IP-ASN,38357 // 北京数据快讯科技有限公司
 IP-ASN,38358 // 中国科学技术协会信息中心
@@ -202,7 +203,7 @@ IP-ASN,38364 // 龙泰网络科技有限公司
 IP-ASN,38365 // 北京百度网通科技有限公司
 IP-ASN,38367 // 联合人寿保险股份有限公司
 IP-ASN,38370 // 中国铁路互联网广东分公司
-# IP-ASN,38371 //    【未广播中国大陆IP】
+# IP-ASN,38371 // APNIC ASN block 【未广播中国大陆IP】
 IP-ASN,38372 // 佛山市瑞江科技有限公司
 IP-ASN,38375 // 北京高华证券股份有限公司
 IP-ASN,38378 // 博世（中国）投资有限公司
@@ -210,14 +211,14 @@ IP-ASN,38379 // 上海劢杰网络数据科技有限公司
 IP-ASN,38380 // 中国南方机车车辆工业公司
 IP-ASN,38381 // 浙江民航信息科技有限公司
 IP-ASN,38439 // 北京烽鸟网络科技有限公司
-# IP-ASN,38564 // 英伟达亚洲互联网网关   【未广播中国大陆IP】
+# IP-ASN,38564 // 英伟达亚洲互联网网关 【未广播中国大陆IP】
 IP-ASN,38587 // 中国教育网互联网数据中心
 IP-ASN,38834 // 上海英伟达企业网
-# IP-ASN,39753 // Kai Liu
-# IP-ASN,41979 // 杭州 CloudZone 网络科技有限公司   【未广播中国大陆IP】
-IP-ASN,42962 // 石家庄旭鼎科技有限公司
-# IP-ASN,44421 // Yifu Yu   【未广播中国大陆IP】
-# IP-ASN,AS44446 - Yuan Xue   【未广播中国大陆IP】
+# IP-ASN,39753 // Kai Liu 【不完全广播中国大陆IP】
+# IP-ASN,41979 // 杭州 CloudZone 网络科技有限公司 【未广播中国大陆IP】
+# IP-ASN,42962 // 石家庄旭鼎科技有限公司 【不完全广播中国大陆IP】
+# IP-ASN,44421 // Yifu Yu 【未广播中国大陆IP】
+# IP-ASN,AS44446 // Yuan Xue 【未广播中国大陆IP】
 IP-ASN,45057 // 中国铁通上海城网
 IP-ASN,45058 // 金桥网通通信有限公司
 IP-ASN,45061 // 上海信息网络有限公司
@@ -440,7 +441,7 @@ IP-ASN,131137 // Inspur Software Group 有限公司
 IP-ASN,131171 // Everlife Networks
 IP-ASN,131285 // 中国电信
 IP-ASN,131325 // CHINATELECOM 江苏省南京市MAN网络
-IP-ASN,131326 // Beijing CNISP Technology Co Ltd
+IP-ASN,131326 // 北京中联数据科技有限公司
 IP-ASN,131477 // 上海华娟信息技术有限公司
 IP-ASN,131482 // 杭州 Aron Teconology 有限公司
 IP-ASN,131484 // Ubisoft 上海
