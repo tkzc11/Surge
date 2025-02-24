@@ -6,7 +6,6 @@ DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a.pixiv.org
 DOMAIN,a.pub.network
-DOMAIN,aa.agkn.com
 DOMAIN,abtest.alibaba.com
 DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abtest-tx-beijing-01.saas.sensorsdata.cn
@@ -50,7 +49,7 @@ DOMAIN,ads-api.twitter.com
 DOMAIN,ads-resources.waze.com
 DOMAIN,dsassets.waze.com
 DOMAIN,ads.adfox.ru
-DOMAIN,ads.pubmatic.com
+DOMAIN,adsassets.waze.com
 DOMAIN,adserver.adtech.advertising.com
 DOMAIN,adservice.sigmob.cn
 DOMAIN,adservice.google.com
@@ -59,9 +58,11 @@ DOMAIN,adshows.21cn.com
 DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adtag.sphdigital.com
+DOMAIN,adtrack.quark.cn
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
+DOMAIN,advil.waze.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,aegis.qq.com
 DOMAIN,aid.m.taobao.com
@@ -79,6 +80,7 @@ DOMAIN,analysis.tratao.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.adjust.net.in
 DOMAIN,analytics.adjust.world
+DOMAIN,analytics.bestbuy.com
 DOMAIN,analytics.cloud.coveo.com
 DOMAIN,analytics.kongregate.io
 DOMAIN,analytics.map.qq.com
@@ -133,27 +135,24 @@ DOMAIN,audid-api.taobao.com
 DOMAIN,audiencedata.im-apps.net
 DOMAIN,auth.follow-apps.com
 DOMAIN,auth.split.io
-DOMAIN,badjs.weixinbridge.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,baidubox-emoji.cdn.bcebos.com.a.bdydns.com
 DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bat.bing.com
 DOMAIN,bcp.crwdcntrl.net
-DOMAIN,bdlog.tanx.com
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
 DOMAIN,beacon.wikia-services.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,bh.contextweb.com
+DOMAIN,brahe.apptimize.com
 DOMAIN,btloader.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,boostrapapi.agoda.com
 DOMAIN,btloader.com
 DOMAIN,browser.events.data.msn.com
 DOMAIN,b-gtc.gepush.com
-DOMAIN,b1t-nydc1.zemanta.com
-DOMAIN,b1sync.zemanta.com
 DOMAIN,b92.yahoo.co.jp
 DOMAIN,c.bing.com
 DOMAIN,c.msn.com
@@ -211,6 +210,9 @@ DOMAIN,comet.yahoo.com
 DOMAIN,config.jpush-ipv6.cn // Empty DNS Result
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,confiant-integrations.global.ssl.fastly.net
+DOMAIN,connectivity-test.cloud.microsoft
+DOMAIN,connectivity-test.static.microsoft
+DOMAIN,connectivity-test.usercontent.microsoft
 DOMAIN,counter.yadro.ru
 DOMAIN,conduit.redfast.com
 DOMAIN,conf.hpplay.cn
@@ -219,6 +221,7 @@ DOMAIN,cpro.baidustatic.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,creativecdn.com
 DOMAIN,cssott.com // Empty DNS Result
+DOMAIN,ct.pinterest.com
 DOMAIN,cu-cn-north00002.gala.convection.cn
 DOMAIN,d3g.qq.com
 DOMAIN,da.mmarket.com
@@ -234,10 +237,8 @@ DOMAIN,dev.visualwebsiteoptimizer.com
 DOMAIN,device-metrics-us.amazon.com
 DOMAIN,device-metrics-us-2.amazon.com
 DOMAIN,devs.data.mob.com
-DOMAIN,df.tanx.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dig.zjurl.cn
-DOMAIN,dis.criteo.com
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
 DOMAIN,dmp.im-apps.net
@@ -249,19 +250,17 @@ DOMAIN,dp.im.weibo.cn
 DOMAIN,dsb.yahoo.co.jp
 DOMAIN,dualstack-logs.amap.com
 DOMAIN,dynamic.zol.com.cn
+DOMAIN,dynatrace-managed.com
 DOMAIN,ea.pstmrk.it
-DOMAIN,eb2.3lift.com
 DOMAIN,eclick.baidu.com
 DOMAIN,ecmb.bdimg.com
 DOMAIN,eco.taobao.com
 DOMAIN,edge.adobedc.net
 DOMAIN,edge.ads.twitch.tv
 DOMAIN,edge.fullstory.com
-DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,entitlements.jwplayer.com
-DOMAIN,et.tanx.com
 DOMAIN,events.mz.unity3d.com
 DOMAIN,events.split.io
 DOMAIN,fast.a.klaviyo.com
@@ -278,6 +277,8 @@ DOMAIN,f-log-extension.grammarly.io
 DOMAIN,geo.yahoo.com
 DOMAIN,geo.privacymanager.io
 DOMAIN,geo.query.yahoo.com
+DOMAIN,geolocation.onetrust.com
+DOMAIN,grpc.biliapi.net
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,h5static.m.jd.com
 DOMAIN,h-adashx.ut.ele.me
@@ -303,7 +304,6 @@ DOMAIN,infos.telstra.com.au
 DOMAIN,i2-vymzjliplcagmhbrooitrwuqbopdsg.init.cedexis-radar.net
 DOMAIN,ia.51.la
 DOMAIN,iad.g.163.com
-DOMAIN,ib.adnxs.com
 DOMAIN,ib.snssdk.com
 DOMAIN,ibd-as-api.iq.com
 DOMAIN,ice.360yield.com
@@ -311,9 +311,7 @@ DOMAIN,ichnaea-web.netflix.com
 DOMAIN,id.cxense.com
 DOMAIN,id.geistm.com
 DOMAIN,id5-sync.com
-DOMAIN,ifs.tanx.com
 DOMAIN,ilce.alicdn.com
-DOMAIN,image8.pubmatic.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,incoming.telemetry.mozilla.org
@@ -338,14 +336,14 @@ DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.monitor.azure.com
 DOMAIN,js-cdn.dynatrace.com
 DOMAIN,kepler.jd.com
-DOMAIN,kgb-ifs.tanx.com
 DOMAIN,kuaishou.httpdns.pro
 DOMAIN,kvinit-prod.api.kochava.com
-DOMAIN,l.contentsquare.net
+DOMAIN,k-ring.msedge.net
 DOMAIN,list.z.qingting.fm
 DOMAIN,load77.exelator.com
 DOMAIN,localhost.ptlogin2.qq.com
 DOMAIN,localhost.weixin.qq.com
+DOMAIN,rest.locuslabs.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
@@ -364,6 +362,7 @@ DOMAIN,lptag.messaging.optus.com.au
 DOMAIN,m.api.forter.com
 DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
+DOMAIN,mail-ads.google.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
@@ -375,7 +374,6 @@ DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics1-drcn.dt.dbankcloud.cn
 DOMAIN,mid4.linkedin.com
-DOMAIN,mmstl-tianhe.tanx.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobileconfig.sascdn.com
 DOMAIN,mobiletelemetry.ebay.com
@@ -383,9 +381,11 @@ DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mobile-production.content-square.net
 DOMAIN,mon.isnssdk.com
 DOMAIN,mon.snssdk.com
+DOMAIN,mon.tiktokv.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
+DOMAIN,msite.baidu.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
 DOMAIN,mtop.ele.me
@@ -411,9 +411,9 @@ DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
 DOMAIN,omns.americanexpress.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
-DOMAIN,opehs.tanx.com
 DOMAIN,open.e.kuaishou.com
 DOMAIN,opencdn.jomodns.com
+DOMAIN,optm.optus.com.au
 DOMAIN,orbit.jd.com
 DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
@@ -429,11 +429,11 @@ DOMAIN,perf-events.cloud.unity3d.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
+DOMAIN,pingjs.qq.com
 DOMAIN,pixel.adsafeprotected.com
 DOMAIN,pixel.quantserve.com
 DOMAIN,pixel.wp.com
 DOMAIN,pixel.zprk.io
-DOMAIN,pixel-us-east.rubiconproject.com
 DOMAIN,pixoctopus.pixnet.net
 DOMAIN,pm-gateway.supersonicads.com
 DOMAIN,pok.mintegral.net
@@ -461,9 +461,7 @@ DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.rtoaster.jp
 DOMAIN,rules.quantcount.com
-DOMAIN,s.360.cn
-DOMAIN,s.amazon-adsystem.com
-DOMAIN,s.deepl.com
+DOMAIN,s.360.cnDOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s2.go-mpulse.net
 DOMAIN,s2s.t13.io
@@ -474,8 +472,10 @@ DOMAIN,sanalytics.spark.co.nz
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,sb.voicefive.com
 DOMAIN,sbeacon.sina.com.cn
+DOMAIN,sc-static.net
 DOMAIN,scaredsnakes.com
 DOMAIN,scdn.cxense.com
+DOMAIN,scripts.webcontentassessor.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.open.talk.gepush.com
 DOMAIN,sdk.open.talk.igexin.com
@@ -503,8 +503,12 @@ DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
 DOMAIN,skadnetworks.fyber.com
 DOMAIN,skywalking.roombox.xdf.cn
-DOMAIN,smetrics.aem.playstation.com
 DOMAIN,smetric.hilton.com
+DOMAIN,smetrics.aem.playstation.com
+DOMAIN,smetrics.att.com
+DOMAIN,smetrics.bestbuy.com
+DOMAIN,smetrics.t-mobile.com
+DOMAIN,smetrics.ubi.com
 DOMAIN,smtc.qantas.com
 DOMAIN,snap.licdn.com
 DOMAIN,sofire.baidu.com
@@ -514,7 +518,6 @@ DOMAIN,srtb.msn.com
 DOMAIN,ssbsync.smartadserver.com
 DOMAIN,ssdkauth.hpplay.cn
 DOMAIN,sstats.adobe.com
-DOMAIN,st.pubmatic.com
 DOMAIN,startup.mobile.yandex.net
 DOMAIN,stas.outbrain.com
 DOMAIN,stat.download.xunlei.com
@@ -532,7 +535,6 @@ DOMAIN,stocks-analytics-events.apple.com
 DOMAIN,stt.nvidia.com
 DOMAIN,stun.ideasip.com
 DOMAIN,stun.voiparound.com
-DOMAIN,syd-col.eum-appdynamics.com
 DOMAIN,sync.crwdcntrl.net
 DOMAIN,sync.outbrain.com
 DOMAIN,sync.srv.stackadapt.com
@@ -556,6 +558,7 @@ DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tosv.byted.org
 DOMAIN,tpc.googlesyndication.com
+DOMAIN,tr6.snapchat.com
 DOMAIN,tr.snapchat.com
 DOMAIN,track-aus.hungrypanda.co
 DOMAIN,track.lc.quark.cn
@@ -573,7 +576,9 @@ DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,um.simpli.fi
 DOMAIN,umengacs.m.taobao.com
+DOMAIN,umini.shujupie.com
 DOMAIN,unagi-na.amazon.com
+DOMAIN,unet.ucweb.com
 DOMAIN,unknown-api.citymapper.com // Empty DNS Result
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
@@ -618,6 +623,8 @@ DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,zz.bdstatic.com
 
+DOMAIN-SUFFIX,3lift.com
+DOMAIN-SUFFIX,4dex.io
 DOMAIN-SUFFIX,8le8le.com
 DOMAIN-SUFFIX,abtasty.com
 DOMAIN-SUFFIX,ad.10010.com
@@ -627,6 +634,7 @@ DOMAIN-SUFFIX,ad-tech.nbcuni.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adfarm1.adition.com
 DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
@@ -634,6 +642,7 @@ DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,adxvip.com
+DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
@@ -643,7 +652,8 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,asnapieu.comA
+DOMAIN-SUFFIX,asnapieu.com
+DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,bazaarvoice.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
@@ -656,14 +666,21 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,btrll.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,c.appier.net
+DOMAIN-SUFFIX,campaign.adobe.com
+DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cedexis.com
+DOMAIN-SUFFIX,cfe.uber.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,collect.igodigital.com
+DOMAIN-SUFFIX,contentsquare.net
 DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,d.meituan.net // Empty DNS Result
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,datadoghq.com
@@ -678,8 +695,8 @@ DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,footprintdns.com
-DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,foresee.com
+DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
@@ -698,10 +715,13 @@ DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,invocacdn.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,irs03.com
 DOMAIN-SUFFIX,kissmetrics.com
+DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,liadm.com
+DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,log.mgtv.com
@@ -719,6 +739,7 @@ DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
 DOMAIN-SUFFIX,mutinycdn.com
+DOMAIN-SUFFIX,mxpnl.com
 DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,newrelic.com
@@ -728,15 +749,21 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parrable.com
 DOMAIN-SUFFIX,petametrics.com
 DOMAIN-SUFFIX,predic.io
+DOMAIN-SUFFIX,ptengine.com
 DOMAIN-SUFFIX,pub.network
 DOMAIN-SUFFIX,pubapp.network
+DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,px-cloud.net
+DOMAIN-SUFFIX,pxf.io
+DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sdk.linkedin.com
@@ -769,6 +796,7 @@ DOMAIN-SUFFIX,stunprotocol.org
 DOMAIN-SUFFIX,swrve.com
 DOMAIN-SUFFIX,tagcommander.com
 DOMAIN-SUFFIX,tailtarget.com
+DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,tapfiliate.com
 DOMAIN-SUFFIX,tapinfluence.com
@@ -784,12 +812,15 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
+DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
 
