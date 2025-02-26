@@ -4,6 +4,7 @@ DOMAIN,240e-925-2-400-8000--100.volcsiriusbd.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
 DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
+DOMAIN,a-ring.msedge.net
 DOMAIN,a.pixiv.org
 DOMAIN,a.pub.network
 DOMAIN,abtest.alibaba.com
@@ -207,12 +208,12 @@ DOMAIN,collect.tealiumiq.com
 DOMAIN,collector.polarr.co
 DOMAIN,collector.sophi.io
 DOMAIN,comet.yahoo.com
-DOMAIN,config.jpush-ipv6.cn // Empty DNS Result
 DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,confiant-integrations.global.ssl.fastly.net
 DOMAIN,connectivity-test.cloud.microsoft
 DOMAIN,connectivity-test.static.microsoft
 DOMAIN,connectivity-test.usercontent.microsoft
+DOMAIN,content.byabcd.com
 DOMAIN,counter.yadro.ru
 DOMAIN,conduit.redfast.com
 DOMAIN,conf.hpplay.cn
@@ -220,7 +221,7 @@ DOMAIN,control.kochava.com
 DOMAIN,cpro.baidustatic.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,creativecdn.com
-DOMAIN,cssott.com // Empty DNS Result
+DOMAIN,csi.gstatic.com
 DOMAIN,ct.pinterest.com
 DOMAIN,cu-cn-north00002.gala.convection.cn
 DOMAIN,d3g.qq.com
@@ -369,12 +370,13 @@ DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
 DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,media.trafficjunky.com
-DOMAIN,metriccc.bas.cmbchina.cn // Empty DNS Result
+DOMAIN,metriccc.bas.cmbchina.cn
 DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics1-drcn.dt.dbankcloud.cn
 DOMAIN,mid4.linkedin.com
 DOMAIN,mobads.baidu.com
+DOMAIN,mobile.confsettings.com
 DOMAIN,mobileconfig.sascdn.com
 DOMAIN,mobiletelemetry.ebay.com
 DOMAIN,mobilelog.upqzfile.com
@@ -385,6 +387,7 @@ DOMAIN,mon.tiktokv.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
+DOMAIN,mr.fullstory.com
 DOMAIN,msite.baidu.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,mtrace.qq.com
@@ -419,7 +422,6 @@ DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,p1.pstatp.com
 DOMAIN,p9.pstatp.com
-DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pangolin.snssdk.com
 DOMAIN,personalization.bloomberg.com
 DOMAIN,pgdt.gtimg.cn
@@ -557,7 +559,6 @@ DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tosv.byted.org
-DOMAIN,tpc.googlesyndication.com
 DOMAIN,tr6.snapchat.com
 DOMAIN,tr.snapchat.com
 DOMAIN,track-aus.hungrypanda.co
@@ -610,6 +611,7 @@ DOMAIN,www.googletagmanager.com
 DOMAIN,www.fastly-insights.com
 DOMAIN,www.ihezu.cn
 DOMAIN,www.lightboxcdn.com
+DOMAIN,www.mokexapp.io
 DOMAIN,www.qchannel01.cn
 DOMAIN,www.qchannel03.cn
 DOMAIN,www.sinawap.com
@@ -654,6 +656,7 @@ DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,asnapieu.com
 DOMAIN-SUFFIX,awstrack.me
+DOMAIN-SUFFIX,azr.footprintdns.com
 DOMAIN-SUFFIX,bazaarvoice.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
@@ -703,6 +706,7 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,giocdn.com
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
