@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,uplynk.com
+# DOMAIN-SUFFIX,api.discomax.com
 DOMAIN-KEYWORD,discovery.uplynk.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
