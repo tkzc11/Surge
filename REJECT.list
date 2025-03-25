@@ -187,7 +187,6 @@ DOMAIN,cdntm.hsbc.com.hk
 DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
-DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
@@ -200,7 +199,6 @@ DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
 DOMAIN,cmp.quantcast.com
 DOMAIN,cms.quantserve.com
-DOMAIN,cnam4c-skadsdkless.appsflyersdk.com
 DOMAIN,co.dewrain.life
 DOMAIN,co.vaicore.xyz
 DOMAIN,code.yengo.com
@@ -653,6 +651,7 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,asnapieu.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,azr.footprintdns.com
