@@ -7,6 +7,7 @@ DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a-ring.msedge.net
 DOMAIN,a.pixiv.org
 DOMAIN,a.pub.network
+DOMAIN,aax-fe.amazon.com.au
 DOMAIN,abtest.alibaba.com
 DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abtest-tx-beijing-01.saas.sensorsdata.cn
@@ -43,7 +44,6 @@ DOMAIN,apex.go.sonobi.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adf0901f1861.cdn4.forter.com
 DOMAIN,admarket.21cn.com
-DOMAIN,adobemobiledev.data.adobedc.net
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,ads-api.twitter.com
@@ -102,7 +102,6 @@ DOMAIN,api.segment.io
 DOMAIN,api.sprig.com
 DOMAIN,api.tuisong.baidu.com
 DOMAIN,api2.amplitude.com
-DOMAIN,api3.siftscience.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
@@ -132,6 +131,7 @@ DOMAIN,asia.creativecdn.com
 DOMAIN,assets.prod.leanplum.com
 DOMAIN,astatic.m.jd.com
 DOMAIN,atoken.m.taobao.com
+DOMAIN,au-script.dotmetrics.net
 DOMAIN,audid-api.taobao.com
 DOMAIN,audiencedata.im-apps.net
 DOMAIN,auth.follow-apps.com
@@ -158,7 +158,6 @@ DOMAIN,b92.yahoo.co.jp
 DOMAIN,c.bing.com
 DOMAIN,c.msn.com
 DOMAIN,c.office.com
-DOMAIN,c.riskified.com
 DOMAIN,cba.data.adobedc.net
 DOMAIN,cc.map.qq.com
 DOMAIN,c1.adform.net
@@ -187,7 +186,6 @@ DOMAIN,cdntm.hsbc.com.hk
 DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
-DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
@@ -206,7 +204,6 @@ DOMAIN,collect.tealiumiq.com
 DOMAIN,collector.polarr.co
 DOMAIN,collector.sophi.io
 DOMAIN,comet.yahoo.com
-DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,confiant-integrations.global.ssl.fastly.net
 DOMAIN,connectivity-test.cloud.microsoft
 DOMAIN,connectivity-test.static.microsoft
@@ -424,7 +421,6 @@ DOMAIN,personalization.bloomberg.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pafms.ocbc.com
-DOMAIN,perf-events.cloud.unity3d.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
@@ -468,6 +464,7 @@ DOMAIN,s3t3d2y7.ackcdn.net
 DOMAIN,s95.cnzz.com
 DOMAIN,sanalytics.disneyplus.com
 DOMAIN,sanalytics.spark.co.nz
+DOMAIN,sasinator.realestate.com.au
 DOMAIN,sb.scorecardresearch.com
 DOMAIN,sb.voicefive.com
 DOMAIN,sbeacon.sina.com.cn
@@ -509,6 +506,7 @@ DOMAIN,smetrics.bestbuy.com
 DOMAIN,smetrics.t-mobile.com
 DOMAIN,smetrics.ubi.com
 DOMAIN,smtc.qantas.com
+DOMAIN,smetrics.realestate.com.au
 DOMAIN,snap.licdn.com
 DOMAIN,sofire.baidu.com
 DOMAIN,spider-tracker.xiaohongshu.com
@@ -638,6 +636,7 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,aimatch.com
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,adxvip.com
@@ -660,6 +659,7 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
 DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,braintreegateway.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
@@ -671,10 +671,12 @@ DOMAIN-SUFFIX,campaign.adobe.com
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,cfe.uber.com
+DOMAIN-SUFFIX,cfjump.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,creativecdn.com
+DOMAIN-SUFFIX,cloud.unity3d.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,collect.igodigital.com
@@ -684,8 +686,10 @@ DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,d.meituan.net // Empty DNS Result
 DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,data.adobedc.net
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,dynamicyield.com
 DOMAIN-SUFFIX,dewrain.life
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.net
@@ -710,8 +714,10 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iemig.com
+DOMAIN-SUFFIX,iesnare.com
 DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
@@ -730,7 +736,10 @@ DOMAIN-SUFFIX,log.mgtv.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,kampyle.com
+DOMAIN-SUFFIX,luckyorange.com
 DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,miaozhen.com
@@ -740,15 +749,18 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
+DOMAIN-SUFFIX,mtgglobals.com
 DOMAIN-SUFFIX,mutinycdn.com
 DOMAIN-SUFFIX,mxpnl.com
 DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,nexac.com
+DOMAIN-SUFFIX,nmrodam.com
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,onetrust.io
+DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,openx.net
@@ -764,10 +776,13 @@ DOMAIN-SUFFIX,pubapp.network
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,pxf.io
+DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,scarabresearch.com
 DOMAIN-SUFFIX,sdk.linkedin.com
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment.com
@@ -782,6 +797,7 @@ DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shouji.sougou.com
+DOMAIN-SUFFIX,siftscience.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,smartlook.com
@@ -795,6 +811,7 @@ DOMAIN-SUFFIX,stathat.com
 DOMAIN-SUFFIX,stats.paypal.com
 DOMAIN-SUFFIX,stats-locations.com
 DOMAIN-SUFFIX,stunprotocol.org
+DOMAIN-SUFFIX,survicate.com
 DOMAIN-SUFFIX,swrve.com
 DOMAIN-SUFFIX,tagcommander.com
 DOMAIN-SUFFIX,tailtarget.com
@@ -815,7 +832,10 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
