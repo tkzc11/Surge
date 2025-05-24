@@ -88,6 +88,7 @@ DOMAIN,analytics.bestbuy.com
 DOMAIN,analytics.cloud.coveo.com
 DOMAIN,analytics.kongregate.io
 DOMAIN,analytics.map.qq.com
+DOMAIN,analytics.oceanengine.com
 DOMAIN,analytics.realestate.com.au
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.starz.com
@@ -106,6 +107,7 @@ DOMAIN,api.rollbar.com
 DOMAIN,api.segment.io
 DOMAIN,api.sprig.com
 DOMAIN,api.tuisong.baidu.com
+DOMAIN,api.uca.cloud.unity3d.com
 DOMAIN,api2.amplitude.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
@@ -188,15 +190,18 @@ DOMAIN,cdn.webpushr.com
 DOMAIN,cdn.wwads.cn
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cdn-4.convertexperiments.com
+DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdntm.hsbc.com.au
 DOMAIN,cdntm.hsbc.com.hk
 DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
+DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
+DOMAIN,client-analytics.braintreegateway.com
 DOMAIN,clientlog3.music.163.com
 DOMAIN,cloudflareinsights.com
 DOMAIN,clue.oceanengine.com
@@ -212,8 +217,10 @@ DOMAIN,code.yengo.com
 DOMAIN,collect.tealiumiq.com
 DOMAIN,collector.polarr.co
 DOMAIN,collector.sophi.io
+DOMAIN,collector-7551.tvsquared.com
 DOMAIN,comet.yahoo.com
 DOMAIN,confiant-integrations.global.ssl.fastly.net
+DOMAIN,config.uca.cloud.unity3d.com
 DOMAIN,connectivity-test.cloud.microsoft
 DOMAIN,connectivity-test.static.microsoft
 DOMAIN,connectivity-test.usercontent.microsoft
@@ -247,6 +254,7 @@ DOMAIN,device-metrics-us-2.amazon.com
 DOMAIN,devs.data.mob.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dig.zjurl.cn
+DOMAIN,distillery.wistia.com
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
 DOMAIN,dmp.im-apps.net
@@ -441,6 +449,7 @@ DOMAIN,personalization.bloomberg.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pafms.ocbc.com
+DOMAIN,perf-events.cloud.unity3d.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
@@ -517,6 +526,7 @@ DOMAIN,settings-win.data.microsoft.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,shopping.ele.me
+DOMAIN,singair-d.neolane.net // Empty DNS Result
 DOMAIN,singteloptus.australia-3.evergage.com
 DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
@@ -548,6 +558,7 @@ DOMAIN,static.adsafeprotected.com
 DOMAIN,static.ares.ctripcorp.com
 DOMAIN,static.bshare.cn
 DOMAIN,static.cloudflareinsights.com
+DOMAIN,static.klaviyo.com
 DOMAIN,static.scroll.com
 DOMAIN,stats.fifthstarlabs.io
 DOMAIN,statusf.digitalcertvalidation.com
@@ -560,6 +571,7 @@ DOMAIN,sync.outbrain.com
 DOMAIN,sync.srv.stackadapt.com
 DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
+DOMAIN,t.cfjump.com
 DOMAIN,t1.welab.bank
 DOMAIN,t7z.cupid.iqiyi.com
 DOMAIN,tag.rmp.rakuten.com
@@ -678,7 +690,6 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,asnapieu.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,azr.footprintdns.com
@@ -687,7 +698,6 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
 DOMAIN-SUFFIX,beizi.biz
-DOMAIN-SUFFIX,braintreegateway.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
@@ -698,13 +708,10 @@ DOMAIN-SUFFIX,c.appier.net
 DOMAIN-SUFFIX,campaign.adobe.com
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cedexis.com
-DOMAIN-SUFFIX,cfe.uber.com
-DOMAIN-SUFFIX,cfjump.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,creativecdn.com
-DOMAIN-SUFFIX,cloud.unity3d.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,collect.igodigital.com
@@ -767,7 +774,6 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jwpltx.com
 DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,kampyle.com
-DOMAIN-SUFFIX,klaviyo.com
 DOMAIN-SUFFIX,luckyorange.com
 DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,marketo.net
@@ -784,7 +790,6 @@ DOMAIN-SUFFIX,mxpnl.com
 DOMAIN-SUFFIX,n0909.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,neolane.net
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nmrodam.com
 DOMAIN-SUFFIX,nr-data.net
@@ -861,7 +866,6 @@ DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,tradplusad.com
 DOMAIN-SUFFIX,treasuredata.com
 DOMAIN-SUFFIX,tru.am
-DOMAIN-SUFFIX,tvsquared.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,unityads.unity.cn
@@ -871,7 +875,6 @@ DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,usefathom.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
-DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
@@ -881,6 +884,8 @@ DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
+
+DOMAIN-KEYWORD,pcdn-35.biliapi.net
 
 URL-REGEX,^https:\/\/news-sports-events\.apple\.com\/analyticseventsv2
 URL-REGEX,^https:\/\/news-events\.apple\.com\/analyticseventsv2
