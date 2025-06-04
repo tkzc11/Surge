@@ -885,6 +885,8 @@ DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
 
+DOMAIN-SUFFIX,wxs.qq.com,REJECT,extended-matching
+
 DOMAIN-KEYWORD,pcdn-35.biliapi.net
 
 URL-REGEX,^https:\/\/news-sports-events\.apple\.com\/analyticseventsv2
