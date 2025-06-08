@@ -68,6 +68,7 @@ DOMAIN,advertise.baicizhan.org
 DOMAIN,advil.waze.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,aegis.qq.com
+DOMAIN,aepxlg.adobe.com
 DOMAIN,aid.m.taobao.com
 DOMAIN,akamai.tiqcdn.com
 DOMAIN,alb.reddit.com
@@ -80,6 +81,7 @@ DOMAIN,alsc-fingerprint.ele.me
 DOMAIN,an.yandex.ru
 DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
+DOMAIN,ametrics.mheducation.com
 DOMAIN,analysis.tratao.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.adjust.net.in
@@ -456,6 +458,8 @@ DOMAIN,pingfore.qq.com
 DOMAIN,pingjs.qq.com
 DOMAIN,pixel.adsafeprotected.com
 DOMAIN,pixel.quantserve.com
+DOMAIN,pixel.spotify.com
+DOMAIN,pixel-static.spotify.com
 DOMAIN,pixel.wp.com
 DOMAIN,pixel.zprk.io
 DOMAIN,pixoctopus.pixnet.net
@@ -487,6 +491,7 @@ DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.rtoaster.jp
 DOMAIN,rules.quantcount.com
+DOMAIN,rum-static.pingdom.net
 DOMAIN,s.360.cnDOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
 DOMAIN,s2.go-mpulse.net
@@ -530,6 +535,7 @@ DOMAIN,singair-d.neolane.net // Empty DNS Result
 DOMAIN,singteloptus.australia-3.evergage.com
 DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
+DOMAIN,sjarvis.taobao.com
 DOMAIN,skadnetworks.fyber.com
 DOMAIN,skywalking.roombox.xdf.cn
 DOMAIN,smetric.hilton.com
@@ -677,6 +683,7 @@ DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,aimatch.com
+DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,adxvip.com
@@ -836,6 +843,7 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shouji.sougou.com
 DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,signifyd.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,smartlook.com
@@ -868,6 +876,7 @@ DOMAIN-SUFFIX,treasuredata.com
 DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,update.nab.com.au
@@ -875,6 +884,7 @@ DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,usefathom.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,wdfl.co
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
