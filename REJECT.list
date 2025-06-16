@@ -150,6 +150,7 @@ DOMAIN,baidubox-emoji.cdn.bcebos.com.a.bdydns.com
 DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bat.bing.com
 DOMAIN,bcp.crwdcntrl.net
+DOMAIN,beacon.cdn.qq.com
 DOMAIN,beacon.shazam.com
 DOMAIN,beacon.tingyun.com
 DOMAIN,beacon.wikia-services.com
@@ -271,6 +272,7 @@ DOMAIN,dynamic.zol.com.cn
 DOMAIN,dynatrace-managed.com
 DOMAIN,ea.pstmrk.it
 DOMAIN,eclick.baidu.com
+DOMAIN,ecma.bdimg.com
 DOMAIN,ecmb.bdimg.com
 DOMAIN,eco.taobao.com
 DOMAIN,edge.adobedc.net
@@ -282,6 +284,7 @@ DOMAIN,entitlements.jwplayer.com
 DOMAIN,event-tracking.hellohealthgroup.com
 DOMAIN,events.mz.unity3d.com
 DOMAIN,events.split.io
+DOMAIN,extension.femetrics.grammarly.io
 DOMAIN,fc.yahoo.com
 DOMAIN,feedbackws.icloud.com
 DOMAIN,firebase-settings.crashlytics.com
@@ -297,7 +300,9 @@ DOMAIN,geo.yahoo.com
 DOMAIN,geo.privacymanager.io
 DOMAIN,geo.query.yahoo.com
 DOMAIN,geolocation.onetrust.com
+DOMAIN,gnar.grammarly.com
 DOMAIN,gs-loc-cn.apple.com
+DOMAIN,gsp1.baidu.com
 DOMAIN,h5static.m.jd.com
 DOMAIN,h-adashx.ut.ele.me
 DOMAIN,h-adashx.ut.cainiao.com
@@ -326,6 +331,7 @@ DOMAIN,ia.51.la
 DOMAIN,iad.g.163.com
 DOMAIN,ib.snssdk.com
 DOMAIN,ibd-as-api.iq.com
+DOMAIN,ibytedapm.com
 DOMAIN,ice.360yield.com
 DOMAIN,ichnaea-web.netflix.com
 DOMAIN,id.cxense.com
@@ -390,6 +396,7 @@ DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
+DOMAIN,mcs.snssdk.com
 DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,media.trafficjunky.com
 DOMAIN,metriccc.bas.cmbchina.cn
@@ -419,6 +426,7 @@ DOMAIN,mtop.ele.me
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
+DOMAIN,ndcppx.com
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
@@ -444,6 +452,7 @@ DOMAIN,optm.optus.com.au
 DOMAIN,orbit.jd.com
 DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
+DOMAIN,p.typekit.net
 DOMAIN,p1.pstatp.com
 DOMAIN,p9.pstatp.com
 DOMAIN,pangolin.snssdk.com
@@ -457,6 +466,7 @@ DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
 DOMAIN,pingjs.qq.com
 DOMAIN,pixel.adsafeprotected.com
+DOMAIN,pixel.ipinfo.io
 DOMAIN,pixel.quantserve.com
 DOMAIN,pixel.spotify.com
 DOMAIN,pixel-static.spotify.com
@@ -548,6 +558,7 @@ DOMAIN,smtc.qantas.com
 DOMAIN,smetrics.realestate.com.au
 DOMAIN,snap.licdn.com
 DOMAIN,sofire.baidu.com
+DOMAIN,sofire.bdstatic.com
 DOMAIN,spider-tracker.xiaohongshu.com
 DOMAIN,sqdd.myapp.com
 DOMAIN,srtb.msn.com
@@ -591,6 +602,7 @@ DOMAIN,tcbox.baidu.com
 DOMAIN,tdid.m.qq.com
 DOMAIN,tdsdk.xdrig.com
 DOMAIN,tdsdk-ip6.xdrig.com
+DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry-in.battle.net
 DOMAIN,test.wemiquan.com
 DOMAIN,tms.fmm.io
@@ -611,6 +623,7 @@ DOMAIN,tracking.intl.miui.com
 DOMAIN,tracking.miui.com
 DOMAIN,trackingprd.hwwt8.com
 DOMAIN,trc.taboola.com
+DOMAIN,treatment.grammarly.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubt-sin.tripcdn.com
@@ -682,6 +695,7 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,ahdohpiechei.com
 DOMAIN-SUFFIX,aimatch.com
 DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,airpr.com
@@ -740,11 +754,13 @@ DOMAIN-SUFFIX,eum-appdynamics.com
 DOMAIN-SUFFIX,emb-api.com
 DOMAIN-SUFFIX,everestop.io
 DOMAIN-SUFFIX,events.brightline.tv
+DOMAIN-SUFFIX,faiusr.com
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,foresee.com
 DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,fp.measure.office.com
+DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,giocdn.com
@@ -756,6 +772,7 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iemig.com
@@ -892,6 +909,8 @@ DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,xinqiucc.com
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
