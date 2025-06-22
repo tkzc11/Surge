@@ -1,8 +1,6 @@
 DOMAIN,08b03-2059a.api.pushwoosh.com
 DOMAIN,17de4c13.akstat.io
 DOMAIN,240e-925-2-400-8000--100.volcsiriusbd.com
-DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn.forter.com
-DOMAIN,2d672f3417a822bf6290b82001f7e3fc-adf0901f1861.cdn5.forter.com
 DOMAIN,a1.api.bbc.co.uk
 DOMAIN,a-ring.msedge.net
 DOMAIN,a.pixiv.org
@@ -43,7 +41,6 @@ DOMAIN,adclick.tencentmusic.com
 DOMAIN,address.m.jd.com
 DOMAIN,apex.go.sonobi.com
 DOMAIN,adexpo.tencentmusic.com
-DOMAIN,adf0901f1861.cdn4.forter.com
 DOMAIN,admarket.21cn.com
 DOMAIN,adobeedge.my.gov.au
 DOMAIN,adproxy.autohome.com.cn
@@ -52,6 +49,8 @@ DOMAIN,ads-api.twitter.com
 DOMAIN,ads-resources.waze.com
 DOMAIN,dsassets.waze.com
 DOMAIN,ads.adfox.ru
+DOMAIN,dsassets.waze.com
+DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,adsassets.waze.com
 DOMAIN,adserver.adtech.advertising.com
 DOMAIN,adservice.sigmob.cn
@@ -82,6 +81,7 @@ DOMAIN,an.yandex.ru
 DOMAIN,analytics.adjust.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,ametrics.mheducation.com
+DOMAIN,apm-native.xiaohongshu.com
 DOMAIN,analysis.tratao.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.adjust.net.in
@@ -171,10 +171,12 @@ DOMAIN,c.msn.com
 DOMAIN,c.office.com
 DOMAIN,cba.data.adobedc.net
 DOMAIN,cc.map.qq.com
+DOMAIN,cc-api-data.adobe.io
 DOMAIN,c2shb.ssp.yahoo.com
 DOMAIN,cd.ladsp.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
+DOMAIN,cdn.cohesionapps.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.cquotient.com
 DOMAIN,cdn.exelator.com
@@ -388,7 +390,6 @@ DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,lptag.messaging.optus.com.au
-DOMAIN,m.api.forter.com
 DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
 DOMAIN,mail-ads.google.com
@@ -416,6 +417,7 @@ DOMAIN,mon.tiktokv.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
+DOMAIN,mum.alibabachengdun.com
 DOMAIN,mr.fullstory.com
 DOMAIN,msite.baidu.com
 DOMAIN,msg.qy.net
@@ -426,7 +428,6 @@ DOMAIN,mtop.ele.me
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
-DOMAIN,ndcppx.com
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
@@ -501,6 +502,7 @@ DOMAIN,rs2.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.rtoaster.jp
 DOMAIN,rules.quantcount.com
+DOMAIN,rum.hlx.page
 DOMAIN,rum-static.pingdom.net
 DOMAIN,s.360.cnDOMAIN,s.deepl.com
 DOMAIN,s.jpush.cn
@@ -552,6 +554,7 @@ DOMAIN,smetric.hilton.com
 DOMAIN,smetrics.aem.playstation.com
 DOMAIN,smetrics.att.com
 DOMAIN,smetrics.bestbuy.com
+DOMAIN,smetrics.marriott.com
 DOMAIN,smetrics.t-mobile.com
 DOMAIN,smetrics.ubi.com
 DOMAIN,smtc.qantas.com
@@ -633,6 +636,7 @@ DOMAIN,umini.shujupie.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unet.ucweb.com
 DOMAIN,unknown-api.citymapper.com // Empty DNS Result
+DOMAIN,up-hl.3g.aq.com // Under Test
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
 DOMAIN,use1-turn.fpjs.io
@@ -664,12 +668,11 @@ DOMAIN,www.fastly-insights.com
 DOMAIN,www.ihezu.cn
 DOMAIN,www.lightboxcdn.com
 DOMAIN,www.mokexapp.io
-DOMAIN,www.qchannel01.cn
-DOMAIN,www.qchannel03.cn
 DOMAIN,www.sinawap.com
 DOMAIN,www.tns-counter.ru
 DOMAIN,www2.digitalasset.com
 DOMAIN,x.bidswitch.net
+DOMAIN,yun-hl.3g.aq.com // Under Test
 DOMAIN,yun.duiba.com.cn
 DOMAIN,z.moatads.com
 DOMAIN,zem.outbrainimg.com
@@ -728,6 +731,7 @@ DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,c.appier.net
 DOMAIN-SUFFIX,campaign.adobe.com
 DOMAIN-SUFFIX,casalemedia.com
+DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,clevertap-prod.com
@@ -758,6 +762,7 @@ DOMAIN-SUFFIX,faiusr.com
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,foresee.com
+DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,gdt.qq.com
@@ -788,6 +793,7 @@ DOMAIN-SUFFIX,irs03.com
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,liadm.com
+DOMAIN-SUFFIX,lifcfw.xyz
 DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,log.aliyuncs.com
@@ -798,6 +804,8 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jwpltx.com
 DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,kampyle.com
+DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,luckyorange.com
 DOMAIN-SUFFIX,marketingcloudapis.com
@@ -813,12 +821,14 @@ DOMAIN-SUFFIX,mtgglobals.com
 DOMAIN-SUFFIX,mutinycdn.com
 DOMAIN-SUFFIX,mxpnl.com
 DOMAIN-SUFFIX,n0909.com
+DOMAIN-SUFFIX,ndcppx.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nmrodam.com
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,onezapp.com
@@ -838,6 +848,9 @@ DOMAIN-SUFFIX,pubapp.network
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,pxf.io
+DOMAIN-SUFFIX,qchannel03.cn
+DOMAIN-SUFFIX,qtaeixd.com
+DOMAIN-SUFFIX,queniuqe.com
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,recordedthereby.com
 DOMAIN-SUFFIX,rlcdn.com
@@ -863,6 +876,7 @@ DOMAIN-SUFFIX,shouji.sougou.com
 DOMAIN-SUFFIX,siftscience.com
 DOMAIN-SUFFIX,signifyd.com
 DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,siomxity.net
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,smartlook.com
 DOMAIN-SUFFIX,smartnews-ads.com
@@ -902,6 +916,8 @@ DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,usefathom.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,vidoomy.com
+DOMAIN-SUFFIX,volcfcdndvs.com
+DOMAIN-SUFFIX,volcgtm.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,wdfl.co
 DOMAIN-SUFFIX,weixinbridge.com
@@ -914,6 +930,7 @@ DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
+DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,zoomanalytics.co
 
 DOMAIN-SUFFIX,wxs.qq.com,REJECT,extended-matching
