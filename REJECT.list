@@ -16,6 +16,7 @@ DOMAIN,ad.21cn.com
 DOMAIN,ad.k.21cn.com
 DOMAIN,ad.bczcdn.com
 DOMAIN,ad.cyapi.cn
+DOMAIN,ad.line-scdn.net
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.turn.com
 DOMAIN,ad.us.sinaimg.cn
@@ -266,6 +267,7 @@ DOMAIN,dmp.im-apps.net
 DOMAIN,dnlog.cmpassport.com
 DOMAIN,dns.msftncsi.com
 DOMAIN,doh.iq.com
+DOMAIN,dorangesource.alicdn.com
 DOMAIN,douyinhelper.com
 DOMAIN,dp.im.weibo.cn
 DOMAIN,dsb.yahoo.co.jp
@@ -637,6 +639,7 @@ DOMAIN,unagi-na.amazon.com
 DOMAIN,unet.ucweb.com
 DOMAIN,unknown-api.citymapper.com // Empty DNS Result
 DOMAIN,up-hl.3g.aq.com // Under Test
+DOMAIN,up-hl.3g.qq.com // Under Test
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
 DOMAIN,use1-turn.fpjs.io
@@ -673,6 +676,7 @@ DOMAIN,www.tns-counter.ru
 DOMAIN,www2.digitalasset.com
 DOMAIN,x.bidswitch.net
 DOMAIN,yun-hl.3g.aq.com // Under Test
+DOMAIN,yun-hl.3g.qq.com // Under Test
 DOMAIN,yun.duiba.com.cn
 DOMAIN,z.moatads.com
 DOMAIN,zem.outbrainimg.com
