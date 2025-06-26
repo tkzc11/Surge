@@ -943,10 +943,11 @@ DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
+DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
-DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,zoomanalytics.co
 
 DOMAIN-SUFFIX,wxs.qq.com,REJECT,extended-matching
