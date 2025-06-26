@@ -169,6 +169,7 @@ DOMAIN,browser.events.data.msn.com
 DOMAIN,b-gtc.gepush.com
 DOMAIN,b92.yahoo.co.jp
 DOMAIN,c.bing.com
+DOMAIN,c.go-mpulse.net
 DOMAIN,c.msn.com
 DOMAIN,c.office.com
 DOMAIN,cba.data.adobedc.net
@@ -321,6 +322,7 @@ DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,hbx.media.net
 DOMAIN,highway-tb.ele.me
+DOMAIN,hit.api.useinsider.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,hotchat-im.iqiyi.com
@@ -362,6 +364,7 @@ DOMAIN,int.vaicore.store
 DOMAIN,int.vaicore.xyz
 DOMAIN,intake-analytics.wikimedia.org
 DOMAIN,intljs.rmtag.com
+DOMAIN,log.api.useinsider.com
 DOMAIN,ios.bugly.tencent.com
 DOMAIN,ipgeo.wlvpn.com
 DOMAIN,ipv6.shuzilm.cn
@@ -511,6 +514,7 @@ DOMAIN,rules.quantcount.com
 DOMAIN,rum.hlx.page
 DOMAIN,rum-static.pingdom.net
 DOMAIN,s.360.cnDOMAIN,s.deepl.com
+DOMAIN,s.go-mpulse.net
 DOMAIN,s.jpush.cn
 DOMAIN,s2.go-mpulse.net
 DOMAIN,s2s.t13.io
@@ -602,7 +606,6 @@ DOMAIN,t1.welab.bank
 DOMAIN,t7z.cupid.iqiyi.com
 DOMAIN,tag.rmp.rakuten.com
 DOMAIN,tag.wknd.ai
-DOMAIN,tags.bluekai.com
 DOMAIN,tags.creativecdn.com
 DOMAIN,tags.crwdcntrl.net
 DOMAIN,tags.tiqcdn.com
@@ -732,6 +735,7 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
 DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
