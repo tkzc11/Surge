@@ -213,6 +213,8 @@ DOMAIN,click.dangdang.com
 DOMAIN,click.redditmail.com
 DOMAIN,client-analytics.braintreegateway.com
 DOMAIN,clientlog3.music.163.com
+DOMAIN,clientlogdep.music.163.com
+DOMAIN,clientlogsf.music.163.com
 DOMAIN,cloudflareinsights.com
 DOMAIN,clue.oceanengine.com
 DOMAIN,cm.mediav.com
@@ -226,6 +228,7 @@ DOMAIN,code.hot-mob.com
 DOMAIN,code.yengo.com
 DOMAIN,codepush.appcenter.ms
 DOMAIN,collect.tealiumiq.com
+DOMAIN,collector.github.com
 DOMAIN,collector.polarr.co
 DOMAIN,collector.sophi.io
 DOMAIN,collector-7551.tvsquared.com
@@ -290,7 +293,9 @@ DOMAIN,edge.fullstory.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,entitlements.jwplayer.com
+DOMAIN,error-tracking.reddit.com
 DOMAIN,event-tracking.hellohealthgroup.com
+DOMAIN,events.mapbox.com
 DOMAIN,events.mz.unity3d.com
 DOMAIN,events.split.io
 DOMAIN,extension.femetrics.grammarly.io
@@ -390,6 +395,7 @@ DOMAIN,log.umsns.com
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
 DOMAIN,loggw-ex.alipay.com
+DOMAIN,loggw-exsdk.alipay.com
 DOMAIN,logs.amap.com
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,logs.netflix.com
@@ -410,6 +416,7 @@ DOMAIN,mcs.snssdk.com
 DOMAIN,mcs.zijieapi.com
 DOMAIN,me-client.eservice.emarsys.net
 DOMAIN,media.trafficjunky.com
+DOMAIN,metric.huya.com
 DOMAIN,metriccc.bas.cmbchina.cn
 DOMAIN,metricreceiver.cellrebel.com
 DOMAIN,metrics.brightcove.com
@@ -439,6 +446,7 @@ DOMAIN,mtop.ele.me
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
+DOMAIN,netapm.music.163.com
 DOMAIN,networksdk.ssacdn.com
 DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
@@ -615,6 +623,7 @@ DOMAIN,static.klaviyo.com
 DOMAIN,static.scroll.com
 DOMAIN,stats.fifthstarlabs.io
 DOMAIN,statusf.digitalcertvalidation.com
+DOMAIN,statwup.huya.com
 DOMAIN,stocks-analytics-events.apple.com
 DOMAIN,stt.nvidia.com
 DOMAIN,stun.ideasip.com
@@ -707,6 +716,7 @@ DOMAIN,www.sinawap.com
 DOMAIN,www.tns-counter.ru
 DOMAIN,www2.digitalasset.com
 DOMAIN,x.bidswitch.net
+DOMAIN,ylog.huya.com
 DOMAIN,yun-hl.3g.aq.com // Under Test
 DOMAIN,yun-hl.3g.qq.com // Under Test
 DOMAIN,yun.duiba.com.cn
@@ -858,6 +868,7 @@ DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mediation.unity3d.com
+DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,mgr.consensu.org
 DOMAIN-SUFFIX,mmstat.com
@@ -872,6 +883,7 @@ DOMAIN-SUFFIX,ndcppx.com
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,nexac.com
+DOMAIN-SUFFIX,nexusedgeio.com
 DOMAIN-SUFFIX,nmrodam.com
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,omtrdc.net
@@ -883,6 +895,7 @@ DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
+DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,paa-reporting-advertising.amazon
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parrable.com
@@ -899,6 +912,7 @@ DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qiyukf.net
 DOMAIN-SUFFIX,qtaeixd.com
+DOMAIN-SUFFIX,queniuiq.com
 DOMAIN-SUFFIX,queniukw.com
 DOMAIN-SUFFIX,queniuqe.com
 DOMAIN-SUFFIX,queniuyk.com
