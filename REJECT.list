@@ -325,6 +325,7 @@ DOMAIN,h-adashx.ut.fliggy.com
 DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
+DOMAIN,nbsdk-baichuan.taobao.com
 DOMAIN,hbx.media.net
 DOMAIN,highway-tb.ele.me
 DOMAIN,hit.api.useinsider.com
@@ -710,6 +711,7 @@ DOMAIN,www.googleadservices.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.fastly-insights.com
 DOMAIN,www.ihezu.cn
+DOMAIN,www.isstprod.hsbc.com.cn // Empty DNS Result
 DOMAIN,www.lightboxcdn.com
 DOMAIN,www.mokexapp.io
 DOMAIN,www.sinawap.com
