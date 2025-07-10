@@ -182,6 +182,7 @@ DOMAIN,c2shb.ssp.yahoo.com
 DOMAIN,cd.ladsp.com
 DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
+DOMAIN,cdn.adjust.com
 DOMAIN,cdn.appdynamics.com
 DOMAIN,cdn.cohesionapps.com
 DOMAIN,cdn.confiant-integrations.net
@@ -343,6 +344,7 @@ DOMAIN,hub5p.mypikpak.com
 DOMAIN,hub5pnc.mypikpak.com
 DOMAIN,huichuan.sm.cn
 DOMAIN,i.clean.gg
+DOMAIN,img.en25.com
 DOMAIN,in.au1.segmentapis.com
 DOMAIN,infos.telstra.com.au
 DOMAIN,i2-vymzjliplcagmhbrooitrwuqbopdsg.init.cedexis-radar.net
@@ -391,6 +393,7 @@ DOMAIN,list.z.qingting.fm
 DOMAIN,load77.exelator.com
 DOMAIN,localhost.ptlogin2.qq.com
 DOMAIN,localhost.weixin.qq.com
+DOMAIN,js.trendmd.com
 DOMAIN,rest.locuslabs.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
@@ -419,6 +422,7 @@ DOMAIN,mc.yandex.ru
 DOMAIN,mcs.snssdk.com
 DOMAIN,mcs.zijieapi.com
 DOMAIN,me-client.eservice.emarsys.net
+DOMAIN,media.richrelevance.com
 DOMAIN,media.trafficjunky.com
 DOMAIN,metric.huya.com
 DOMAIN,metriccc.bas.cmbchina.cn
@@ -470,7 +474,9 @@ DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
 DOMAIN,omns.americanexpress.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
+DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
+DOMAIN,open.kwaizt.com
 DOMAIN,opencdn.jomodns.com
 DOMAIN,optm.optus.com.au
 DOMAIN,orbit.jd.com
@@ -480,12 +486,14 @@ DOMAIN,p.typekit.net
 DOMAIN,p1.pstatp.com
 DOMAIN,p9.pstatp.com
 DOMAIN,pangolin.snssdk.com
+DOMAIN,pangolin16.isnssdk.com
 DOMAIN,pc-mon.zijieapi.com
 DOMAIN,personalization.bloomberg.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pafms.ocbc.com
 DOMAIN,perf-events.cloud.unity3d.com
+DOMAIN,pglstatp-toutiao.com
 DOMAIN,pi.ispot.tv
 DOMAIN,ping.chartbeat.net
 DOMAIN,pingfore.qq.com
@@ -600,6 +608,7 @@ DOMAIN,smetrics.aem.playstation.com
 DOMAIN,smetrics.att.com
 DOMAIN,smetrics.bestbuy.com
 DOMAIN,smetrics.marriott.com
+DOMAIN,smetrics.officeworks.com.au
 DOMAIN,smetrics.t-mobile.com
 DOMAIN,smetrics.ubi.com
 DOMAIN,smtc.qantas.com
@@ -638,6 +647,7 @@ DOMAIN,sync.outbrain.com
 DOMAIN,sync.srv.stackadapt.com
 DOMAIN,sync-jp.im-apps.net
 DOMAIN,sysdk.cl2009.com
+DOMAIN,t.channeladvisor.com
 DOMAIN,t.cfjump.com
 DOMAIN,t1.welab.bank
 DOMAIN,t7z.cupid.iqiyi.com
@@ -798,6 +808,7 @@ DOMAIN-SUFFIX,contentsquare.net
 DOMAIN-SUFFIX,covatic.io
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,cpatrk.net
+DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,ctripgslb.com
@@ -876,6 +887,7 @@ DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,mgr.consensu.org
+DOMAIN-SUFFIX,ml314.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mob.com
@@ -913,6 +925,8 @@ DOMAIN-SUFFIX,pubapp.network
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,pxf.io
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,qchannel02.cn
 DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qiyukf.net
@@ -971,6 +985,7 @@ DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,tapstream.com
 DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-SUFFIX,tend.io
+DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,track.miui.com
 DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,tradplusad.com
