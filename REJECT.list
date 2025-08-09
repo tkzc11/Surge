@@ -78,6 +78,7 @@ DOMAIN,akamai.tiqcdn.com
 DOMAIN,alb.reddit.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
+DOMAIN,ali-web-player-tracker.biliapi.net
 DOMAIN,als.baidu.com
 DOMAIN,alsc-buy2.ele.me
 DOMAIN,alsc-config.ele.me
@@ -353,6 +354,8 @@ DOMAIN,httpdns.yunxindns.com
 DOMAIN,hub5p.mypikpak.com
 DOMAIN,hub5pnc.mypikpak.com
 DOMAIN,huichuan.sm.cn
+DOMAIN,hw-v2-web-player-tracker.biliapi.net
+DOMAIN,hw-web-player-tracker.biliapi.net
 DOMAIN,i.clean.gg
 DOMAIN,img.en25.com
 DOMAIN,in.au1.segmentapis.com
@@ -723,6 +726,7 @@ DOMAIN,waapdg.jd.com
 DOMAIN,w3-reporting.reddit.com
 DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN,web-player-tracker.biliapi.net
 DOMAIN,websitereview.corp.apple.com // Empty DNS Result
 DOMAIN,wesing-test.tmeoa.com
 DOMAIN,wgo.mmstat.com
