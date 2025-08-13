@@ -351,8 +351,9 @@ DOMAIN,html-load.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN,httpdns.yunxindns.com
-DOMAIN,hub5p.mypikpak.com
-DOMAIN,hub5pnc.mypikpak.com
+DOMAIN,hub5p.mypikpak.com // Loop back address
+DOMAIN,hub5pnc.mypikpak.com // Loop back address
+DOMAIN,hubciddata.mypikpak.com // Loop back address
 DOMAIN,huichuan.sm.cn
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
 DOMAIN,hw-web-player-tracker.biliapi.net
