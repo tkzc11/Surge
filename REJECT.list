@@ -413,6 +413,7 @@ DOMAIN,rest.locuslabs.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
+DOMAIN,log.snssdk.com,extended-matching
 DOMAIN,log.umsns.com
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
