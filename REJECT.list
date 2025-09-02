@@ -415,6 +415,7 @@ DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
 DOMAIN,log.snssdk.com,extended-matching
 DOMAIN,log.umsns.com
+DOMAIN,logbk.amemv.com,extended-matching
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
 DOMAIN,loggw-ex.alipay.com
