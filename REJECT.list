@@ -349,12 +349,13 @@ DOMAIN,hotchat-im.iqiyi.com
 DOMAIN,hpd.baidu.com
 DOMAIN,html-load.com
 DOMAIN,httpdns.bcelive.com
+DOMAIN,httpdns.music.ntes53.netease.com
 DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN,httpdns.yunxindns.com
 DOMAIN,huatuocode.weiyun.com // Empty DNS Result
-DOMAIN,hub5p.mypikpak.com // Loop back address
-DOMAIN,hub5pnc.mypikpak.com // Loop back address
-DOMAIN,hubciddata.mypikpak.com // Loop back address
+DOMAIN,hub5p.mypikpak.com // Loopback address
+DOMAIN,hub5pnc.mypikpak.com // Loopback address
+DOMAIN,hubciddata.mypikpak.com // Loopback address
 DOMAIN,huichuan.sm.cn
 DOMAIN,hw-v2-web-player-tracker.biliapi.net
 DOMAIN,hw-web-player-tracker.biliapi.net
@@ -963,7 +964,6 @@ DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qiyukf.net
 DOMAIN-SUFFIX,qtaeixd.com
-DOMAIN-SUFFIX,queniuiq.com
 DOMAIN-SUFFIX,queniukw.com
 DOMAIN-SUFFIX,queniuqe.com
 DOMAIN-SUFFIX,queniuyk.com
