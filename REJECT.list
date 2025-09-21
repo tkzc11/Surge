@@ -348,6 +348,7 @@ DOMAIN,hotchat-im.iqiyi.com
 DOMAIN,hpd.baidu.com
 DOMAIN,html-load.com
 DOMAIN,httpdns.bcelive.com
+DOMAIN,httpdns.bilivideo.com,extended-matching
 DOMAIN,httpdns.music.ntes53.netease.com
 DOMAIN,httpdns.kwd.inkuai.com
 DOMAIN,httpdns.yunxindns.com
