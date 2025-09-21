@@ -1043,7 +1043,7 @@ DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
-DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,wxs.qq.com,extended-matching
 DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,yksdks.com
@@ -1052,8 +1052,6 @@ DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
-
-DOMAIN-SUFFIX,wxs.qq.com,REJECT,extended-matching
 
 DOMAIN-KEYWORD,pcdn-35.biliapi.net
 
