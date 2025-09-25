@@ -423,6 +423,7 @@ DOMAIN,loggw-ex.alipay.com
 DOMAIN,loggw-exsdk.alipay.com
 DOMAIN,logs.amap.com
 DOMAIN,logs.chelaile.net.cn
+DOMAIN,log.s.sm.cn
 DOMAIN,logs.netflix.com
 DOMAIN,logu.hpplay.cn
 DOMAIN,logx.optimizely.com
@@ -711,6 +712,7 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubmcmm.baidustatic.com
 DOMAIN,ubt-sin.tripcdn.com
+DOMAIN,uc.cmd
 DOMAIN,um.simpli.fi
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,umini.shujupie.com
