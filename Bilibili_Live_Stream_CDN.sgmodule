@@ -1,0 +1,8 @@
+#!name = Bilibili Live Stream CDN Rewrite
+#!desc = 重写直播CDN以提高速度
+
+[Rewrite]
+^https?:\/\/d1--ov-gotcha*\.bilivideo\.com https://cn-hk-eq-01-12.bilivideo.com$1 302
+
+[MITM]
+hostname = %APPEND% d1--ov-gotcha*.bilivideo.com
