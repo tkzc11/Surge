@@ -6,8 +6,9 @@
 
 [URL Rewrite]
 # 谷歌服务重定向 //*.google.cn
-^https?:\/\/www\.google\.cn https://www.google.com 302
-^https?:\/\/translate\.google\.cn https://translate.google.com 302
+^https?:\/\/www\.google\.cn https://www.google.com 307
+^https?:\/\/translate\.google\.cn https://translate.google.com 307
+^https?:\/\/(ditu|maps).google\.cn https://maps.google.com 307
 # Avple 跳转弹窗 //asserts.avple.tv
 ^https:\/\/asserts\.avple\.tv\/file\/avple-images\/ad\.js - reject
 # PornHub (https://cn.pornhub.com/) //*.pornhub.com
