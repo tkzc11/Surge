@@ -209,6 +209,7 @@ DOMAIN,cdn.wwads.cn
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cdn-4.convertexperiments.com
 DOMAIN,cdn-settings.appsflyersdk.com
+DOMAIN,cdndns.kwd.inkuai.com
 DOMAIN,cdntm.hsbc.com.au
 DOMAIN,cdntm.hsbc.com.hk
 DOMAIN,cdntm.hsbc.com.sg
@@ -340,6 +341,7 @@ DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,nbsdk-baichuan.taobao.com
 DOMAIN,hbx.media.net
+DOMAIN,hdns.k-dyn.com,REJECT
 DOMAIN,highway-tb.ele.me
 DOMAIN,hit.api.useinsider.com
 DOMAIN,hm.baidu.com
@@ -416,7 +418,6 @@ DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
 DOMAIN,log.snssdk.com,extended-matching
 DOMAIN,log.umsns.com
-DOMAIN,logbk.amemv.com,extended-matching
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
 DOMAIN,loggw-ex.alipay.com
