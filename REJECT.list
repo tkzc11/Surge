@@ -418,6 +418,7 @@ DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
 DOMAIN,log.snssdk.com,extended-matching
 DOMAIN,log.umsns.com
+DOMAIN,logbk.amemv.com,extended-matching
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
 DOMAIN,loggw-ex.alipay.com
@@ -428,6 +429,7 @@ DOMAIN,log.s.sm.cn
 DOMAIN,logs.netflix.com
 DOMAIN,logu.hpplay.cn
 DOMAIN,logx.optimizely.com
+DOMAIN,log0-misc-lf.amemv.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
 DOMAIN,lptag.liveperson.net
