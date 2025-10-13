@@ -2,8 +2,7 @@
 #!desc=移除网页广告
 #!author=RuCu6[https://github.com/RuCu6]
 #!icon=https://raw.githubusercontent.com/RuCu6/Loon/main/Icons/app/webpage.png
-#!date=2024-10-04 01:25
-
+#!date=2025-10-05
 [URL Rewrite]
 # 谷歌服务重定向 //*.google.cn
 ^https?:\/\/www\.google\.cn https://www.google.com 307
