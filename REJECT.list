@@ -1061,6 +1061,7 @@ DOMAIN-SUFFIX,zoomanalytics.co
 
 DOMAIN-KEYWORD,pcdn-35.biliapi.net
 
+URL-REGEX,^http:\/\/8\.219\.207\.241\/httpdns,REJECT
 URL-REGEX,^http:\/\/203\.119\.206\.8\/\d+\/resolve
 URL-REGEX,^https:\/\/news-sports-events\.apple\.com\/analyticseventsv2
 URL-REGEX,^https:\/\/news-events\.apple\.com\/analyticseventsv2
