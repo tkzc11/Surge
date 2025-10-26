@@ -12,6 +12,7 @@ DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abtest-tx-beijing-01.saas.sensorsdata.cn
 DOMAIN,acjs.aliyun.com
 DOMAIN,acsbap.com
+DOMAIN,activity-aghbwh.awemeughun.com
 DOMAIN,ad-delivery.net
 DOMAIN,ad.21cn.com
 DOMAIN,ad.k.21cn.com
@@ -103,20 +104,25 @@ DOMAIN,analytics.starz.com
 DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.umetrip.com
+DOMAIN,ap1.thunderhead.com
 DOMAIN,api.apptentive.com
 DOMAIN,api.btloader.com
+DOMAIN,api.e.kuaishou.com
 DOMAIN,api.gameanalytics.com
 DOMAIN,api.growingio.com
 DOMAIN,api.iterable.com
+DOMAIN,api.kuaishouzt.com
+DOMAIN,api.kwaizt.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
 DOMAIN,api.pushio.com
 DOMAIN,api.rollbar.com
 DOMAIN,api.segment.io
 DOMAIN,api.sprig.com
+DOMAIN,api.statsig.com
 DOMAIN,api.tuisong.baidu.com
+DOMAIN,api.quantumgraph.com
 DOMAIN,api.uca.cloud.unity3d.com
-DOMAIN,api2.amplitude.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
@@ -126,10 +132,14 @@ DOMAIN,api-c.dutils.com
 DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-fc.dutils.com
 DOMAIN,api-visitor-analytics.intercom.com
-DOMAIN,api.statsig.com
+DOMAIN,apijs.ksapisrv.com
 DOMAIN,apis.alenable.com
-DOMAIN,ap1.thunderhead.com
-DOMAIN,api.quantumgraph.com
+DOMAIN,api1.kuaishoupay.com
+DOMAIN,api2.amplitude.com
+DOMAIN,api3-core-c-lf.amemv.com
+DOMAIN,api3-normal-c-lf.amemv.com
+DOMAIN,api5-core-c-lf.amemv.com
+DOMAIN,api5-normal-c-lf.amemv.com
 DOMAIN,api16-access-sg.pangle.io
 DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,app.adjust.com
@@ -188,6 +198,7 @@ DOMAIN,cddp-track.aligames.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.adjust.com
 DOMAIN,cdn.appdynamics.com
+DOMAIN,cdnauth1.hpplay.cn
 DOMAIN,cdn.cohesionapps.com
 DOMAIN,cdn.confiant-integrations.net
 DOMAIN,cdn.cquotient.com
@@ -216,6 +227,7 @@ DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,center-api.game.kuaishou.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
@@ -282,6 +294,7 @@ DOMAIN,dig.zjurl.cn
 DOMAIN,distillery.wistia.com
 DOMAIN,dit.whatsapp.net
 DOMAIN,dl-s.tripcdn.cn
+DOMAIN,dm.toutiao.com
 DOMAIN,dmp.im-apps.net
 DOMAIN,dnlog.cmpassport.com
 DOMAIN,dns.msftncsi.com
@@ -321,6 +334,10 @@ DOMAIN,fls-eu.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,freestar-io.videoplayerhub.com
+DOMAIN,frontier100-aweme-lf.amemv.com
+DOMAIN,frontier-aweme-hl.snssdk.com,REJECT
+DOMAIN,frontier-aweme-lf-ipainner.amemv.com
+DOMAIN,frontier-quic-test.bytedance.com
 DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,f-log-extension.grammarly.io
 DOMAIN,g.aplus.taobao.com
@@ -348,6 +365,7 @@ DOMAIN,hit.api.useinsider.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,hotchat-im.iqiyi.com
+DOMAIN,hotsoon.snssdk.com
 DOMAIN,hpd.baidu.com
 DOMAIN,html-load.com
 DOMAIN,httpdns.bcelive.com
@@ -393,11 +411,12 @@ DOMAIN,int.vaicore.store
 DOMAIN,int.vaicore.xyz
 DOMAIN,intake-analytics.wikimedia.org
 DOMAIN,intljs.rmtag.com
-DOMAIN,log.api.useinsider.com
 DOMAIN,ios.bugly.tencent.com
 DOMAIN,ipgeo.wlvpn.com
 DOMAIN,ipv6.shuzilm.cn
 DOMAIN,is.snssdk.com
+DOMAIN,iu.snssdk.com
+DOMAIN,i.snssdk.com
 DOMAIN,jac.yahoosandbox.com
 DOMAIN,jnn-pa.googleapis.com
 DOMAIN,js.appboycdn.com
@@ -414,6 +433,15 @@ DOMAIN,localhost.ptlogin2.qq.com
 DOMAIN,localhost.weixin.qq.com
 DOMAIN,js.trendmd.com
 DOMAIN,rest.locuslabs.com
+DOMAIN,lf1-cdn-tos.bytegoofy.com
+DOMAIN,lf3-short.bytegoofy.com
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,lf3-cdn-tos.bytescm.com
+DOMAIN,lf9-dy-cdn-tos.bytegecko.com
+DOMAIN,lf9-webcast-cdn-tos.bytegecko.com
+DOMAIN,lf-cdn-tos.bytescm.com
+DOMAIN,lf.snssdk.com
+DOMAIN,log.api.useinsider.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
@@ -433,6 +461,8 @@ DOMAIN,logx.optimizely.com
 DOMAIN,log0-misc-lf.amemv.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
+DOMAIN,log3-misc-lf.amemv.com
+DOMAIN,log5-misc-lf.amemv.com
 DOMAIN,lptag.liveperson.net
 DOMAIN,lptag.messaging.optus.com.au
 DOMAIN,m.csqtrk.net
@@ -441,6 +471,8 @@ DOMAIN,mail-ads.google.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
+DOMAIN,ma3-normal-lf.zijieapi.com
+DOMAIN,ma5-normal-lf.zijieapi.com
 DOMAIN,mc.yandex.ru
 DOMAIN,mcs.snssdk.com
 DOMAIN,mcs.zijieapi.com
@@ -462,7 +494,10 @@ DOMAIN,mobile-production.content-square.net
 DOMAIN,mon.isnssdk.com
 DOMAIN,mon.snssdk.com
 DOMAIN,mon.tiktokv.com
+DOMAIN,mon.toutiaocloud.com
+DOMAIN,mon.toutiaocloud.net
 DOMAIN,mon.zijieapi.com
+DOMAIN,mon11-misc-lf.amemv.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,mparticle.weather.com
 DOMAIN,mum.alibabachengdun.com
@@ -492,12 +527,15 @@ DOMAIN,ns.zdbb.net
 DOMAIN,nsclick.baidu.com
 DOMAIN,nt2.ele.me
 DOMAIN,ocean.sankuai.com
+# DOMAIN,ocsp.apple.com
 DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
 DOMAIN,omns.americanexpress.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
+DOMAIN,open.snssdk.com
+DOMAIN,open.kuaishou.com
 DOMAIN,open.kwaizt.com
 DOMAIN,opencdn.jomodns.com
 DOMAIN,optm.optus.com.au
@@ -506,6 +544,7 @@ DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,p.typekit.net
 DOMAIN,p1.pstatp.com
+DOMAIN,p3.pstatp.com
 DOMAIN,p9.pstatp.com
 DOMAIN,pangolin.snssdk.com
 DOMAIN,pangolin16.isnssdk.com
@@ -609,16 +648,22 @@ DOMAIN,sdkapi.netmera.com
 DOMAIN,sdkapicdn.applanga.com
 DOMAIN,sdkreport.e.qq.com
 DOMAIN,sdk-events.inner-active.mobi
-DOMAIN,searchapi.agoda.com
+# DOMAIN,searchapi.agoda.com
 DOMAIN,sec.umeng.com
+DOMAIN,search3-search-lf.amemv.com
+DOMAIN,search5-search-lf.amemv.com
+DOMAIN,search100-search-quic-lf.amemv.com
 DOMAIN,secure.quantserve.com
 DOMAIN,securemetrics.apple.com.cn
 DOMAIN,segment-data-us-east.zqtk.net
 DOMAIN,segment.api.useinsider.com
+DOMAIN,sentry.kuaishou.com
 DOMAIN,seoab.io
 DOMAIN,services.brightline.tv
 DOMAIN,sessions.bugsnag.com
 DOMAIN,settings-win.data.microsoft.com
+DOMAIN,sf1-scmcdn-tos.pstatp.com
+DOMAIN,sf1-scmcdn2-tos.pstatp.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
 DOMAIN,shopping.ele.me
@@ -626,6 +671,7 @@ DOMAIN,singair-d.neolane.net // Empty DNS Result
 DOMAIN,singteloptus.australia-3.evergage.com
 DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
+DOMAIN,sixinpicnew.ksapisrv.com
 DOMAIN,sjarvis.taobao.com
 DOMAIN,skadnetworks.fyber.com
 DOMAIN,skywalking.roombox.xdf.cn
@@ -691,8 +737,11 @@ DOMAIN,tdsdk.xdrig.com
 DOMAIN,tdsdk-ip6.xdrig.com
 DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry-in.battle.net
-DOMAIN,test.wemiquan.com
 DOMAIN,tms.fmm.io
+DOMAIN,tnc3-alisc1.bytedance.com
+DOMAIN,tnc11-aliec2.bytedance.com
+DOMAIN,tnc11-alisc1.bytedance.com
+DOMAIN,tnc11-bjlgy.bytedance.com
 DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
@@ -729,6 +778,7 @@ DOMAIN,up-hl.3g.qq.com // Under Test
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
 DOMAIN,use1-turn.fpjs.io
+DOMAIN,vcs.snssdk.com
 DOMAIN,vcs.zijieapi.com
 DOMAIN,vi.freewheel.tv
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
@@ -763,6 +813,7 @@ DOMAIN,www.sinawap.com
 DOMAIN,www.tns-counter.ru
 DOMAIN,www2.digitalasset.com
 DOMAIN,x.bidswitch.net
+DOMAIN,xlog.snssdk.com
 DOMAIN,ylog.huya.com
 DOMAIN,yun-hl.3g.aq.com // Under Test
 DOMAIN,yun-hl.3g.qq.com // Under Test
@@ -828,6 +879,8 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,btrll.com
 DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,bytedns.com
+DOMAIN-SUFFIX,bytedns1.com
 DOMAIN-SUFFIX,c.appier.net
 DOMAIN-SUFFIX,campaign.adobe.com
 DOMAIN-SUFFIX,casalemedia.com
@@ -982,6 +1035,7 @@ DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,scarabresearch.com
 DOMAIN-SUFFIX,sdk.linkedin.com
+DOMAIN,sec.umeng.com
 DOMAIN-SUFFIX,secureir.ebaystatic.com
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment.com
