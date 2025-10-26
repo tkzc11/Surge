@@ -428,13 +428,6 @@ DOMAIN,localhost.ptlogin2.qq.com
 DOMAIN,localhost.weixin.qq.com
 DOMAIN,js.trendmd.com
 DOMAIN,rest.locuslabs.com
-DOMAIN,lf1-cdn-tos.bytegoofy.com
-DOMAIN,lf3-short.bytegoofy.com
-DOMAIN,lf3-static.bytednsdoc.com
-DOMAIN,lf3-cdn-tos.bytescm.com
-DOMAIN,lf9-dy-cdn-tos.bytegecko.com
-DOMAIN,lf9-webcast-cdn-tos.bytegecko.com
-DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf.snssdk.com
 DOMAIN,log.api.useinsider.com
 DOMAIN,log.b612kaji.com
@@ -730,10 +723,6 @@ DOMAIN,tdsdk-ip6.xdrig.com
 DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry-in.battle.net
 DOMAIN,tms.fmm.io
-DOMAIN,tnc3-alisc1.bytedance.com
-DOMAIN,tnc11-aliec2.bytedance.com
-DOMAIN,tnc11-alisc1.bytedance.com
-DOMAIN,tnc11-bjlgy.bytedance.com
 DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
