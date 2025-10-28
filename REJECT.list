@@ -111,7 +111,6 @@ DOMAIN,api.e.kuaishou.com
 DOMAIN,api.gameanalytics.com
 DOMAIN,api.growingio.com
 DOMAIN,api.iterable.com
-DOMAIN,api.kuaishouzt.com
 DOMAIN,api.kwaizt.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.permutive.com
@@ -159,7 +158,6 @@ DOMAIN,audiencedata.im-apps.net
 DOMAIN,auth.follow-apps.com
 DOMAIN,auth.split.io
 DOMAIN,baichuan-sdk.alicdn.com
-DOMAIN,baidubox-emoji.cdn.bcebos.com.a.bdydns.com
 DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bat.bing.com
 DOMAIN,bcp.crwdcntrl.net
@@ -852,6 +850,7 @@ DOMAIN-SUFFIX,bazaarvoice.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beap.bc.yahoo.com
 DOMAIN-SUFFIX,beap.gemini.yahoo.com
+DOMAIN-SUFFIX,bdydns.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,branch.io
@@ -984,6 +983,7 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,ovologysnoops.com
+DOMAIN-SUFFIX,ovscdns.com
 DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,paa-reporting-advertising.amazon
 DOMAIN-SUFFIX,pardot.com
@@ -1016,7 +1016,6 @@ DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,scarabresearch.com
 DOMAIN-SUFFIX,sdk.linkedin.com
-DOMAIN,sec.umeng.com
 DOMAIN-SUFFIX,secureir.ebaystatic.com
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment.com
@@ -1097,6 +1096,8 @@ DOMAIN-SUFFIX,zeus.top
 DOMAIN-SUFFIX,zoomanalytics.co
 
 DOMAIN-KEYWORD,pcdn-35.biliapi.net
+
+DOMAIN-WILDCARD,p?-ad.adukwai.com
 
 URL-REGEX,^http:\/\/8\.219\.207\.241\/httpdns,REJECT
 URL-REGEX,^http:\/\/203\.119\.206\.8\/\d+\/resolve
