@@ -107,7 +107,6 @@ DOMAIN,analytics.umetrip.com
 DOMAIN,ap1.thunderhead.com
 DOMAIN,api.apptentive.com
 DOMAIN,api.btloader.com
-DOMAIN,api.e.kuaishou.com
 DOMAIN,api.gameanalytics.com
 DOMAIN,api.growingio.com
 DOMAIN,api.iterable.com
@@ -219,7 +218,6 @@ DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
 DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdp.cloud.unity3d.com
-DOMAIN,center-api.game.kuaishou.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
 DOMAIN,click.dangdang.com
@@ -517,11 +515,8 @@ DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
 DOMAIN,omns.americanexpress.com
 DOMAIN,onsite-tag-logs.apps.nielsen.com
-DOMAIN,open.e.kuaishou.cn
-DOMAIN,open.e.kuaishou.com
 DOMAIN,open.snssdk.com
 DOMAIN,open.kuaishou.com
-DOMAIN,open.kwaizt.com
 DOMAIN,opencdn.jomodns.com
 DOMAIN,optm.optus.com.au
 DOMAIN,orbit.jd.com
