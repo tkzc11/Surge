@@ -454,8 +454,6 @@ DOMAIN,mail-ads.google.com
 DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
-DOMAIN,ma3-normal-lf.zijieapi.com
-DOMAIN,ma5-normal-lf.zijieapi.com
 DOMAIN,mc.yandex.ru
 DOMAIN,mcs.snssdk.com
 DOMAIN,mcs.zijieapi.com
@@ -854,6 +852,7 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,btrll.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,bytedns.com
+DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,bytedns1.com
 DOMAIN-SUFFIX,c.appier.net
 DOMAIN-SUFFIX,campaign.adobe.com
