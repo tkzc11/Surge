@@ -9,10 +9,10 @@ DOMAIN,fls-na.amazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazonvideo.com,extended-matching
+DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
-AND,((PROCESS-NAME,"/Applications/Prime Video.app/Contents/MacOS/Prime Video"), (DOMAIN-SUFFIX,media-amazon.com))
-# AND,((PROCESS-NAME,"/Applications/Prime Video.app/Contents/MacOS/Prime Video"), (DOMAIN,www.amazon.com))
+# PROCESS-NAME,"/Applications/Prime Video.app/Contents/MacOS/Prime Video"
