@@ -47,13 +47,13 @@ DOMAIN,adexpo.tencentmusic.com
 DOMAIN,admarket.21cn.com
 DOMAIN,adobeedge.my.gov.au
 DOMAIN,adproxy.autohome.com.cn
+DOMAIN,ads5-normal-lf.zijieapi.com
+DOMAIN,ads.adfox.ru
 DOMAIN,ads.stickyadstv.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,ads-api.twitter.com
+DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,ads-resources.waze.com
-DOMAIN,dsassets.waze.com
-DOMAIN,ads.adfox.ru
-DOMAIN,dsassets.waze.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,adsassets.waze.com
 DOMAIN,adserver.adtech.advertising.com
@@ -166,6 +166,7 @@ DOMAIN,beacon.wikia-services.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beap-bc.yahoo.com
 DOMAIN,bh.contextweb.com
+DOMAIN,bili.acglego-dk.sched.tdnsv2.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,btloader.com
 DOMAIN,bodis.com
@@ -939,6 +940,7 @@ DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,legohp-dk.tdnsstic1.cn
 DOMAIN-SUFFIX,luckyorange.com
 DOMAIN-SUFFIX,marketingcloudapis.com
 DOMAIN-SUFFIX,marketo.net
