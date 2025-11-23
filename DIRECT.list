@@ -40,8 +40,7 @@ DOMAIN,www.snssdk.com
 DOMAIN,xxbg.snssdk.com
 
 # > Greenman Gaming
-DOMAIN-SUFFIX,greenmandigital.cn
-DOMAIN-SUFFIX,greenmangaming.com
+DOMAIN,api.greenmangaming.com
 
 # > NextDNS
 DOMAIN-SUFFIX,test.nextdns.io
