@@ -120,6 +120,7 @@ DOMAIN,api.statsig.com
 DOMAIN,api.tuisong.baidu.com
 DOMAIN,api.quantumgraph.com
 DOMAIN,api.uca.cloud.unity3d.com
+DOMAIN,api.xsj.wasu.tv // Empty DNS Result
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
