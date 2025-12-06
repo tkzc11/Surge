@@ -166,6 +166,7 @@ DOMAIN,beacon.tingyun.com
 DOMAIN,beacon.wikia-services.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beap-bc.yahoo.com
+DOMAIN,bento.agoda.com
 DOMAIN,bh.contextweb.com
 DOMAIN,bili.acglego-dk.sched.tdnsv2.com
 DOMAIN,brahe.apptimize.com
@@ -511,7 +512,6 @@ DOMAIN,ns.zdbb.net
 DOMAIN,nsclick.baidu.com
 DOMAIN,nt2.ele.me
 DOMAIN,ocean.sankuai.com
-# DOMAIN,ocsp.apple.com
 DOMAIN,officewhatsnew.z13.web.core.windows.net
 DOMAIN,ogads-pa.googleapis.com
 DOMAIN,omns.americanexpress.com
@@ -742,6 +742,7 @@ DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubmcmm.baidustatic.com
 DOMAIN,ubt-sin.tripcdn.com
 DOMAIN,uc.cmd
+DOMAIN,ulogjs.ksapisrv.com
 DOMAIN,um.simpli.fi
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,umini.shujupie.com
@@ -840,6 +841,7 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyer-cn.com
 DOMAIN-SUFFIX,asnapieu.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,azr.footprintdns.com
