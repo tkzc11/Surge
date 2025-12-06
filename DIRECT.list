@@ -49,3 +49,6 @@ DOMAIN,link-ip.nextdns.io
 # > PikPak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
+
+# > Threema
+IP-ASN,29691
