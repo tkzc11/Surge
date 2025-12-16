@@ -268,6 +268,7 @@ DOMAIN,d.impactradius-event.com
 DOMAIN,d1.sina.com.cn
 DOMAIN,d3g.qq.com
 DOMAIN,da.mmarket.com
+DOMAIN,dashboard.heatmap.com
 DOMAIN,dashboard.tinypass.com
 DOMAIN,data.adxcel-ec2.com
 DOMAIN,data.flurry.com
@@ -312,8 +313,10 @@ DOMAIN,edge.fullstory.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
 DOMAIN,entitlements.jwplayer.com
+DOMAIN,error-analytics-sessions-production.shopifysvc.com
 DOMAIN,error-tracking.reddit.com
 DOMAIN,event-tracking.hellohealthgroup.com
+DOMAIN,event.clientgear.com
 DOMAIN,events.mapbox.com
 DOMAIN,events.mz.unity3d.com
 DOMAIN,events.split.io
@@ -484,6 +487,7 @@ DOMAIN,mon.toutiaocloud.net
 DOMAIN,mon.zijieapi.com
 DOMAIN,mon11-misc-lf.amemv.com
 DOMAIN,monitor.music.qq.com
+DOMAIN,monorail-edge.shopifysvc.com
 DOMAIN,mparticle.weather.com
 DOMAIN,mum.alibabachengdun.com
 DOMAIN,mr.fullstory.com
@@ -547,6 +551,7 @@ DOMAIN,pixel.spotify.com
 DOMAIN,pixel-static.spotify.com
 DOMAIN,pixel.wp.com
 DOMAIN,pixel.zprk.io
+DOMAIN,pixeltrack.clientgear.com
 DOMAIN,pixoctopus.pixnet.net
 DOMAIN,ql.njmapp.com
 DOMAIN,pm-gateway.supersonicads.com
@@ -728,6 +733,7 @@ DOMAIN,track.lc.quark.cn
 DOMAIN,track.uc.cn
 DOMAIN,track.uhomes.com
 DOMAIN,tracker.nbcuas.com
+DOMAIN,tracking.carsales.com.au
 DOMAIN,tracking.epicgames.com
 DOMAIN,tracking.mcdonalds.com.cn
 DOMAIN,tracking.intl.miui.com
@@ -737,6 +743,8 @@ DOMAIN,trackingprd.hwwt8.com
 DOMAIN,trackjs.com
 DOMAIN,trc.taboola.com
 DOMAIN,treatment.grammarly.com
+DOMAIN,triplewhale-pixel.web.app
+DOMAIN,trkapi.impact.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,turbo.adsbynimbus.com
 DOMAIN,ubmcmm.baidustatic.com
