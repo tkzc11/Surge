@@ -502,7 +502,7 @@ DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,netapm.music.163.com
 DOMAIN,networksdk.ssacdn.com
-DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
+# DOMAIN,new-aaid.umeng.com.gds.alibabadns.com
 DOMAIN,nex.163.com
 DOMAIN,nexus.ensighten.com
 DOMAIN,nexusrules.officeapps.live.com
