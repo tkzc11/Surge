@@ -436,6 +436,7 @@ DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
 DOMAIN,log.snssdk.com,extended-matching
 DOMAIN,log.umsns.com
+DOMAIN,log-auth.zztfly.com
 DOMAIN,logbk.amemv.com,extended-matching
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
@@ -492,7 +493,6 @@ DOMAIN,mparticle.weather.com
 DOMAIN,mum.alibabachengdun.com
 DOMAIN,mr.fullstory.com
 DOMAIN,msg.qy.net
-DOMAIN,msg.umengcloud.com
 DOMAIN,msga.cupid.iqiyi.com
 DOMAIN,msite.baidu.com
 DOMAIN,mssdk.bytedance.com
@@ -989,7 +989,7 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,ovologysnoops.com
-DOMAIN-SUFFIX,ovscdns.com
+# DOMAIN-SUFFIX,ovscdns.com
 DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,paa-reporting-advertising.amazon
 DOMAIN-SUFFIX,pardot.com
