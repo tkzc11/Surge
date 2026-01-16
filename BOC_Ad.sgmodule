@@ -1,0 +1,11 @@
+#!name=中国银行去广告
+#!desc=中国银行app去广告
+#!author= 思南
+#!category= tkzc11
+
+[MITM] 
+hostname = %APPEND% *.mbs.boc.cn
+
+[Map Local]
+^https?://cdn1.mbs.boc.cn/ubas-mgateway-static/images/advertType/.+.jpg data-type=text data="{}" status-code=200
+^https?://cdn1.mbs.boc.cn/ubas-mgateway-static/images//theme/ data-type=text data="{}" status-code=200
