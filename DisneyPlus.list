@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
 DOMAIN-SUFFIX,starplus.com
 DOMAIN-SUFFIX,starott.com
-# DOMAIN-SUFFIX,media.starott.com //流媒体串流
+# DOMAIN-SUFFIX,media.dssott.com //流媒体串流
 USER-AGENT,Disney+*
-USER-AGENT,Star+*
 PROCESS-NAME,com.disney.disneyplus
-PROCESS-NAME,com.starplus.starplus

@@ -1,0 +1,51 @@
+#!name=AdBlock
+#!desc=去广告合集
+
+[URL Rewrite]
+# > 12123
+^https:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$ - reject
+# > 澳觅
+^https:\/\/interface\.aomiapp\.com\/aomi-ads - reject
+# > 曹操出行
+^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/ - reject
+# > 飞常准
+^https?:\/\/app\.variflight\.com\/(ad|v\d\/advert)\/ - reject
+# > 飞猪
+^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.(allresource|predict) - reject
+^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryloadingbanner - reject
+# > 同程旅行
+^https:\/\/wx\.17u\.cn\/xcxhomeapi\/((aggregator\/index)|(home\/(screen|banner|converge)))$ - reject
+# > 云闪付
+^https:\/\/wallet\.95516\.com(:10533)?\/s\/wl\/icon\/large\/1 - reject
+# > 掌上生活
+^https:\/\/mbasecc\.bas\.cmbchina\.com\/Edge\/api\/mlife\.clientface\.clientservice\.api\.advertiseService\/preCacheAdvertiseSec - reject
+^https:\/\/intellicc\.bas\.cmbchina\.com\/Edge\/api\/mlife\.intelli\.render\.api\.render\/getDynamicDataSec - reject
+# > 中国建设银行
+^http:\/\/image1\.ccb\.com\/newsinfo\/eBranch\/check\/(nf\/newfin\/activity|po\/poortheme\/activity)\/\w+\.png - reject
+^https?:\/\/adv\.ccb\.com\/ebda\/ctm_adv - reject
+# > 中信银行
+^https:\/\/imcs\.citicbank\.com\/cloud\/[a-zA-Z0-9]{32}\.(jpg|jpeg|png)\?width=(5..|6..|7..|1125|1242|1400|1863|1242|1330|1500|1080)&height=(2436|2688|1624|12..|3031|4032|2688|1137|2880|3248|720|23..|1462) - reject
+
+[Map Local]
+# > 东方航空
+^https?:\/\/app\.ceair\.com\/customize\/security\/update data-type=text data=" " status-code=200
+^https?:\/\/app\.ceair\.com\/customize\/main\/adScreen data-type=text data="{}" status-code=200 header="Content-Type:application/json"
+# > KFC
+^https:\/\/res.kfc.com.cn\/advertisement\/ data-type=text data=" " status-code=200
+^https:\/\/dynamicad\.kfc\.com\.cn\/api/app5/homepage/ai/popup data-type=text data=" " status-code=200
+# > 麦当劳
+^https:\/\/api\.mcd\.cn\/bff\/portal\/(richpop|home\/splash) data-type=text data=" " status-code=200
+# > 南方航空
+^https:\/\/3g\.csair\.com\/CSMBP\/bookProcess\/homepopup\/queryAdvertisement data-type=text data=" " status-code=200
+^https:\/\/3g\.csair\.com\/CSMBP\/data\/homePage\/getLaunchInfoNew\.do data-type=text data=" " status-code=200
+
+[Script]
+# > CTM
+CTM = type=http-response, pattern=^https:\/\/www\.ctm\.net\/crm_api\/crm-cms-server\/p\/advertise, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=data-%3Erandom_body
+# > KFC
+KFC = type=http-response, pattern=^https:\/\/res.kfc.com.cn\/CRM\/kfcad\/apphome6\/apphome.*json, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=bootStrapAd-%3Eddgksf2013
+# > Pixiv
+pixivAds = type=http-response, pattern=^https:\/\/oauth\.secure\.pixiv\.net\/(auth\/token), script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pixivAds.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% gab.122.gov.cn, interface.aomiapp.com, www.ctm.net, cap.caocaokeji.cn, ptmpcap.caocaokeji.cn, app.ceair.com, app.variflight.com, res.kfc.com.cn,  dynamicad.kfc.com.cn, api.coolapk.com, cdn.kuaidi100.com, p.kuaidi100.com, mobile-api.imlaidian.com, api.mcd.cn, 3g.csair.com, oauth.secure.pixiv.net, wx.17u.cn, mbasecc.bas.cmbchina.com, intellicc.bas.cmbchina.com, adv.ccb.com, imcs.citicbank.com
