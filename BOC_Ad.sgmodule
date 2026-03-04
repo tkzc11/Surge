@@ -4,7 +4,7 @@
 #!category= tkzc11
 
 [MITM] 
-hostname = %APPEND% cdn1.mbs.boc.cn
+hostname = %APPEND% *.mbs.boc.cn, -smsp.mbs.boc.cn
 
 [Map Local]
 ^https?://cdn1.mbs.boc.cn/ubas-mgateway-static/images/advertType/.+.jpg data-type=text data="{}" status-code=200
