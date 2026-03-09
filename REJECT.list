@@ -37,6 +37,7 @@ DOMAIN,adashx.ut.cainiao.com
 DOMAIN,adashx.ut.ele.me
 DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adashx.ut.hzshudian.com
+DOMAIN,adashx.ut.lazada.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adc-ad-assets.adtilt.com
 DOMAIN,adcdn.tencentmusic.com
@@ -67,6 +68,7 @@ DOMAIN,adtag.sphdigital.com
 DOMAIN,adtrack.quark.cn
 DOMAIN,adttrackingprd.hwwt8.com // Empty DNS Result
 DOMAIN,adstats.tencentmusic.com
+DOMAIN,adv.ccb.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
 DOMAIN,advertise.bczeducation.cn
@@ -187,6 +189,10 @@ DOMAIN,cc-api-data.adobe.io
 DOMAIN,c2shb.ssp.yahoo.com
 DOMAIN,cd.ladsp.com
 DOMAIN,cddp-track.aligames.com
+DOMAIN,cdn1.e.boc.cnhttps
+DOMAIN,cdn2.inner-active.mobi
+DOMAIN,cdn-4.convertexperiments.com
+DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdn.acsbapp.com
 DOMAIN,cdn.adjust.com
 DOMAIN,cdn.appdynamics.com
@@ -210,14 +216,11 @@ DOMAIN,cdn.viglink.com
 DOMAIN,cdn.webpushr.com
 DOMAIN,cdn.wwads.cn
 DOMAIN,cdn.ynuf.aliapp.org
-DOMAIN,cdn-4.convertexperiments.com
-DOMAIN,cdn-settings.appsflyersdk.com
 DOMAIN,cdndns.kwd.inkuai.com
 DOMAIN,cdntm.hsbc.com.au
 DOMAIN,cdntm.hsbc.com.hk
 DOMAIN,cdntm.hsbc.com.sg
 DOMAIN,cdntm.hsbc.com.uk
-DOMAIN,cdn2.inner-active.mobi
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,centralized.zaloapp.com
 DOMAIN,cf.prd.media.h264.io
@@ -236,6 +239,7 @@ DOMAIN,cm.mgid.com
 DOMAIN,cm.rtbsystem.com
 DOMAIN,cmp.quantcast.com
 DOMAIN,cms.quantserve.com
+DOMAIN,cngcf.log-global.aliyuncs.com
 DOMAIN,co.dewrain.life
 DOMAIN,co.vaicore.xyz
 DOMAIN,code.hot-mob.com
