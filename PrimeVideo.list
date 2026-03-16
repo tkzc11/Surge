@@ -9,7 +9,7 @@ DOMAIN,fls-na.amazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazonvideo.com,extended-matching
-DOMAIN-SUFFIX,media-amazon.com
+# DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,avoddashs
