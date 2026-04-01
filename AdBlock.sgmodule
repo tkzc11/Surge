@@ -15,8 +15,6 @@
 ^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryloadingbanner - reject
 # > 同程旅行
 ^https:\/\/wx\.17u\.cn\/xcxhomeapi\/((aggregator\/index)|(home\/(screen|banner|converge)))$ - reject
-# > 云闪付
-^https:\/\/wallet\.95516\.com(:10533)?\/s\/wl\/icon\/large\/1 - reject
 # > 掌上生活
 ^https:\/\/mbasecc\.bas\.cmbchina\.com\/Edge\/api\/mlife\.clientface\.clientservice\.api\.advertiseService\/preCacheAdvertiseSec - reject
 ^https:\/\/intellicc\.bas\.cmbchina\.com\/Edge\/api\/mlife\.intelli\.render\.api\.render\/getDynamicDataSec - reject
@@ -40,12 +38,10 @@
 ^https:\/\/3g\.csair\.com\/CSMBP\/data\/homePage\/getLaunchInfoNew\.do data-type=text data=" " status-code=200
 
 [Script]
-# > CTM
-CTM = type=http-response, pattern=^https:\/\/www\.ctm\.net\/crm_api\/crm-cms-server\/p\/advertise, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=data-%3Erandom_body
 # > KFC
 KFC = type=http-response, pattern=^https:\/\/res.kfc.com.cn\/CRM\/kfcad\/apphome6\/apphome.*json, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js, requires-body=true, max-size=-1, timeout=30, argument=bootStrapAd-%3Eddgksf2013
 # > Pixiv
 pixivAds = type=http-response, pattern=^https:\/\/oauth\.secure\.pixiv\.net\/(auth\/token), script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pixivAds.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
-hostname = %APPEND% gab.122.gov.cn, interface.aomiapp.com, www.ctm.net, cap.caocaokeji.cn, ptmpcap.caocaokeji.cn, app.ceair.com, app.variflight.com, res.kfc.com.cn,  dynamicad.kfc.com.cn, api.coolapk.com, cdn.kuaidi100.com, p.kuaidi100.com, mobile-api.imlaidian.com, api.mcd.cn, 3g.csair.com, oauth.secure.pixiv.net, wx.17u.cn, mbasecc.bas.cmbchina.com, intellicc.bas.cmbchina.com, adv.ccb.com, imcs.citicbank.com
+hostname = %APPEND% gab.122.gov.cn, interface.aomiapp.com, cap.caocaokeji.cn, ptmpcap.caocaokeji.cn, app.ceair.com, app.variflight.com, res.kfc.com.cn,  dynamicad.kfc.com.cn, api.coolapk.com, cdn.kuaidi100.com, p.kuaidi100.com, mobile-api.imlaidian.com, api.mcd.cn, 3g.csair.com, oauth.secure.pixiv.net, wx.17u.cn, mbasecc.bas.cmbchina.com, intellicc.bas.cmbchina.com, adv.ccb.com, imcs.citicbank.com
