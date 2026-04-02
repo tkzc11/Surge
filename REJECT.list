@@ -20,6 +20,7 @@ DOMAIN,ad.bczcdn.com
 DOMAIN,ad.cyapi.cn
 DOMAIN,ad.line-scdn.net
 DOMAIN,ad.tencentmusic.com
+DOMAIN,ad.tencentvideo.com
 DOMAIN,ad.turn.com
 DOMAIN,ad.us.sinaimg.cn
 DOMAIN,ad.wsod.com
@@ -62,12 +63,12 @@ DOMAIN,adservice.sigmob.cn
 DOMAIN,adservice.google.com
 DOMAIN,adservice.google.ru
 DOMAIN,adshows.21cn.com
-DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adtag.sphdigital.com
 DOMAIN,adtrack.quark.cn
 DOMAIN,adttrackingprd.hwwt8.com // Empty DNS Result
 DOMAIN,adstats.tencentmusic.com
+DOMAIN,adstats.tencentvideo.com
 DOMAIN,adv.ccb.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
@@ -398,6 +399,7 @@ DOMAIN,imdns.hpplay.cn
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,increasinglycockroachpolicy.com
 DOMAIN,info.sony-semicon.com
+DOMAIN,info6.video.qq.com
 DOMAIN,init.supersonicads.com
 DOMAIN,int.dewrain.site
 DOMAIN,int.akisinn.info
@@ -763,6 +765,7 @@ DOMAIN,up-hl.3g.qq.com // Under Test
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
 DOMAIN,use1-turn.fpjs.io
+DOMAIN,v2mi.gdt.qq.com
 DOMAIN,vcs.snssdk.com
 DOMAIN,vcs.zijieapi.com
 DOMAIN,vi.freewheel.tv
@@ -914,6 +917,7 @@ DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,giocdn.com
@@ -1073,6 +1077,7 @@ DOMAIN-SUFFIX,tradplusad.com
 DOMAIN-SUFFIX,treasuredata.com
 DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,tvsquared.com
+DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umtrack.com
