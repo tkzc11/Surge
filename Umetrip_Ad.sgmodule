@@ -1,0 +1,11 @@
+#!name=航旅纵横去广告
+#!desc=过滤航旅纵横广告
+#!author=奶思
+#!category=tkzc11
+#!date=2026-04-24
+
+[URL Rewrite]
+^https:\/\/oss\.umetrip\.com\/fs\/advert\/polite reject
+
+[MITM]
+hostname = %APPEND% oss.umetrip.com
