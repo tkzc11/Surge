@@ -316,7 +316,6 @@ DOMAIN,edge.ads.twitch.tv
 DOMAIN,edge.fullstory.com
 DOMAIN,elb.the-ozone-project.com
 DOMAIN,encrypted-tbn1.gstatic.com
-DOMAIN,entitlements.jwplayer.com
 DOMAIN,error-analytics-sessions-production.shopifysvc.com
 DOMAIN,error-tracking.reddit.com
 DOMAIN,event-tracking.hellohealthgroup.com
@@ -954,8 +953,6 @@ DOMAIN-SUFFIX,log.mgtv.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,jwpltx.com
-DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,kampyle.com
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ksyuncdn.com
