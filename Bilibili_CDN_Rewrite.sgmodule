@@ -1,0 +1,13 @@
+#!name=Bilibili CDN Rewrite
+#!desc=Rewrite Bilibili CDN domains
+#!category=tkzc11
+#!date=2026-08-31
+#!arguments=target:upos-sz-estgcos.bilivideo.com
+#!arguments-desc=Target CDN hostname
+
+[MITM]
+hostname = upos-sz-mirror*.bilivideo.com, upos-*-mirrorakam.akamaized.net
+
+[URL Rewrite]
+^https:\/\/upos-sz-mirror.*\.bilivideo\.com\/(.*) https:\/\/{{{target}}}/$1 302
+^https:\/\/upos-.*-mirrorakam\.akamaized\.net\/(.*) https:\/\/{{{target}}}/$1 302
