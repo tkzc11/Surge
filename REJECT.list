@@ -48,6 +48,7 @@ DOMAIN,adclick.tencentmusic.com
 DOMAIN,apex.go.sonobi.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,admarket.21cn.com
+DOMAIN,adlog.e.kuaishou.cn
 DOMAIN,adobeedge.my.gov.au
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,ads5-normal-lf.zijieapi.com
@@ -334,7 +335,7 @@ DOMAIN,fls-na.amazon.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,freestar-io.videoplayerhub.com
 DOMAIN,frontier100-aweme-lf.amemv.com
-DOMAIN,frontier-aweme-hl.snssdk.com,REJECT
+DOMAIN,frontier-aweme-hl.snssdk.com
 DOMAIN,frontier-aweme-lf-ipainner.amemv.com
 DOMAIN,frontier-quic-test.bytedance.com
 DOMAIN,fundingchoicesmessages.google.com
@@ -358,8 +359,9 @@ DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,heic.alicdn.com
 DOMAIN,nbsdk-baichuan.taobao.com
 DOMAIN,hbx.media.net
-DOMAIN,hdns.k-dyn.com,REJECT
+DOMAIN,hdns.k-dyn.com
 DOMAIN,highway-tb.ele.me
+DOMAIN,hilo.bilibili.com // Empty DNS Result
 DOMAIN,hit.api.useinsider.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
@@ -501,6 +503,7 @@ DOMAIN,msga.cupid.iqiyi.com
 DOMAIN,msite.baidu.com
 DOMAIN,mssdk.bytedance.com
 DOMAIN,mtop.ele.me
+DOMAIN,multi-az-ad.kuaishou.com
 DOMAIN,mydmp.exelator.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
@@ -760,8 +763,8 @@ DOMAIN,umini.shujupie.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unet.ucweb.com
 DOMAIN,unknown-api.citymapper.com // Empty DNS Result
-DOMAIN,up-hl.3g.aq.com // Under Test
-DOMAIN,up-hl.3g.qq.com // Under Test
+DOMAIN,up-hl.3g.aq.com // Test
+DOMAIN,up-hl.3g.qq.com // Test
 DOMAIN,uri6.com
 DOMAIN,use1.fptls.com
 DOMAIN,use1-turn.fpjs.io
@@ -804,8 +807,8 @@ DOMAIN,www2.digitalasset.com
 DOMAIN,x.bidswitch.net
 DOMAIN,xlog.snssdk.com
 DOMAIN,ylog.huya.com
-DOMAIN,yun-hl.3g.aq.com // Under Test
-DOMAIN,yun-hl.3g.qq.com // Under Test
+DOMAIN,yun-hl.3g.aq.com // Test
+DOMAIN,yun-hl.3g.qq.com // Test
 DOMAIN,yun.duiba.com.cn
 DOMAIN,z.moatads.com
 DOMAIN,zem.outbrainimg.com
@@ -1021,6 +1024,7 @@ DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,recordedthereby.com
 DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,riskified.com
+DOMAIN-SUFFIX,rtcxyz.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,sandai.net
@@ -1038,6 +1042,7 @@ DOMAIN-SUFFIX,serverbid.com
 DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,share.dnse2.com // Test
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shouji.sougou.com
 DOMAIN-SUFFIX,siftscience.com
@@ -1111,7 +1116,7 @@ DOMAIN-KEYWORD,pcdn-35.biliapi.net
 
 DOMAIN-WILDCARD,p?-ad.adukwai.com
 
-URL-REGEX,^http:\/\/8\.219\.207\.241\/httpdns,REJECT
+URL-REGEX,^http:\/\/8\.219\.207\.241\/httpdns
 URL-REGEX,^http:\/\/203\.119\.206\.8\/\d+\/resolve
 URL-REGEX,^https:\/\/news-sports-events\.apple\.com\/analyticseventsv2
 URL-REGEX,^https:\/\/news-events\.apple\.com\/analyticseventsv2
