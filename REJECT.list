@@ -38,7 +38,6 @@ DOMAIN,adashx.ut.amap.com
 DOMAIN,adashx.ut.cainiao.com
 DOMAIN,adashx.ut.ele.me
 DOMAIN,adashx.ut.fliggy.com
-DOMAIN,adashx.ut.hzshudian.com
 DOMAIN,adashx.ut.lazada.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adc-ad-assets.adtilt.com
@@ -353,7 +352,6 @@ DOMAIN,h-adashx.ut.ele.me
 DOMAIN,h-adashx.ut.cainiao.com
 DOMAIN,h-adashx.ut.dingtalk.com
 DOMAIN,h-adashx.ut.fliggy.com
-DOMAIN,h-adashx.ut.hzshudian.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
 DOMAIN,heic.alicdn.com
@@ -1090,6 +1088,7 @@ DOMAIN-SUFFIX,ulog.gifshow.com
 DOMAIN-SUFFIX,update.nab.com.au
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,ut.hzshudian.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,veta.naver.com
 DOMAIN-SUFFIX,vidoomy.com
