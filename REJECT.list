@@ -67,7 +67,7 @@ DOMAIN,adshows.21cn.com
 DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adtag.sphdigital.com
 DOMAIN,adtrack.quark.cn
-DOMAIN,adttrackingprd.hwwt8.com // Empty DNS Result
+DOMAIN,adttrackingprd.hwwt8.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstats.tencentvideo.com
 DOMAIN,adv.ccb.com
@@ -122,7 +122,7 @@ DOMAIN,api.statsig.com
 DOMAIN,api.tuisong.baidu.com
 DOMAIN,api.quantumgraph.com
 DOMAIN,api.uca.cloud.unity3d.com
-DOMAIN,api.xsj.wasu.tv // Empty DNS Result
+DOMAIN,api.xsj.wasu.tv
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-ad.kajicam.com
@@ -159,7 +159,6 @@ DOMAIN,audiencedata.im-apps.net
 DOMAIN,auth.follow-apps.com
 DOMAIN,auth.split.io
 DOMAIN,baichuan-sdk.alicdn.com
-DOMAIN,basejumper.apple.com // Empty DNS Result
 DOMAIN,bat.bing.com
 DOMAIN,bcp.crwdcntrl.net
 DOMAIN,beacon.cdn.qq.com
@@ -263,6 +262,7 @@ DOMAIN,conduit.redfast.com
 DOMAIN,conf.hpplay.cn
 DOMAIN,control.kochava.com
 DOMAIN,cpro.baidustatic.com
+DOMAIN,crash.xiaohongshu.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,creativecdn.com
 DOMAIN,csi.gstatic.com
@@ -354,7 +354,6 @@ DOMAIN,h-adashx.ut.dingtalk.com
 DOMAIN,h-adashx.ut.fliggy.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,hb.minutemedia-prebid.com
-DOMAIN,heic.alicdn.com
 DOMAIN,nbsdk-baichuan.taobao.com
 DOMAIN,hbx.media.net
 DOMAIN,hdns.k-dyn.com
@@ -393,7 +392,6 @@ DOMAIN,ichnaea-web.netflix.com
 DOMAIN,id.cxense.com
 DOMAIN,id.geistm.com
 DOMAIN,id5-sync.com
-DOMAIN,ilce.alicdn.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,incoming.telemetry.mozilla.org
@@ -438,10 +436,10 @@ DOMAIN,log.api.useinsider.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.mmstat.com
 DOMAIN,log.sina.cn
-DOMAIN,log.snssdk.com,extended-matching
+DOMAIN,log.snssdk.com
 DOMAIN,log.umsns.com
 DOMAIN,log-auth.zztfly.com
-DOMAIN,logbk.amemv.com,extended-matching
+DOMAIN,logbk.amemv.com
 DOMAIN,logbk-qd.amemv.com
 DOMAIN,loggw.alipay.com
 DOMAIN,loggw-ex.alipay.com
@@ -463,7 +461,6 @@ DOMAIN,m.csqtrk.net
 DOMAIN,m.fxtorch.com
 DOMAIN,ma-adx.ctrip.com
 DOMAIN,mail-ads.google.com
-DOMAIN,mam-talker-api.tvb.com // Empty DNS Result
 DOMAIN,marriott.btttag.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.yandex.ru
@@ -565,7 +562,6 @@ DOMAIN,policy.video.iqiyi.com
 DOMAIN,pp.lp4.io
 DOMAIN,pr-bh.ybp.yahoo.com
 DOMAIN,prebid.the-ozone-project.com
-DOMAIN,probe.apple.com // Empty DNS Result
 DOMAIN,puds.ucweb.com
 DOMAIN,puma-api.iqiyi.com
 DOMAIN,px.effirst.com
@@ -637,6 +633,7 @@ DOMAIN,sdk.privacy-center.org
 DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdkapi.netmera.com
 DOMAIN,sdkapicdn.applanga.com
+DOMAIN,sdkgen.data.tianwenca.com
 DOMAIN,sdkreport.e.qq.com
 DOMAIN,sdk-events.inner-active.mobi
 # DOMAIN,searchapi.agoda.com
@@ -654,7 +651,6 @@ DOMAIN,sf1-scmcdn-tos.pstatp.com
 DOMAIN,sf1-scmcdn2-tos.pstatp.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,shftr.adnxs.net
-DOMAIN,singair-d.neolane.net // Empty DNS Result
 DOMAIN,singteloptus.australia-3.evergage.com
 DOMAIN,sis.jpush.io
 DOMAIN,siteimproveanalytics.com
@@ -760,7 +756,6 @@ DOMAIN,umengacs.m.taobao.com
 DOMAIN,umini.shujupie.com
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unet.ucweb.com
-DOMAIN,unknown-api.citymapper.com // Empty DNS Result
 DOMAIN,up-hl.3g.aq.com // Test
 DOMAIN,up-hl.3g.qq.com // Test
 DOMAIN,uri6.com
@@ -779,7 +774,6 @@ DOMAIN,w3-reporting-nel.reddit.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,web-player-tracker.biliapi.net
 DOMAIN,weblog.xiamenair.com
-DOMAIN,websitereview.corp.apple.com // Empty DNS Result
 DOMAIN,wesing-test.tmeoa.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,who.nie.easebar.com
@@ -796,7 +790,6 @@ DOMAIN,www.googleadservices.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.fastly-insights.com
 DOMAIN,www.ihezu.cn
-DOMAIN,www.isstprod.hsbc.com.cn // Empty DNS Result
 DOMAIN,www.lightboxcdn.com
 DOMAIN,www.mokexapp.io
 DOMAIN,www.sinawap.com
@@ -892,7 +885,6 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,ctripgslb.com
-DOMAIN-SUFFIX,d.meituan.net // Empty DNS Result
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,data.adobedc.net
 DOMAIN-SUFFIX,datadoghq.com
